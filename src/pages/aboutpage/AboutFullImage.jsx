@@ -40,7 +40,7 @@ const AboutFullImage = () => {
       <div className="full_center_img">
         <video
           ref={videoRef}
-          src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/scrollvideo.mp4"
+          src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/corporate_video.mp4"
           muted
           playsInline
           preload="metadata"
