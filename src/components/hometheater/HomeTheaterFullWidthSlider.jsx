@@ -3,7 +3,7 @@ import { Keyboard, Autoplay, Pagination, Navigation } from 'swiper/modules';
 import AllProductList from '../../../src/assets/jsonData/product/productlist/ProductList.json'
 import Animation from '../animation/Animation';
 import { Link } from 'react-router-dom';
-import HomeTheaterListSlider from './hometheaterListSlider';
+import HomeTheaterListSlider from './HomeTheaterListSlider';
 
 const CINEMA_IDS = [7,9, 100, 200];
 
