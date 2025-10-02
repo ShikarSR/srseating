@@ -21,7 +21,7 @@ const solutionMenu = [
 ];
 
 const mediaMenu = [
-  { label: 'Blog', url: '/blog', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/blogs.jpg" },
+  { label: 'Blog', url: '/blog', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/Blogs.jpg" },
   { label: 'Resource', url: '/resource', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/Resources.jpg" },
   { label: 'Photo Gallery', url: '/photo-gallery', image:"https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/Photo-Gallery.jpg" },
 ];

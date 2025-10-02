@@ -35,7 +35,7 @@ const SolutionsTestimonial = ({ sectionClass }) => {
                         <div className="col-lg-4">
                             <div className="testimonial-two-info">
                                 <div className="icon">
-                                    <img src={`${import.meta.env.BASE_URL}assets/img/cinema/quote.svg`} alt="Image Not Found" />
+                                    <img src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/cinema/quote.svg" alt="quote" />
                                 </div>
                                 <h2 className='font_42'>Over 1,500+ Projects 
 Across the Globe</h2>
