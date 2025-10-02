@@ -1,0 +1,258 @@
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background: #1e1e2f;
+  color: white;
+  padding: 20px;
+  position: fixed;
+}
+
+.sidebar h2 {
+  margin-bottom: 30px;
+}
+
+.sidebar nav a {
+  display: block;
+  color: white;
+  margin: 10px 0;
+  text-decoration: none;
+}
+.sidebar nav a:hover {
+  color: #00c3ff;
+}
+.contact-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+.contact-table th,
+.contact-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+.contact-table th {
+  background-color: #f4f6f8;
+}
+.status.online {
+  background: #4caf50;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+.status.offline {
+  background: #333;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+
+.d_sidebar_nav{
+  width: auto;
+}
+.d_content_wrapper{
+  width: 83%;
+  margin-left: 205px;
+}
+
+.d_contact_table td, .d_contact_table th {
+    border: 1px solid;
+    padding: 20px;
+}
+
+.left_formbox {
+  width: 850px;
+  height: 550px; 
+  background-color: #fff; 
+  border-radius: 30px;
+  position: absolute; 
+  left: 50%;
+  top: 50%; 
+  transform: translate(-50%, -50%); 
+}
+
+/* Styling the left part of the form to create a visually appealing section */
+.d_signform .left {
+  background-color: #F8D84D; /* Setting a blue background for the left part */
+  width: 50%; /* Setting the width to half of the form */
+  height: inherit; /* Inheriting the height from the form */
+  border-radius:30px 10% 0% 0px; /* Creating a unique rounded corner effect */
+  position: relative; /* Positioning relatively for child elements */
+}
+
+.d_signform .left div {
+  /* Centering content within the left part both horizontally and vertically */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center; /* Centering text */
+  line-height: 40px; /* Adjusting line height for better readability */
+  width: max-content; /* Ensuring the content width is dynamic */
+}
+
+.d_signform .left div p {
+  color: #000; /* Setting text color to white */
+  font-size: 36px; /* Setting font size for headings */
+  margin: 0; /* Removing margins */
+  font-weight: bolder; /* Making the font bolder */
+}
+
+.d_signform .left div a {
+  display: block; /* Displaying links as blocks */
+  color: #000; /* Setting link color to white */
+  text-decoration: none; /* Removing default link underlines */
+  font-size: 14.5px; /* Setting font size for links */
+}
+.d_signform .signIn, .d_signform .signUp{
+        background: #efefef;
+    color: #000 !important;
+    width: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.d_signform .left div input[type="submit"] {
+  /* Styling the submit button on the left side to match the design */
+  border: 2px solid #fff; /* Adding a white border */
+  width: 160px; /* Setting the button width */
+  height: 46px; /* Setting the button height */
+  border-radius: 8px; /* Adding a rounded corner effect */
+  background-color: transparent; /* Making the background transparent */
+  color: #fff; /* Setting text color to white */
+  cursor: pointer; /* Changing the cursor to a pointer */
+  font-size: 16px; /* Setting font size */
+  font-weight: bold; /* Making the font bold */
+}
+
+/* Styling the right part of the form to create a functional section */
+.d_signform .right {
+  width: 100%; /* Setting the width to half of the form */
+  height: 100%; /* Setting the height to full */
+  position: absolute; /* Positioning absolutely */
+  left: 40%; /* Centering horizontally */
+  top: 0; /* Positioning from the top */
+  padding: 40px; /* Adding padding for better spacing */
+  overflow: hidden; /* Hiding any overflow */
+  
+}
+
+.d_signform .right div {
+  /* Centering content within the right part both horizontally and vertically */
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  text-align: left; /* Centering text */
+  transform: translate(-50%, -50%); /* Adjusting position for perfect centering */
+  box-sizing: border-box; /* Ensuring consistent box model */
+}
+
+.d_signform .right h1 {
+  color: #000;
+  font-size: 36px; /* Setting font size for headings */
+  text-align: center; /* Centering text */
+  font-weight: bold; /* Making the font bold */
+}
+
+.d_signform .right input {
+  /* Styling form inputs for better usability and design */
+  padding: 13px 50px 13px 20px; /* Adding padding for better spacing */
+  margin: 10px 0; /* Adding margins for better spacing */
+  background-color: #efefef; /* Setting a light gray background */
+  border: none; /* Removing default borders */
+  border-radius: 8px; /* Adding a rounded corner effect */
+  font-size: 16px; /* Setting font size */
+  width: 100%;
+}
+
+.d_signform .right input:focus {
+  /* Removing outline on focus to improve design consistency */
+  outline-color: transparent;
+}
+
+.d_signform .right div span {
+  /* Positioning icons within the form */
+  position: absolute;
+  left: 85%;
+  display: block;
+}
+
+.d_signform .right .person {
+  top: 23%; /* Positioning the person icon */
+}
+
+.d_signform .right .lock {
+  top: 44%; /* Positioning the lock icon */
+}
+
+.d_signform .right div a {
+  color: #000; /* Setting link color to black */
+  display: block; /* Displaying links as blocks */
+  margin-bottom: 20px; /* Adding margin for better spacing */
+}
+
+.d_signform .right div button {
+  /* Styling the submit button on the right side to match the design */
+  background-color: #F8D84D; /* Setting a blue background */
+  width: 100%; /* Setting the button width to full */
+  height: 48px; /* Setting the button height */
+  /* margin: 20px 0 20px 0; */ /* Optional margin for spacing */
+  color: #fff; /* Setting text color to white */
+  border: none; /* Removing default borders */
+  border-radius: 8px; /* Adding a rounded corner effect */
+  cursor: pointer; /* Changing the cursor to a pointer */
+  font-size: 16px; /* Setting font size */
+  font-weight: bold; /* Making the font bold */
+}
+
+.d_signform .right div p {
+  margin: 15px 0; /* Adding margin for better spacing */
+}
+
+.d_signform .right div div {
+  margin-top: 20px; /* Adding margin for better spacing */
+  top: 100%; /* Positioning relative to the parent */
+  width: 100%; /* Setting the width to full */
+}
+
+.d_signform .right div div a {
+  /* Styling social media icons for better design consistency */
+  display: inline-block; /* Displaying icons inline */
+  margin: 0 8px; /* Adding margin for better spacing */
+  border: 2px solid #ccc; /* Adding a light gray border */
+  padding: 6px 5px 0 5px; /* Adding padding for better spacing */
+  text-align: center; /* Centering text */
+  border-radius: 8px; /* Adding a rounded corner effect */
+  font-size: 24px; /* Setting font size */
+  width: 17%; /* Setting the width as a percentage */
+  height: 50px; /* Setting the height */
+}
+.signIn{
+    background-color: rebeccapurple;
+}
+.remove_formstyle{
+  width: auto;
+    height: auto;
+    position: relative;
+    top: unset;
+    transform: unset;
+    left: 0px;
+}
+.no_acc{
+  font-size: 17px !important;
+  font-weight: 500 !important;
+}
+.d_signin_form .right{
+  width: 50%;
+  left: 46%;
+}
+.d_signin_form .right{
+  width: 50%;
+  left: 46%;
+}
+.singup_form .right{
+    width: 87%;
+    left: 43%;
+}

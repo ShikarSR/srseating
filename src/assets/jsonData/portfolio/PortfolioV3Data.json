@@ -1,0 +1,157 @@
+[
+    
+ {
+        "id": 1,
+        "category": "SR04 - Auditorium",
+        "title": "Basava Samithi, Bangalore ",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery33.jpg"
+    },
+    {
+        "id": 2,
+        "category": "SR04 - Education",
+        "title": "PES University, Bangalore ",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery15.jpg"
+    },
+    {
+        "id": 3,
+            "category": "SR09 - Cinema",
+        "title": "Rajhans Cinemas, Gujarat",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery13.jpg"
+    },
+    {
+        "id": 4,
+      "category": "SR05 - Cinema",
+        "title": "Carnival Cinemas",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery12.jpg"
+    }
+    ,
+    {
+        "id": 5,
+        "category": "SR07 - Cinema",
+        "title": "Palaxi Cinema,  Calicut",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery4.jpg"
+    }
+    ,
+    {
+        "id": 6,
+        "category": "SR07 - Cinema",
+        "title": "NY Cinemas,  Ahmedabad",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery5.jpg"
+    },
+    
+    {
+        "id": 8,
+        "category": "SR09 - Cinema",
+        "title": "Asian Cinemas,  Andhra Pradesh",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery3.jpg"
+    },
+    
+    {
+        "id": 11,
+        "category": "SR02 - Auditorium",
+        "title": "DSCC Auditorium, Wellington",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery9.jpg"
+    },
+    {
+        "id": 12,
+        "category": "SR06 - Auditorium",
+        "title": "Kalaivanar Arangam, Tamil Nadu",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery10.jpg"
+    }
+    ,
+    {
+        "id": 13,
+        "category": "SR02 - Hospitality",
+        "title": "Kalabhavan, Gauribidanur",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery11.jpg"
+    }
+    ,
+      {
+        "id": 15,
+        "category": "SR07 - Cinema",
+        "title": "Cinepolis",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery14.jpg"
+    },
+      {
+        "id": 16,
+        "category": "SR04 - Education",
+        "title": "Manipal University, Bangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery16.jpg"
+    },
+      {
+        "id": 17,
+        "category": "SR04 - Education",
+        "title": "IIT Madras, Chennai",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery18.jpg"
+    },
+      {
+        "id": 18,
+        "category": "SR04 - Education",
+        "title": "KIMS, Hubballi",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery17.jpg"
+    },
+      {
+        "id": 19,
+        "category": "SR06 - Education",
+        "title": "GKVK, Bangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery19.jpg"
+    },
+      {
+        "id": 20,
+        "category": "SR06 - Education",
+        "title": "IIIT, Bangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery20.jpg"
+    },
+     
+      {
+        "id": 23,
+        "category": "SR02 - Auditorium",
+        "title": "Ambedkar Bhavan, Bangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery23.jpg"
+    },
+      
+      {
+        "id": 25,
+        "category": "SR06 - Government",
+        "title": "Townhall, Bangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery25.jpg"
+    },
+      {
+        "id": 26,
+        "category": "SR02 - Government",
+        "title": "Planetarium, Bangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery27.jpg"
+    },
+      {
+        "id": 27,
+        "category": "SR07 - Government",
+        "title": "High Court, Tamil Nadu",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery26.jpg"
+    }
+    ,
+      {
+        "id": 28,
+        "category": "SR300 - Home Theatre",
+        "title": "AI Visualization",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery32.jpg"
+    },
+      {
+        "id": 29,
+        "category": "SR03 - Hospitality",
+        "title": "Sunder Ram Shetty Convention Centre, Mulki",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery29.jpg"
+    },
+      
+      {
+        "id": 30,
+        "category": "SR04 - Hospitality",
+        "title": "Sathya Sai, Puttaparthi",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery30.jpg"
+    },
+      {
+        "id": 31,
+        "category": "SR200 - Home Theatre",
+        "title": "AI Visualization",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/gallery/gallery31.jpg"
+    }
+]

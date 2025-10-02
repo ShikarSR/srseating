@@ -1,0 +1,223 @@
+/* maserati.css */
+
+/* === slider container & slides === */
+.maserati-slider {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  /* we’ll drive the active‑bullet fill via this custom property */
+  /* React will set style="--bullet-progress: XX%;" on this element */
+}
+
+.slide-image {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  position: relative;
+  z-index: 2;
+}
+
+.slide-content {
+  /* position: fixed;
+  bottom:0px;
+  left: 50%;
+  color: white;
+  z-index: 100;
+  transform: translate(-50%,-50%); */
+}
+.about_us_page .slide-content p{
+  line-height: 0px !important;
+}
+.slide-content p {
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  border: 1px solid #F8D84D;
+  background-color: #F8D84D;
+  border-top-left-radius: 15px;
+  padding: 18px 25px;
+  line-height: 0px;
+  min-width: auto;
+  display: inline-block;
+  color: #212B37 !important;
+  text-transform: uppercase;
+}
+.slide-content h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* ==== Arrows ==== */
+.swiper-button-prev,
+.swiper-button-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px; height: 40px;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 30;
+  cursor: pointer;
+}
+.swiper-button-prev { left: 20px; }
+.swiper-button-next { right: 20px; }
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 20px;
+}
+
+/* ==== Controls (slide count + play/pause) ==== */
+.custom-controls {
+  position: absolute;
+  bottom: 107px;
+  right: -66px;
+  transform: translateX(-50%);
+  width: 127px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 14px;
+  pointer-events: none;
+  z-index: 30;
+}
+.custom-controls .pause-btn {
+  pointer-events: all;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  margin-left: 40px;
+  background-color: rgb(0, 0, 0);
+  width: 30px;
+  height: 30px;
+  border-radius: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* ==== Pagination bullets + inner‐fill on active only ==== */
+.external-pagination {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: space-between;
+  width: 8% !important;
+  z-index: 30;
+  pointer-events: all;
+}
+
+/* white track behind everything (optional; you can remove if not needed) */
+.progress-bar {
+  display: none;
+}
+.progress-fill {
+  display: none;
+}
+
+/* every dot */
+.external-pagination .swiper-pagination-bullet {
+  position: relative;
+  width: 21px !important;
+  height: 6.9px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1;
+  overflow: hidden;
+  opacity: 1;
+}
+
+/* active dot */
+.external-pagination .swiper-pagination-bullet-active {
+  background: rgba(255,255,255,0.8);
+  width: 200px !important;
+  border-radius: 60px !important;
+}
+
+/* only the active bullet gets a yellow inner fill */
+.external-pagination .swiper-pagination-bullet-active::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: var(--bullet-progress, 0%);
+  height: 100%;
+  background: #f1c40f;
+  border-radius: 10px;
+  transition: width 0.05s linear;
+  z-index: 2;
+}
+.slide-content-wrapper{
+  width: 680px;
+  position: absolute;
+  bottom: 70px;
+  z-index: 999;
+
+}
+.maserati-slider .pagination-progress .external-pagination {
+  position: relative;
+  left: 96%;
+  bottom: 85px;
+  width: 129px !important;
+}
+.swiper-wrapper span{
+  /* content: ''; */
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  background:linear-gradient(-335deg, black, transparent);
+  height: 100vh;
+  z-index:99;
+  left: 0px;
+  right: 0px;
+}
+.slide-content-wrapper p, .slide-content-wrapper h2, .slide-count{
+color: #fff;
+}
+
+.maserati-slider .swiper-button-prev, .maserati-slider .swiper-button-next{
+  display: none;
+}
+.mobile-sidenav .sr-btn .btn-text{
+  color: #212B37;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.mobile-sidenav .sr-btn
+{
+ background-color:  #F8D84D;
+     padding: 13px 19px;
+    min-width: 20px;
+    height: 45px;
+}
+.mobile-sidenav .sr-btn:hover{
+  background-color: transparent;
+  border: 1px solid #F8D84D;
+}
+.mobile-sidenav .sr-btn:hover .btn-text{
+  color: #F8D84D;
+}
+.mobile-sidenav .sr-btn:hover svg{
+fill: #F8D84D;
+color: #F8D84D;
+}
+.remove_span{
+  color: #212B37;
+  display: block;
+  height: auto;
+}
+.maserati-slider .slide-content-wrapper h2{
+  font-size: 41px;
+}

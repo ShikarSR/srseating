@@ -1,0 +1,3487 @@
+[
+{
+  "id":200,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+
+{
+  "id":1,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR01",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":2,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":3,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":4,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":5,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR05",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":6,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":7,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":8,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":9,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":10,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":11,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":12,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR09",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":13,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR09",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},{
+  "id":14,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},{
+  "id":15,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+},
+{
+  "id":100,
+  "hero": {
+    "tag": "SR FOUR",
+    "headline": "Quietly Comfortable. \nUnmistakably Strong.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "/assets/img/product/header_chair.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#447EBC",
+    "title": "SR04",
+    "types": "SLIDER | TIP-UP BACK PUSH",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth push-back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace.\n\nNo clicks. No jolts. Just seamless support."
+  },
+  "banner_quote": {
+    "tag": "SR FOUR",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair—but they always remember how it made them feel.",
+    "image": "/assets/img/product/home_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "/src/assets/video/header_video.webm"
+    },
+  "minimal_form": {
+    "headline": "Minimal Form.\nMaximum Impact.",
+    "desc": "Clean curves. Compact footprint. Bold presence. SR04 is designed to elevate every space—whether it’s a high-end cinema, a refined auditorium, or a dynamic conference hall.\n\nIts low-profile build ensures unbroken sightlines, while its refined aesthetic blends effortlessly into any environment."
+   
+  },
+  "video": {
+    "video1": "/src/assets/video/video1.mov",
+    "video2": "/src/assets/video/video1.mov",
+    "video3": "/src/assets/video/video1.mov",
+    "video4": "/src/assets/video/video1.mov",
+    "video5": "/src/assets/video/video1.mov",
+    "label": "360",
+    "colors": [
+       "red",
+        "yellow",
+         "orange",
+        "pink",
+        "brown"
+    ]
+  },
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame.\nTwo Functional Styles.",
+    "variants": [
+      {
+        "image": "/assets/img/product/brown-chair.png",
+        "type": "SLIDER",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559 mm | 22 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/tip-up.png",
+        "type": "Tip-Up Back Push",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "533 mm | 21 Inches",
+         "sub_type_two" : "Center-To-Center"
+      },{
+        "image": "/assets/img/product/backfixed.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584 mm | 23 Inches",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "/assets/img/product/couple-chair.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118 mm | 44 Inches",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ],
+    "cta_text": "Download Brochure"
+  },
+  "experience_section": {
+    "years": "25+",
+    "headline": "Years of Experience",
+    "right_headline": "Where Timeless Design Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "Crafted with precision and pride, every detail reflects timeless Indian craftsmanship and artistry."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Engineered for comfort and posture, ensuring support even during long hours of sitting."
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Built with steel and ply, it withstands years of use and heavy footfall."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "Finished with stain-resistant, water-repellent fabric for effortless upkeep and long-lasting beauty."
+      }
+    ]
+  },
+  "details_section": {
+    "label": "SR FOUR",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Specs Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      },
+       {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Al–Wahada Cinemas, Dubai"
+      },
+      {
+        "image": "/assets/img/product/slider1.jpg",
+        "title": "Venue Name 2"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Tailored by You.\nBuilt by Us.",
+    "images": [
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png", 
+      "assets/img/product/Accessories1.png",
+      "assets/img/product/Accessories1.png"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "/assets/img/product/sr1.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More."
+      },
+      {
+        "image": "/assets/img/product/sr2.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention."
+      },
+      {
+        "image": "/assets/img/product/sr4.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime."
+      },
+      {
+        "image": "/assets/img/product/sr3.png",
+        "name": "SR12",
+        "desc": "Where design meets downtime."
+      }
+    ],
+    "cta_text": "Explore Our Collection"
+  }
+}
+
+]

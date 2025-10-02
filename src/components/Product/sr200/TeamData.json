@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "memberThumb": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/detail1.jpg",
+        "memberThumb2": "v4.jpg",
+        "designation": "Durable leatherette blend, tested for >100,000 Martindale cycles"
+        
+    },
+    {
+        "id": 2,
+        "memberThumb": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/detail2.jpg",
+        "memberThumb2": "v4.jpg",
+        "designation": "High-strength HRCA/CRCA sheet metal frame"
+    },
+    {
+        "id": 6,
+        "memberThumb": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/detail6.jpg",
+        "memberThumb2": "v4.jpg",
+        "designation": "Induction heated plywood for lasting strength"
+    }
+    ,
+    
+    {
+        "id": 4,
+        "memberThumb": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/detail3.jpg",
+        "memberThumb2": "v4.jpg",
+        "designation": "High-performance fabric, fire and stain-resistant "
+    }
+    ,
+    {
+        "id": 5,
+        "memberThumb": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/detail5.jpg",
+        "memberThumb2": "v4.jpg",
+        "designation": "Engineered plastic components ensure durable, smooth motion "
+    },
+    {
+        "id": 3,
+        "memberThumb": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/detail3.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "50–55 (±5) kg/m³ PU foam for comfort and support"
+    }
+]

@@ -1,0 +1,3739 @@
+[
+  {
+  "id":300,
+  "hero": {
+    "tag": "SR300",
+    "headline": "Ergonomics \nMade Elegant.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Discover More"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/300.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#434752",
+    "title": "SR300",
+    "types": "SOFA SLIDER ",
+    "desc": "Engineered for long hours, SR 300 pairs posture-smart contours with generous proportions for unforced comfort. A refined, uniform exterior integrates seamlessly across rows, creating visual calm and a premium, cinema-ready presence.  "
+  },
+  "banner_quote": {
+    "tag": "SR300",
+    "headline": "Grace in Motion, \nBuilt to Endure.",
+    "desc": "SR 300 pairs a whisper-quiet push-back recline with generous, posture-smart seating for deep, unforced ease. Molded cushioning, a confident frame, and refined finishes come together for comfort that looks premium, and lasts, show after show. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr300/SR300.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR300.mp4",
+    "youtubeUrl" : "https://youtu.be/77LwnFff6MU"  
+  },
+
+
+      
+  "minimal_form": {
+    "headline": "Strong by Design,\nSoft in Use ",
+    "desc": "Under the refined exterior, SR 300 is all assurance, reliable mechanics, supportive geometry, and materials chosen to wear well. It moves quietly, comforts completely, and keeps your space looking composed. In 100% polyester or premium leatherette, the upholstery wipes clean and wears beautifully over time. "
+   
+  },
+
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR300.mp4" 
+      }
+      
+    }
+  ],
+
+  "variants_section": {
+    "label": "SR300",
+    "headline": "Two Thoughtfully Crafted Sizes, \nOne Design",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr300/300.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "609 mm | 24 in / 660 mm | 26 in",
+         "sub_type_two" : "Center-To-Center"
+
+      }
+    ]
+
+  },
+  "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr300/blue_print.png",
+  "specs": [
+    { "value": "1100 MM", "label": "HEIGHT" },
+    { "value": "609/660 MM", "label": "Center-To-Center" },
+    { "value": "760 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+  "details_section": {
+    "label": "SR300",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [ 
+      {
+        "id": 1,
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr300/SR300.jpg",
+        "description": " AI Visualization"
+
+    }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr15.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More.",
+        "color": "#49597C"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr100.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#D1B035"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":200,
+  "hero": {
+    "tag": "SR 200",
+    "headline": "Recline. Relax. \nRepeat.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/200.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#a83442",
+    "title": "SR200",
+    "types": "SOFA SLIDER",
+    "desc": "Engineered for leisure without compromising performance, the SR 200 is designed for premium cinemas and auditoriums that demand more than just a seat. Its generous proportions and semi-reclining motion invite guests to settle in, while its high-density molded foam contours provide refined posture support from neck to knees. "
+  },
+  "banner_quote": {
+    "tag": "SR200",
+    "headline": "Effortless Motion, \nEnduring Design.",
+    "desc": "From its smooth-gliding semi-recliner slider to its push-back recline mechanism with torsion-spring precision, SR 200 delivers cinema-class comfort with smooth, quiet motion. Fully contoured cushioning, a solid steel frame, and premium finishes make it a seat designed for years of effortless use. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/sr200_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR200.mp4",
+        "youtubeUrl" : "https://youtu.be/WXce7olt_kc"  
+    },
+
+
+      
+  "minimal_form": {
+    "headline": "Built for Comfort,\nCrafted for Longevity.",
+    "desc": "With SR 200, comfort isn’t just a feature, it’s the entire experience, from the smooth ease of its recline to the perfectly sculpted contours that embrace you, all crafted with a quality that keeps the feeling fresh, show after show. \n\nIt’s where design invites you to unwind, and every detail quietly works to make each moment feel like your best seat in the house."
+   
+  },
+
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR200.mp4"
+      }
+      
+    }
+  ],
+"blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/blue_print.png",
+  "specs": [
+    { "value": "1100 MM", "label": "HEIGHT" },
+    { "value": "609/660 MM", "label": "Center-To-Center" },
+    { "value": "740 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Options to Suit.\nEvery Space.",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/sr2001.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "609/660mm | 24/26in.",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/sr2002.png",
+        "type": "Double Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1219mm | 48in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+  "details_section": {
+    "label": "SR200",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [ 
+      {
+        "id": 1,
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr200/sr200_paralax.jpg",
+             "description": " AI Visualization"
+    }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr15.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More.",
+        "color": "#49597C"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr100.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#D1B035"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":100,
+  "hero": {
+    "tag": "SR 100",
+    "headline": "Where Design \nMeets Downtime.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/1001.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#D1B035",
+    "title": "SR100",
+    "types": "SOFA SLIDER",
+    "desc": "This sofa slider is engineered for maximum leisure and reliable performance in premium cinema halls. With generous proportions, SR 100 delivers expansive comfort while maintaining elegant posture support."
+  },
+  "banner_quote": {
+    "tag": "SR100",
+    "headline": "Precision Meets Poise.",
+    "desc": "SR 100 is crafted for endurance and elegance, with denser foam, sculpted geometry, and a structure that supports through every act. Its stitch-free laminated upholstery blends form and durability, turning long sittings into effortless comfort. Every detail works in harmony to deliver lasting comfort.  ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr100/sr100_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR100.mp4",
+        "youtubeUrl" : "https://youtu.be/rtlP05gzKI0"  
+
+    },
+  "minimal_form": {
+    "headline": "Comfort That Adjusts to You. ",
+    "desc": "Thoughtfully contoured with under-thigh humps and bucketed backrests, the SR 100 is designed to embrace the body with precision. Every curve aligns with natural posture, ensuring that each inch contributes to support and ease. Built for long hours, it transforms extended sitting into a relaxed, effortless experience where comfort feels sculpted just for you."
+   
+  },
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR100.mp4"
+      }
+      
+    }
+  ],
+"blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr100/blue_print.png",
+  "specs": [
+    { "value": "1100 MM", "label": "HEIGHT" },
+    { "value": "609/660 MM", "label": "Center-To-Center" },
+    { "value": "700 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "One Form,\nTwo Seating Styles.",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr100/sr1001.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "609/660mm | 22/26in.",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr100/sr1002.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1219mm | 48in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+  "details_section": {
+    "label": "SR100",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+     {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr100/slider1.jpg",
+        "description": " AI Visualization"
+      }
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr12.png",
+        "name": "SR12",
+        "desc": "Designed to Fit More.",
+        "color": "#a83442"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr11.png",
+        "name": "SR11",
+        "desc": "Where design meets downtime.",
+        "color": "#e3ab7f"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+
+{
+  "id":15,
+  "hero": {
+    "tag": "SR15",
+    "headline": "High-Back Design, \nHigher Comfort.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/15.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#49597C",
+    "title": "SR15",
+    "types": "TIP-UP & BACK PUSH \n| Slider  ",
+    "desc": "The SR 15 is built for the modern cinematic experience, where comfort, function, and elegance converge. Its high-back profile supports the head, neck, and shoulders, while the precision push-back or slider mechanism delivers smooth, whisper-quiet motion. "
+  },
+  "banner_quote": {
+    "tag": "SR15",
+    "headline": "Engineered for Every \nSeat in the House.",
+    "desc": "Whether it’s the front row or the back, SR 15 delivers uniform comfort and performance. Designed with under-thigh support, neck, and lumbar cushioning, it keeps guests at ease through long sitting hours. Its high-back profile, adaptable mechanisms, and premium finishes ensure every guest enjoys the same effortless support and distraction-free experience, show after show. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr15/sr15_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR15.mp4",
+      "youtubeUrl" : "https://youtu.be/yd9ScUiYgVc"  
+
+    },
+  "minimal_form": {
+    "headline": "Where Form Meets Endurance.",
+    "desc": "Every line of the SR 15 is shaped with purpose, from its sculpted contours to its refined finishes. Beneath the elegance lies uncompromising strength, premium materials, precision engineering, and durable construction that ensure it looks and performs as beautifully in its hundredth show as it did on opening night. \nA seat built not just to last, but to impress for years to come. "
+   
+  },
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR15.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR15_tipup.mp4"
+      },
+      "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+      
+    }
+  ],
+"blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr15/blue_print.png",
+  "specs": [
+    { "value": "1100 MM", "label": "HEIGHT" },
+    { "value": "609/660 MM", "label": "Center-To-Center" },
+    { "value": "700 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Pick the Style That \n Fits Your Space.",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr15/sr151.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm  | 21in.",
+         "sub_type_two" : "Center-To-Center"
+
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr15/sr152.png",
+        "type": "Slider",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr15/sr153.png",
+        "type": "Couple Chair",
+         "sub_type_one" : "Product Type",
+         "center_to_center": "1118mm | 44in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+  "details_section": {
+    "label": "SR15",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+     
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr15/slider2.jpg",
+        "description": "PVP Multiplex, \nNagercoil"
+      }
+      
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr15.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More.",
+        "color": "#49597C"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr100.png",
+        "name": "SR100",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#D1B035"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":14,
+  "hero": {
+    "tag": "SR14",
+    "headline": "Smart in Space.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/14.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#CC9876",
+    "title": "SR14",
+    "types": "Seat Tip-Up & Back fixed  ",
+    "desc": "SR 14 is engineered for spaces where durability and aesthetics meet. The chair features a fixed backrest with ergonomically contoured wood and a seat tip-up seat that returns smoothly, quietly, and effortlessly. Whether in auditoriums and lecture halls, SR 14 is designed to deliver comfort and sophistication with every use. "
+  },
+  "banner_quote": {
+    "tag": "SR14",
+    "headline": "Design Crafted for \nComfort.",
+    "desc": "Built for lecture halls and seminar rooms,  SR 14 brings together raw elegance and resilient performance. Its exposed wood finish and sturdy steel frame create a refined, long-lasting seating solution, designed to withstand daily use while elevating the environment it inhabits. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr14/sr14_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR14.mp4",
+      "youtubeUrl" : "https://youtu.be/xwyd4uXP14E"  
+
+    },
+  "minimal_form": {
+    "headline": "Enduring Comfort. \nQuiet Confidence.  ",
+    "desc": "SR 14 is built for focus. With its gently curved wooden seat and backrest, the chair supports posture naturally, ideal for long hours. The structure is firm and sturdy. Its fixed-mount design ensures consistent alignment and eliminates any unwanted movement across rows. \nDesigned to stay grounded and built to keep minds engaged.   "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR14.mp4"
+      }
+    }
+  ],
+
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+  "variants_section": {
+    "label": "SR14",
+    "headline": "Elegant Design. \nEfficient Functionality. ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr14/sr141.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "508mm | 20in.",
+         "sub_type_two" : "Center-To-Center"
+
+      }
+    ]
+
+  },
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr14/blue_print.png",
+  "specs": [
+    { "value": "775 MM", "label": "HEIGHT" },
+    { "value": "508 MM", "label": "Center-To-Center" },
+    { "value": "390 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR14",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr14/slider3.jpg",
+        "description": "Navodaya Medical College, \nRaichur"
+      }
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr12.png",
+        "name": "SR12",
+        "desc": "Designed to Fit More.",
+        "color": "#BE444D"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr11.png",
+        "name": "SR11",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#E3AB7F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr10.png",
+        "name": "SR10",
+        "desc": "Where design meets downtime.",
+        "color": "#E87A9F"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":13,
+  "hero": {
+    "tag": "SR13",
+    "headline": "Engineered to \nLean Back.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/13.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#B79787",
+    "title": "SR13",
+    "types": "Tip-Up & Back Push \n| Slider ",
+    "desc": "SR 13 is designed to meet the evolving needs of modern spaces, providing a seamless blend of comfort, durability, and smooth operation. With its precision-engineered push-back system, robust materials, and ultra-quiet operation, it brings a premium seating experience to cinemas and screening halls."
+  },
+  "banner_quote": {
+    "tag": "SR13",
+    "headline": "Effortless Motion. \nEnduring Comfort.",
+    "desc": "High-resilience foam, molded plywood, and ABS back covers offer comfort, durability, and sleek design, with features like PPCP armrests and precision mechanisms for user satisfaction.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr13/sr13_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR13.mp4",
+        "youtubeUrl" : "https://youtu.be/I7s9lltF-vs"  
+
+    },
+  "minimal_form": {
+    "headline": "Silent Precision. \nLong-Lasting Comfort. ",
+    "desc": "SR 13’s torsion spring push-back system offers a smooth, quiet recline, while dual plastic wheels glide effortlessly, ensuring seamless motion with every lean-back. \nBuilt to last with CRCA pipes and reinforced HRCA brackets, this chair is engineered for durability, supporting frequent use in high-traffic environments. "
+   
+  },
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR13.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR13_tipup.mp4"
+      },
+      "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+      
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Compact Design. \nMaximum Comfort.  ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr13/sr131.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+        {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr13/sr132.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr13/blue_print.png",
+  "specs": [
+    { "value": "1100 MM", "label": "HEIGHT" },
+    { "value": "559 MM", "label": "Center-To-Center" },
+    { "value": "640 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR13",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr13/SR13.jpg",
+        "description": " AI Visualization"
+      }
+      
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr12.png",
+        "name": "SR12",
+        "desc": "Designed to Fit More.",
+        "color": "#BE444D"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
+        "name": "SR13",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr11.png",
+        "name": "SR11",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#E3AB7F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/10.png",
+        "name": "SR10",
+        "desc": "Where design meets downtime.",
+        "color": "#E87A9F"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+
+{
+  "id":12,
+  "hero": {
+    "tag": "SR12",
+    "headline": "Elegance Anchored \nin Structure.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/12.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#BE444D",
+    "title": "SR12",
+    "types": "Back fixed & Seat Tip-Up   ",
+    "desc": "SR 12 combines academic functionality with ergonomic comfort, featuring a Tip-up seat and Back push mechanism. The chair provides ample space for engagement without compromising on design. Ideal for institutions, SR 12 is engineered for smooth, quiet movement and long-session comfort, all while maintaining a sleek, professional aesthetic.  "
+  },
+  "banner_quote": {
+    "tag": "SR12",
+    "headline": "Comfort Meets Function.",
+    "desc": "The sculpted seat and back cushions offer posture support, while the aluminum die-cast writing tablet smoothly retracts when not in use. Built with durable materials like hardwood plywood and ABS molded housing, SR 12 is designed to last. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr12/sr12_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR12.mp4",
+      "youtubeUrl" : "https://youtu.be/5V11dhL-4uo"  
+
+    },
+  "minimal_form": {
+    "headline": "Silent Strength.  \nSeamless Function.  ",
+    "desc": "SR 12 moves with you. Powered by torsion springs, the chair mechanism provides smooth, silent movement. The HRCA/CRCA steel framework ensures durability, while the concealed hinge design and integrated writing pad keep the seat’s profile clean and clutter-free. "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR12.mp4"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Versatile Design. \nTailored Comfort. ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr12/sr121.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584mm | 23in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+        {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr12/sr122.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "584mm | 23in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr12/blue_print.png",
+  "specs": [
+    { "value": "995 MM", "label": "HEIGHT" },
+    { "value": "584 MM", "label": "Center-To-Center" },
+    { "value": "840 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR12",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr12/Dayanand_Sagar.jpg",
+        "description": "Dayanand Sagar, \nBangalore"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr9.png",
+        "name": "SR09",
+        "desc": "Designed to Fit More.",
+        "color": "#E88621"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr7.png",
+        "name": "SR07",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#BD9E88"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr11.png",
+        "name": "SR11",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#E3AB7F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr10.png",
+        "name": "SR10",
+        "desc": "Where design meets downtime.",
+        "color": "#E87A9F"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":11,
+  "hero": {
+    "tag": "SR11",
+    "headline": "Sculpted for \nErgonomic Support.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/11.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#E3AB7F",
+    "title": "SR11",
+    "types": "Back fixed & Seat Tip-Up | Back Push  ",
+    "desc": "SR 11 is crafted for high-density environments, delivering ergonomic support in compact spaces. With a center-to-center width of just 508 mm, this seat maximizes seating capacity while optimizing comfort. Whether in lecture halls, training rooms, or auditoriums, SR 11 blends minimalist design with lasting support, making it the ideal choice for spaces where every inch counts.   "
+  },
+  "banner_quote": {
+    "tag": "SR11",
+    "headline": "Smartly Designed \n for Comfort in Every Inch.",
+    "desc": "Sculpted with a tapered seat and sturdy backrest that follows the natural curve of the body. Precision-graded molded foam provides targeted support at the thighs, back, and shoulders. Every curve and cushion is designed to cradle the body, combining structure and softness for a seating experience that feels both supportive and effortless.  ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr11/sr11_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR11.mp4",
+      "youtubeUrl" : "https://youtu.be/If8IN53MYj8"  
+
+    },
+  "minimal_form": {
+    "headline": "Efficient. Silent. Supportive. ",
+    "desc": "With torsion springs supporting the Back fixed and seat Tip-up mechanism, SR 11 operates with silent precision. Built with HRCA/CRCA steel and powder-coated for durability, this chair is designed to withstand the demands of spacious environments while maintaining a sleek, functional presence. "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR11.mp4"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "SR11",
+    "headline": "Minimal Design. \nMaximum Comfort. ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr11/sr111.png",
+        "type": "Tip-Up & Back Push / Back Fixed",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "508mm | 20in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr11/blue_print.png",
+  "specs": [
+    { "value": "835 MM", "label": "HEIGHT" },
+    { "value": "508 MM", "label": "Center-To-Center" },
+    { "value": "460 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR11",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr11/slider1.jpg",
+        "description": "KIMS, Hubli"
+      }
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/09.png",
+        "name": "SR09",
+        "desc": "Designed to Fit More.",
+        "color": "#E88621"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/07.png",
+        "name": "SR07",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#BD9E88"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png",
+        "name": "SR06",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#3EB3C8"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/10.png",
+        "name": "SR10",
+        "desc": "Where design meets downtime.",
+        "color": "#E87A9F"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":10,
+  "hero": {
+    "tag": "SR10",
+    "headline": "Designed to \nSettle In.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/10.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#E87A9F",
+    "title": "SR10",
+    "types": "Tip-Up & Back Push \n| Slider  ",
+    "desc": "SR 10 is where architectural strength meets immersive silence. Built for cinema halls, multiplexes, and home theatres, this chair delivers structured comfort that quietly supports every scene, without ever calling attention to itself. The seamless mechanism ensures effortless reclining with a steady return, maintaining quiet precision.  "
+  },
+  "banner_quote": {
+    "tag": "SR10",
+    "headline": "Support that Doesn’t \n Disrupt Posture.",
+    "desc": "The SR 10 combines a high-pressure plywood base with molded foam cushions to deliver consistent lumbar and shoulder support. With a center-to-center width of 559 mm and 609 mm,  it maximizes space efficiency without compromising comfort, creating a smart, ergonomic seating experience.  ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr10/sr10_paralax.png"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR10.mp4",
+      "youtubeUrl" : "https://youtu.be/9Rcu59Ni3RE"  
+
+    },
+  "minimal_form": {
+    "headline": "Silent Precision. Lasting Impact.  ",
+    "desc": "SR 10 is engineered for quiet strength. Its Tip-up & Back push and Slider mechanism glides with ease, while PVC noise-damping stoppers ensure each recline and return is smooth and silent. Built to last, the powder-coated metal frame and HRCA/CRCA components provide durability for years of use. "
+   
+  },
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR10_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR10.mp4"
+      },
+      "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+      
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "One Design. \nMultiple Comfort Options. ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr10/sr101.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr10/sr102.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559/609mm | 22/24in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr10/blue_print.png",
+  "specs": [
+    { "value": "1150 MM", "label": "HEIGHT" },
+    { "value": "559 MM", "label": "Center-To-Center" },
+    { "value": "640 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR10",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr10/slider1.jpg",
+        "description": "Bharath Cinemas, \nUdupi"
+      }
+    ]
+  },
+   "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/09.png",
+        "name": "SR09",
+        "desc": "Designed to Fit More.",
+        "color": "#E88621"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/07.png",
+        "name": "SR07",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#BD9E88"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png",
+        "name": "SR06",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#3EB3C8"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+        "name": "SR05",
+        "desc": "Where design meets downtime.",
+        "color": "#DDA076"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":9,
+  "hero": {
+    "tag": "SR09",
+    "headline": "Strength in Form.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/09.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#E88621",
+    "title": "SR09",
+    "types": "Tip-Up & Back Push \n| Slider  ",
+    "desc": "Engineered for cinemas, multiplexes, and home theatres, the SR 09 brings together exceptional structure and whisper-quiet performance. Its compact 559 and 609 mm center-to-center design ensures comfort and support without taking up extra space.    "
+  },
+  "banner_quote": {
+    "tag": "SR09",
+    "headline": "Silent, Steady,  \n  Perfectly Aligned  ",
+    "desc": "It settles into place like it was always meant to be there, steady, silent, and in perfect formation. Torsion spring-based back push system enables smooth, quiet movement. Robust CRCA and HRCA components maintain alignment under daily wear and tear.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/sr9_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR09.mp4",
+      "youtubeUrl" : "https://www.youtube.com/watch?v=7N7RHfSyk4g"  
+
+    },
+  "minimal_form": {
+    "headline": "Where Precision Meets Comfort, \nEvery Seat Matters.  ",
+    "desc": "Every component of the chair hides its engineering, so the audience feels only the film. The SR 09 settles into place like it was always meant to be — steady, silent, and perfectly aligned. Torsion spring–based back push ensures smooth, quiet movement, while robust CRCA and HRCA components withstand daily wear. \nFrom multiplexes to corporate screening rooms, SR 09 delivers durability and delight. "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR09_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR09.mp4"
+      },
+     "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Compact Frame. \nSpacious Feel.  ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/sr092.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/sr091.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559/609mm | 22/24in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/blue_print.png",
+  "specs": [
+    { "value": "1100 MM", "label": "HEIGHT" },
+    { "value": "559 MM", "label": "Center-To-Center" },
+    { "value": "700 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR09",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+    
+      
+
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider1.jpg",
+        "description": "PVP Multiplex, \nNagercoil"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider3.jpg",
+        "description": "Shetty Cinemas, \nKarnataka"
+      },
+        
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider7.jpg",
+        "description": "Gold Cinemas"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider9.jpg",
+        "description": "DNC, Dharmapuri"
+      },
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider3.jpg",
+        "description": "Shetty Cinemas, \nKarnataka"
+      }
+    ]
+  },
+  "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png",
+        "name": "SR03",
+        "desc": "Designed to Fit More.",
+        "color": "#B73A55"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/07.png",
+        "name": "SR07",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#BD9E88"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png",
+        "name": "SR06",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#3EB3C8"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+        "name": "SR05",
+        "desc": "Where design meets downtime.",
+        "color": "#DDA076"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":7,
+  "hero": {
+    "tag": "SR07",
+    "headline": "Sleek Frame. \nDeep Comfort.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/07.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#BD9E88",
+    "title": "SR07",
+    "types": "Tip-Up & Back Push \n| Slider  ",
+    "desc": "The chair is engineered for cinematic immersion and designed for spatial intelligence. This signature SR Seating model redefines what premium seating can be. Ideal for cinemas, auditoriums, and home theatres, it delivers unmatched comfort and ambience."
+  },
+  "banner_quote": {
+    "tag": "SR07",
+    "headline": "Ergonomic Ease. \nSpace-Smart Design.  ",
+    "desc": "Thoughtfully contoured with a cradled back and a tapered seat, SR 07 supports posture from head to thigh. With a center-to-center width of just 559 mm, it maximizes space efficiency without compromising seated experience. A seating solution where smart design meets seamless comfort.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/sr7_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR07.mp4",
+      "youtubeUrl" : "https://www.youtube.com/watch?v=7N7RHfSyk4g"  
+
+    },
+  "minimal_form": {
+    "headline": "Smart on Space. \nSoft on the Body.   ",
+    "desc": "With foam-moulded cushions set atop a reinforced plywood base, SR 07 is built for strength you can sit with. Its upholstery, which is sleek, resilient, and precisely stitched, offers a finish that’s as refined as it is enduring. \nStrength you don’t see. Comfort you’ll remember.   "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR07_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR07.mp4"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Multiple Choices. \nOne Seamless Finish.  ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/sr701.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/sr702.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559/609mm | 22/24in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/blue_print.png",
+  "specs": [
+    { "value": "1140 MM", "label": "HEIGHT" },
+    { "value": "559 MM", "label": "Center-To-Center" },
+    { "value": "660 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR07",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/slider1.jpg",
+        "description": "Rohini Cinemas"
+      },
+        {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/SR07_Rakki-Cinemas-Thiruvallur.jpg",
+        "description": "Rakki Cinemas, \nThiruvallur"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/slider6.jpg",
+        "description": "NY Cinemas, \nAhmedabad"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/slider8.jpg",
+        "description": "Cinepolis "
+      }
+      ,
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr7/SR07_PSS-Mulitplex.jpg",
+        "description": "PSS Mulitplex, Tirunelveli "
+      }
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png",
+        "name": "SR03",
+        "desc": "Designed to Fit More.",
+        "color": "#B73A55"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png",
+        "name": "SR04",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#E2A02F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png",
+        "name": "SR06",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#3EB3C8"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+        "name": "SR05",
+        "desc": "Where design meets downtime.",
+        "color": "#DDA076"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":6,
+  "hero": {
+    "tag": "SR06",
+    "headline": "Smart Seating for \nActive Spaces.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#3EB3C8",
+    "title": "SR06",
+    "types": "Tip-Up & Back Push \n| Slider  ",
+    "desc": "Performance Meets Comfort in Every Space.\n \n The SR 06 is built for high-performance environments where comfort and durability are paramount. Its spacious 559 mm center-to-center spacing offers an ideal balance between comfort and capacity, making it a versatile solution for spaces that require both form and function."
+  },
+  "banner_quote": {
+    "tag": "SR06",
+    "headline": "Enduring Build.  \nElegant Posture.   ",
+    "desc": "Crafted for longevity and refined for comfort, SR 06 combines durable plywood and ABS-molded seat and back covers with high-resilience polyurethane foam. The sculpted backrest and tapered seat cushion ensure support and comfort even during extended sessions. SR 06 is built to endure, making it perfect for repeated use in different venues without compromising on style.  ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/sr6_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR06.mp4",
+      "youtubeUrl" : "https://youtu.be/P4NLj2jblVQ"  
+
+    },
+  "minimal_form": {
+    "headline": "Designed for Seamless \nComfort and Stability.  ",
+    "desc": "The SR 06 Push back chair blends motion with stability, featuring engineered plastic wheels and torsion springs for smooth, repeated use in high-footfall spaces. Its movement is quiet, responsive, and almost invisible to the user. Behind the effortless motion lies a strong structure — precision-cut CRCA and HRCA components paired with noise-damping stoppers that absorb impact without a sound. \nCrafted to offer comfort so seamless,  you’ll only notice the performance.  "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR06_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR06.mp4"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Space-Efficient. \nComfort-Focused. ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/sr61.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 21in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/066.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 21in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/blue_print.png",
+  "specs": [
+    { "value": "1010 MM", "label": "HEIGHT" },
+    { "value": "559 MM", "label": "Center-To-Center" },
+    { "value": "620 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR06",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/Crown-Cinemas.jpg",
+        "description": "Crown Cinemas"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/slider2.jpg",
+        "description": "BRS School, \nBangalore"
+      },
+       {
+       "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/slider3.jpg",
+        "description": "Kasi Theatre, Tamil Nadu"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/slider4.jpg",
+        "description": "Father Muller, Mangalore"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/slider5.jpg",
+        "description": "GKVK, Bangalore"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr6/slider6.jpg",
+        "description": "Kalaivanar Arangam, Tamil Nadu"
+      }
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png",
+        "name": "SR03",
+        "desc": "Designed to Fit More.",
+        "color": "#B73A55"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png",
+        "name": "SR04",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#E2A02F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/02.png",
+        "name": "SR02",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#9A8750"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+        "name": "SR05",
+        "desc": "Where design meets downtime.",
+        "color": "#DDA076"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":5,
+  "hero": {
+    "tag": "SR05",
+    "headline": "Crafted for the \nUltimate Comfort.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#DDA076",
+    "title": "SR05",
+    "types": "Tip-Up & Back Push \n| Slider  ",
+    "desc": "Engineered for Uninterrupted Comfort. \n SR 05 is the seat built for the ultimate cinema experience. This chair effortlessly combines ergonomic design with advanced functionality. The spacious 559 mm center-to-center spacing ensures personal comfort, while its sleek design integrates seamlessly into any venue, from grand auditoriums to convention halls. Crafted for those who demand the finest, SR 05 is where comfort meets precision engineering. "
+  },
+  "banner_quote": {
+    "tag": "SR05",
+    "headline": "Smart Materials, \nStrong Build.",
+    "desc": "SR 05’s performance begins with its robust construction. Powder-coated HRCA/CRCA sheet metal parts, flexible polyurethane foam, and precision sheet metal frames ensure this chair is built to last. Its high-density foam cushions provide ergonomic support, while its sleek, space-efficient design maximizes both comfort and capacity.  ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/CS-Cinemas1.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR05.mp4",
+      "youtubeUrl" : "https://youtu.be/iQTHitF03b8"  
+
+    },
+  "minimal_form": {
+    "headline": "Form Crafted for Performance. ",
+    "desc": "Every detail in SR 05 is engineered for performance. From the smooth-gliding recline powered by engineered plastic materials to the noise-damping stoppers, the chair ensures a quiet, effortless experience. \nWhether in a bustling multiplex or a private convention space, SR 05 maintains both style and comfort, creating an immersive environment that supports hours of uninterrupted viewing.    "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR05_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR05.mp4"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Spacious Feel. \nCompact Design.  ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/sr51.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/sr52.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/blue_print.png",
+  "specs": [
+    { "value": "1030 MM", "label": "HEIGHT" },
+    { "value": "559 MM", "label": "Center-To-Center" },
+    { "value": "660 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR05",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/slider1.jpg",
+        "description": "SVC Cinemas, Kurnool" 
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/slider2.jpg",
+        "description": "Babu Cinemas, \nKanchipuram"
+      },
+       {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/slider3.jpg",
+        "description": "Jagadeeswari Cinemas, Andhra Pradesh"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/slider4.jpg",
+        "description": "Carnival Cinemas"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr5/slider2.jpg",
+        "description": "Babu Cinemas, \nKanchipuram"
+      }
+      
+    ]
+  },
+
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png",
+        "name": "SR03",
+        "desc": "Designed to Fit More.",
+        "color": "#B73A55"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png",
+        "name": "SR04",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#E2A02F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/02.png",
+        "name": "SR02",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#9A8750"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/01.png",
+        "name": "SR01",
+        "desc": "Where design meets downtime.",
+        "color": "#447EBC"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id":4,
+  "hero": {
+    "tag": "SR04",
+    "headline": "Engineering Meets \nTimeless Comfort.",
+    "buttons": [
+      { "text": "Get Quote"},
+      { "text": "Download TDS"}
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor" : "#E2A02F",
+    "title": "SR04",
+    "types": "Tip-Up & Back Push \n| Slider  ",
+    "desc": "SR04 delivers what most seats can’t—instant comfort in silence. Its smooth Push back design lets your audience settle in effortlessly, while the intelligent structure responds to body weight with natural grace. \n No clicks. No jolts. Just seamless support. "
+  },
+  "banner_quote": {
+    "tag": "SR04",
+    "headline": "Feel the Design. \nNot the Mechanics.",
+    "desc": "At SR Seating, we believe design should disappear into experience. That’s why SR04 is engineered for quiet operation, smooth movement, and absolute focus. Your audience never notices the chair - but they always remember how it made them feel.  ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/sr4_paralax.jpg"
+  },
+
+   "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR04.mp4",
+      "youtubeUrl" : "https://youtu.be/MG4R07VJ_aY"  
+
+    },
+  "minimal_form": {
+    "headline": "Seating That Brings \nStories to Life. ",
+    "desc": "This chair is designed for cinemas, auditoriums, and home theatres, offering exceptional comfort and ergonomic support. The seat and backrest are made of injection-molded polyurethane foam supported by a durable plywood structure.  \nThe foam is seamlessly wrapped in upholstery, with options for bonded finishes and subtle pattern detailing. Every detail is crafted to transform long hours of sitting into an effortless experience of comfort and style.  "
+   
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR04_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR04.mp4"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+ "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Same Frame. \nDifferent Functional Styles.  ",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/sr41.png",
+        "type": "Slider",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "559mm | 22in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/sr42.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "534mm | 21in.",
+         "sub_type_two" : "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/sr44.png",
+        "type": "Couple Chair",
+        "sub_type_one" : "Product Type",
+        "center_to_center": "1118mm | 44in.",
+         "sub_type_two" : "Center-To-Center"
+      }
+      
+    ]
+
+  },
+ "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+
+
+ 
+ "blue_print_section": {
+  "label": "Quick Specs",
+  "headline": "Blueprints of Comfort.",
+  "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/blue_print.png",
+  "specs": [
+    { "value": "1050 MM", "label": "HEIGHT" },
+    { "value": "534 MM", "label": "Center-To-Center" },
+    { "value": "580 MM", "label": "DEPTH" }
+  ],
+  "cta_text": "Download Tech Data Sheet"
+},
+
+
+  "details_section": {
+    "label": "SR04",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+   "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/SR04_Manipal-University.jpg",
+        "description": "Manipal University, Bangalore"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/SR04_Sathya-Sai.jpg",
+        "description": "Sathya Sai, Puttaparthi"
+      },
+       {
+       "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/SR04_CSR-Cinemas.jpg",
+        "description": "CSR Cinemas"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/SR04_IITM-CHENNAI.jpg",
+        "description": "IIT Madras, Chennai"
+      },
+      {
+         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr4/PES-University.jpg",
+        "description": "PES University, Bangalore"
+      },
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/slide1.webp",
+        "description": "Dindigul Medical College, Tamil Nadu"
+      }
+      
+    ]
+  },
+
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png",
+        "name": "SR03",
+        "desc": "Designed to Fit More.",
+        "color": "#B73A55"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png",
+        "name": "SR04",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#E2A02F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/02.png",
+        "name": "SR02",
+        "desc": "Where Design Meets Downtime.",
+        "color":"#9A8750"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/1001.png",
+        "name": "SR100",
+        "desc": "Where design meets downtime.",
+        "color": "#D1B035"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id": 3,
+  "bg_left_color": "#B73A55",
+  "bg_color": "linear-gradient(to bottom, #B73A55 0%, #d9758b 60%, #fff 100%)",
+  "border_color": "#B73A55",
+  "button_color": "#B73A55",
+  "hero": {
+    "tag": "SR03",
+    "headline": "Built for the \nLong Hours.",
+    "buttons": [
+      { "text": "Get Quote" },
+      { "text": "Download TDS" }
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor": "#B73A55",
+    "title": "SR03",
+    "types": "Tip-Up & Back Push \n| Slider",
+    "desc": "Designed for Comfort, Built for Durability\n \nThe SR 03 is engineered to offer enduring comfort in \nhigh-traffic venues. Its compact 534 mm center-to-center spacing allows for dense seating while ensuring ergonomic support for long durations. With molded foam cushioning, ergonomic design, and high-quality materials, SR 03 is ready for repeated use."
+  },
+  "banner_quote": {
+    "tag": "SR03",
+    "headline": "Refined Engineering  \nfor Repetitive Use.",
+    "desc": "Injection-molded wheels and engineered plastic components allow consistent recline without wear. PVC stoppers reduce metal impact and prolong seat life. Designed to accommodate frequent usage in high-footfall environments. Perfect for venues that require both durability and comfort. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr3/sr3_paralax.jpg"
+  },
+  "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR03.mp4",
+      "youtubeUrl" : "https://youtu.be/TIBKmDH0Zf8"  
+
+  },
+  "minimal_form": {
+    "headline": "Designed for Seamless Comfort.",
+    "desc": "From the smooth Tip-up seat to the gentle Back push recline, the SR 03 is powered by precision-calibrated torsion springs. ABS shell and laminated fabric offer easy cleaning and spill resistance. Vacuum-molded back panels simplify inspection and upkeep. Modular frame components allow easy repair and quick replacements."
+  },
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR03_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR03.mp4"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Compact Frame. \nMaximum Comfort.",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr3/sr31.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one": "Product Type",
+        "center_to_center": "534mm | 21in.",
+        "sub_type_two": "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr3/sr32.png",
+        "type": "Slider",
+        "sub_type_one": "Product Type",
+        "center_to_center": "534mm | 21in.",
+        "sub_type_two": "Center-To-Center"
+      }
+    ]
+  },
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+   "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+  "blue_print_section": {
+    "label": "Quick Specs",
+    "headline": "Blueprints of Comfort.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr3/blue_print.png",
+    "specs": [
+      { "value": "1050 MM", "label": "HEIGHT" },
+      { "value": "534 MM", "label": "Center-To-Center" },
+      { "value": "570 MM", "label": "DEPTH" }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "details_section": {
+    "label": "SR03",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+           "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr3/slider1.jpg",
+        "description": "Sunder Ram Shetty Convention Centre, Mulki"
+      }
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/15.png",
+        "name": "SR15",
+        "desc": "Designed to Fit More.",
+        "color": "#49597C"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr10001.png",
+        "name": "SR100",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#D1B035"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/10.png",
+        "name": "SR10",
+        "desc": "Where Design Meets Downtime.",
+        "color": "#E87A9F"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id": 2,
+  "bg_left_color": "#9A8750",
+  "bg_color": "linear-gradient(to bottom, #9A8750 0%, #c3b27d 60%, #fff 100%)",
+  "border_color": "#9A8750",
+  "button_color": "#9A8750",
+  "hero": {
+    "tag": "SR02",
+    "headline": "Engineered \nfor Durability.",
+    "buttons": [
+      { "text": "Get Quote" },
+      { "text": "Download TDS" }
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/02.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor": "#9A8750",
+    "title": "SR02",
+    "types": "Tip-Up & Back Push \n| Slider",
+    "desc": "SR 02 brings together precision engineering and thoughtful design to maximize seating capacity without compromising comfort. With its Tip-up & Back push and Slider mechanism, SR 02 enables high-density seating while maintaining excellent support and durability."
+  },
+  "banner_quote": {
+    "tag": "SR02",
+    "headline": "Functional Form, \nBuilt for Volume.",
+    "desc": "With a streamlined design, SR 02 is crafted for spaces that require both form and function. Its slim CTC of 508 mm and 559 mm supports dense layouts, while ergonomic design ensures that comfort doesn’t fade even during extended use.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/sr2_paralax.webp"
+  },
+  "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR02.mp4",
+        "youtubeUrl" : "https://youtu.be/t6xfoP0A3Ac"  
+
+  },
+  "minimal_form": {
+    "headline": "Comfort Without the Clutter.",
+    "desc": "Crafted for spaces that need to optimize every inch, SR 02 offers a sleek, efficient design that prioritizes comfort and structure. Its ABS-molded seat and back covers and integrated backrests are perfectly aligned for prolonged comfort while reducing stress on high-pressure areas. From lecture halls to busy auditoriums, SR 02 blends perfectly with your environment, creating an experience that allows the focus to stay where it belongs."
+  },
+"video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR02_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR02.mp4"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
+      }
+    }
+  ],
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "Maximized Seating. \nSimplified Comfort.",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/sr21.png",
+        "type": "Slider",
+        "sub_type_one": "Product Type",
+        "center_to_center": "508/559mm | 20/22in.",
+        "sub_type_two": "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/sr22.png",
+        "type": "Tip-Up & Back Push",
+        "sub_type_one": "Product Type",
+        "center_to_center": "508/559mm | 20/22in.",
+        "sub_type_two": "Center-To-Center"
+      }
+    ]
+  },
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+  "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+  "blue_print_section": {
+    "label": "Quick Specs",
+    "headline": "Blueprints of Comfort.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/blue_print.png",
+    "specs": [
+      { "value": "990 MM", "label": "HEIGHT" },
+      { "value": "580 MM", "label": "Center-To-Center" },
+      { "value": "710 MM", "label": "DEPTH" }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "details_section": {
+    "label": "SR04",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/SR02_New Horizon International School.webp",
+        "description": "New Horizon International School, Bangalore"
+      },
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/sr2_paralax.webp",
+        "description": "Vythri Village, Wayanad"
+      },
+       
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/slide5.webp",
+        "description": "DSCC Auditorium, \nWellington"
+      }
+      ,
+       
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/Ambedkar bhavan.jpg",
+        "description": "Ambedkar Bhavan, Bangalore"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr2/Dindigul-Medical-College.jpg",
+        "description": "Dindigul Medical College, Tamil Nadu"
+      }
+    ]
+  },
+   "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/01.png",
+        "name": "SR01",
+        "desc": "Designed to Fit More.",
+        "color": "#447EBC"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+        "name": "SR05",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#DDA076"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/13.png",
+        "name": "SR13",
+        "desc": "Where Design Meets Downtime.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+},
+{
+  "id": 1,
+  "bg_left_color": "#447EBC",
+  "bg_color": "linear-gradient(to bottom, #447EBC 0%, #7daae0 60%, #fff 100%)",
+  "border_color": "#447EBC",
+  "button_color": "#447EBC",
+  "hero": {
+    "tag": "SR01",
+    "headline": "Engineered \nfor Excellence.",
+    "buttons": [
+      { "text": "Get Quote" },
+      { "text": "Download TDS" }
+    ],
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/01.png"
+  },
+  "overview": {
+    "boxtextcolor": "#fff",
+    "boxcolor": "#447EBC",
+    "title": "SR01",
+    "types": "TIP-UP Back fixed \n| Back Push",
+    "desc": "A Seat Built for Comfort and Ease.\n \nEvery curve supports your posture. Every mechanism respects your silence. From the high-resilience polyurethane foam to the torsion-controlled Back fixed & Seat Tip-up, every element of SR 01 is crafted for stillness. Built by SR Seating, where less is beautifully more."
+  },
+  "banner_quote": {
+    "tag": "SR01",
+    "headline": "Compact. \nComfortable. Clear ",
+    "desc": "This chair is designed for auditoriums, lecture halls, and training spaces where clarity, comfort, and durability come first. SR 01 brings together thoughtful ergonomics and a sturdy structure in a compact footprint. ",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr1/sr1_paralax.jpg"
+  },
+  "scroll_video": {
+    "videoUrl": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/product-video/SR01.mp4",
+        "youtubeUrl" : "https://youtu.be/Qj-OM22mVGE"  
+
+  },
+  "minimal_form": {
+    "headline": "Effortless Recline, \nSeamless Transitions.",
+    "desc": "With a fluid, silent motion engineered for seamless transitions, the Back fixed & Seat Tip-up and Back push mechanism lets users recline naturally without buttons or effort. Just a gentle motion, effortlessly supported by a precision-engineered backrest. \nExperience a seat that moves as gracefully as your audience deserves."
+  },
+ "video": [
+    {
+      "buttons": {
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR01.mp4"
+      }
+    }
+  ],
+  "variants_section": {
+    "label": "VARIANTS",
+    "headline": "The Seating Choice \nThat Works for You.",
+    "variants": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr1/sr1.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one": "Product Type",
+        "center_to_center": "508mm | 20in.",
+        "sub_type_two": "Center-To-Center"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr1/sr2.png",
+        "type": "Back Fixed & Seat Tip-Up",
+        "sub_type_one": "Product Type",
+        "center_to_center": "508mm | 20in.",
+        "sub_type_two": "Center-To-Center"
+      }
+    ]
+  },
+  "experience_section": {
+    "years": "30+",
+    "headline": "DESIGN REGISTRATIONS",
+    "right_headline": "Where Timeless\nDesign Meets\nTrusted Execution.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discover",
+        "desc": "We begin by listening. From site surveys and seating capacity to comfort levels, audience profiles, and space design, every detail is captured. By blending your inspirations with global benchmarks, we set the foundation for a seating experience that feels truly yours."
+      },
+      {
+        "number": "02",
+        "title": "Design",
+        "desc": "Insights turn into a clear plan. Layouts are designed to balance comfort and revenue, while materials and upholstery align seamlessly with your brand, budget, and timelines. The outcome is a detailed seating layout along with chair models that capture purpose and precision.  "
+      },
+      {
+        "number": "03",
+        "title": "Develop",
+        "desc": "Once the models are approved, the journey moves into production. 2D/3D layouts and prototypes transition into full-scale manufacturing, where every chair is engineered with precision. Finishes, ergonomics, and branding details are perfected along the way, ensuring each seat reflects both vision and function."
+      },
+      {
+        "number": "04",
+        "title": "Deliver",
+        "desc": "The journey concludes with flawless execution. World-class manufacturing, expert installation, and rigorous quality checks bring the project to life. With warranties and maintenance options, the chairs continue to deliver comfort and reliability long after installation.   "
+      }
+    ]
+  },
+  "blue_print_section": {
+    "label": "Quick Specs",
+    "headline": "Blueprints of Comfort.",
+    "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr1/blue_print.png",
+    "specs": [
+      { "value": "990 MM", "label": "HEIGHT" },
+      { "value": "580 MM", "label": "Center-To-Center" },
+      { "value": "408 MM", "label": "DEPTH" }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "details_section": {
+    "label": "SR01",
+    "headline": "Details That Do More.",
+    "features": [
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Epoxy Coated 70–80 micron electrostatic powder finish."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Durable Fabric 100% polyester synthetic upholstery."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "High-Density Foam PU foam, 50–55kg/m³ ergonomic support."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Fire Retardant Meets ISO 3795 & FMVSS 302 standards."
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Torison spring/spring steel IS 4454 1981 Grade III"
+      },
+      {
+        "icon": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sricon.svg",
+        "desc": "Sheet Metal component HRCA Bars"
+      }
+    ],
+    "cta_text": "Download Tech Data Sheet"
+  },
+  "projects_carousel": {
+    "label": "PROJECTS",
+    "headline": "Our Work. Their Experience.",
+    "projects": [ 
+
+    
+     {
+          "id": 1,
+    "description": "Reva University, \nBangalore",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr1/slider2.jpg"
+          
+        }
+
+    
+       
+    ]
+  },
+ "accessories_section": { 
+    "label": "ACCESSORIES",
+    "headline": "Small Things, Big.\nDifference.",
+    "images": [
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Embroidery.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Chair_Numbering.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Accessories.png",
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Swivel_Table.png", 
+      "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/holders.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Electric_Powerpoint.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/row_Numbering.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/USB_Port.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Aluminium.png",
+       "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/Privacy_Panel.png"
+
+    ],
+   "sub_img_title": [
+  "Embroidery Logo",
+  "Chair Numbering",
+  "Armrest Variants",
+  "Swivel Table",
+  "Built-In Cup Holders",
+  "Electric Powerpoint",
+  "Row Numbering Systems with LED aisle lighting",
+  "USB Port",
+  "Aluminium Die-Casted Writing Tablet",
+  "Privacy Panel"
+    ],
+    "desc": "Accessories that adapt to your audience, venue, and vision. Choose your fabric. Choose your finish. Choose how every seat performs.\n<b>Disclaimer:</b> Accessories are model-dependent and may vary in design and availability. Final customization options will be confirmed based on seating configuration, venue type, and project requirements."
+  },
+  "models_section": {
+    "label": "MORE SEATING. MORE POSSIBILITIES.",
+    "headline": "Discover Models Tailored\nfor Every Kind of Audience.",
+    "models": [
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/01.png",
+        "name": "SR01",
+        "desc": "Designed to Fit More.",
+        "color": "#447EBC"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+        "name": "SR05",
+        "desc": "Bolder Dimensions. Better Attention.",
+        "color": "#DDA076"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/13.png",
+        "name": "SR13",
+        "desc": "Where Design Meets Downtime.",
+        "color": "#B79787"
+      },
+      {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/14.png",
+        "name": "SR14",
+        "desc": "Where design meets downtime.",
+        "color": "#CC9876"
+      }
+    ],
+    "cta_text": "Discover More"
+  }
+}
+
+
+
+]

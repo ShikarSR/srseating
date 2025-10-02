@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "memberThumb": "detail1.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "Epoxy Coated 70–80 micron  electrostatic powder finish."
+        
+    },
+    {
+        "id": 2,
+        "memberThumb": "detail2.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "Durable Fabric 100% polyester synthetic upholstery."
+    },
+    {
+        "id": 3,
+        "memberThumb": "detail3.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "High-Density Foam PU foam,  50–55kg/m³ ergonomic support."
+    },
+    
+    {
+        "id": 4,
+        "memberThumb": "detail4.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "Fire Retardant Meets  ISO 3795 & FMVSS 302 standards."
+    }
+    ,
+    {
+        "id": 5,
+        "memberThumb": "detail5.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "Torison spring/spring steel IS 4454 1981 Grade III"
+    },
+    {
+        "id": 6,
+        "memberThumb": "detail6.png",
+        "memberThumb2": "v4.jpg",
+        "designation": "Sheet Metal component HRCA Bars"
+    }
+]

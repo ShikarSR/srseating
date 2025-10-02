@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "testimonial": "It’s been year’s long association of us with SR Seating Pvt Ltd. SR Seating has always excelled in quality, execution, and after-sales service. Their seats are very comfortable, and we have always received positive feedback from our patrons. We are proud to have their cinema seating chairs installed at many of our iconic properties like Mall of Travancore (Trivandrum), Carnival Cinemas (Kariyad), EVP (Chennai), H&J Mall (Karunagapally), Rockline Mall (Bangalore), and many more. It’s our pleasure to have relations with SR Seating, and we will continue this bond for the coming years.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/sunil.png",
+        "client_name": "PV Sunil",
+        "designation":"Carnival Cinemas"
+    },
+      
+       {
+        "id": 5,
+        "testimonial": "The day we decided to refurbish the screens and give our best to our audience, around the year 2006-07, we did a lot of spadework and finalized SR seating. We liked the models, fit, and finish. But most of all, we shared the passion of creating happiness among our audience. Our decision to choose SR seating was great as the quality of seats was better than expected. It gave us the lead ahead in business as the audience enjoyed the luxurious chairs. I genuinely appreciate the effort taken by the SR Seating team, their commitment, and passion. The seats are still serving me well even now. Later on, I had ordered seats for another 5-6 screens. I had asked the team to change the seats at Krishnalaya, the first theatre – crossed 14 years now, and they sent a team to inspect. They assured me that we need not change the seats, but just replace the cushions. They promised that the seats would last a couple more years, with the same comfort level. That’s the kind of surety the have in figures and statistics when it comes to theatres. I feel we are gifted and lucky to have someone like Mr. Amit and his SR Seating team to support the theatres’ needs. Not alone in seating but also in knowledge and dedication in providing the best possible solutions for our theatre screens and business.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/dorairaj.png",
+        "client_name": "Dorairaj",
+        "designation":"M.D at GRK Theatres"
+    },   {
+        "id": 7,
+        "testimonial": "The quality of seating manufactured from SR Seating is unmatched. Surprisingly, such great quality seats come at prices that are great value for money.  SR Seating chairs are installed in Mahabir Jian, Municipal Cultural Hall, Jigani, Murshidabad, West Bengal. The quality of the seats is ‘A’ class. The structure of the seats fit a person of any age and are made comfortable for all. It has been three years since I had the seats; the cushions are still soft and look new.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/uttam.png",
+        "client_name": "Uttam Podder",
+        "designation":"Customer"
+    },    {
+        "id": 8,
+        "testimonial": "The chairs are of good quality. We have been using the chairs for almost 8 years now and we are happy with the quality. There are no complaints. If I compare it with all the competitor seats available, I would say that it’s value of money. The seats are very comfortable. The neck and back support is really good. The pushback mechanism is also nice. I am happy with the service provided by SR Seating.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/anoop.png",
+        "client_name": "Anoop K Naroor",
+        "designation":" Aura Cinemas, Owner"
+                            
+    },  
+      {
+        
+        "id": 9,
+        "testimonial": "The quality of seating manufactured from SR Seating is unmatched. Surprisingly, such great quality seats come at prices that are great value for money. The seats are comfortable to our customers and we are very happy with their service provided.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/haneeth.png",
+        "client_name": "Haneeth",
+        "designation":"Sairam Vijayawada, Owner"
+    },    {
+        "id": 10,
+        "testimonial": "We have a water park in Rajkot, Gujarat, called the Jolly Enjoy Waterpark. As part of the water park, we have a theatre, and we have seats from SR Seating, Bengaluru, installed in there. We are pleased with the services rendered, the quality is outstanding, and the delivery was on-time. Amit is a great person to work with, and I have had a great experience with SR Seating.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/ramzan.png",
+        "client_name": "Ramzan Halani",
+        "designation":"Jolly Enjoy Waterpark"
+    },    {
+        "id": 11,
+        "testimonial": "Quality is quite good. It’s well suited to every kind of body type. We are also very happy with the prices. As a matter of fact, it’s a great deal. The chairs are uber comfortable. You can just glide into it. That’s the best aspect of them. We are immensely satisfied with the product and the service.",
+        "img":"https://srseating.blr1.cdn.digitaloceanspaces.com/image/testimonial/vinay.png",
+        "client_name": "Vinay Kumar Reddy",
+        "designation":"Manasa Theatre, Owner"
+    }
+]

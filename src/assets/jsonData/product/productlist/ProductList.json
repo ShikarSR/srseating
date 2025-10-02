@@ -1,0 +1,189 @@
+  [
+  {
+    "id": 1,
+    "tag": "SR01",
+    "product_desc": "Engineered for Excellence.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/01.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#447EBC",
+    "bg_color": "linear-gradient(to bottom, #447EBC 0%, #7daae0 60%, #fff 100%)",
+    "border_color": "#447EBC",
+    "button_color": "#447EBC"
+  },
+  {
+    "id": 2,
+    "tag": "SR02",
+    "product_desc": "Engineered for Durability. ",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/02.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#9A8750",
+    "bg_color": "linear-gradient(to bottom, #9A8750 0%, #c3b27d 60%, #fff 100%)",
+    "border_color": "#9A8750",
+    "button_color": "#9A8750"
+  },
+  {
+    "id": 3,
+    "tag": "SR03",
+    "product_desc": "Built for the Long Haul.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#B73A55",
+    "bg_color": "linear-gradient(to bottom, #B73A55 0%, #d9758b 60%, #fff 100%)",
+    "border_color": "#B73A55",
+    "button_color": "#B73A55"
+  },
+  {
+    "id": 4,
+    "tag": "SR04",
+    "product_desc": "Engineering Meets Timeless Comfort",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#E2A02F",
+    "bg_color": "linear-gradient(to bottom, #E2A02F 0%, #edc273 60%, #fff 100%)",
+    "border_color": "#E2A02F",
+    "button_color": "#E2A02F"
+  },
+  {
+    "id": 5,
+    "tag": "SR05",
+    "product_desc": "Crafted for the Ultimate Comfort.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#DDA076",
+    "bg_color": "linear-gradient(to bottom, #DDA076 0%, #edc3a7 60%, #fff 100%)",
+    "border_color": "#DDA076",
+    "button_color": "#DDA076"
+  },
+  {
+    "id": 6,
+    "tag": "SR06",
+    "product_desc": "Smart Seating for Active Spaces.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#3EB3C8",
+    "bg_color": "linear-gradient(to bottom, #3EB3C8 0%, #7ecfda 60%, #fff 100%)",
+    "border_color": "#3EB3C8",
+    "button_color": "#3EB3C8"
+  },
+  {
+    "id": 7,
+    "tag": "SR07",
+    "product_desc": "Sleek Frame. Deep Comfort. ",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/07.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#BD9E88",
+    "bg_color": "linear-gradient(to bottom, #BD9E88 0%, #d7bdaa 60%, #fff 100%)",
+    "border_color": "#BD9E88",
+    "button_color": "#BD9E88"
+  },
+  {
+    "id": 9,
+    "tag": "SR09",
+    "product_desc": "Strength in Form.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/09.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#E88621",
+    "bg_color": "linear-gradient(to bottom, #E88621 0%, #f1b366 60%, #fff 100%)",
+    "border_color": "#E88621",
+    "button_color": "#E88621"
+  },
+  {
+    "id": 10,
+    "tag": "SR10",
+    "product_desc": "Designed to Settle In.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/10.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#E87A9F",
+    "bg_color": "linear-gradient(to bottom, #E87A9F 0%, #f1b2c8 60%, #fff 100%)",
+    "border_color": "#E87A9F",
+    "button_color": "#E87A9F"
+  },
+  {
+    "id": 11,
+    "tag": "SR11",
+    "product_desc": "Sculpted for Ergonomic Support.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/11.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#E3AB7F",
+    "bg_color": "linear-gradient(to bottom, #E3AB7F 0%, #efcbb0 60%, #fff 100%)",
+    "border_color": "#E3AB7F",
+    "button_color": "#E3AB7F"
+  },
+  {
+    "id": 12,
+    "tag": "SR12",
+    "product_desc": "Elegance Anchored in Structure.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/12.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#BE444D",
+    "bg_color": "linear-gradient(to bottom, #BE444D 0%, #d97d84 60%, #fff 100%)",
+    "border_color": "#BE444D",
+    "button_color": "#BE444D"
+  },
+  {
+    "id": 13,
+    "tag": "SR13",
+    "product_desc": "Engineered to Lean Back.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/13.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#B79787",
+    "bg_color": "linear-gradient(to bottom, #B79787 0%, #d1b6a9 60%, #fff 100%)",
+    "border_color": "#B79787",
+    "button_color": "#B79787"
+  },
+  {
+    "id": 14,
+    "tag": "SR14",
+    "product_desc": "Smart in Space.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/14.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#CC9876",
+    "bg_color": "linear-gradient(to bottom, #CC9876 0%, #dfbda6 60%, #fff 100%)",
+    "border_color": "#CC9876",
+    "button_color": "#CC9876"
+  },
+  {
+    "id": 15,
+    "tag": "SR15",
+    "product_desc": "Built to Adapt. ",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/15.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#49597C",
+    "bg_color": "linear-gradient(to bottom, #49597C 0%, #7a86a1 60%, #fff 100%)",
+    "border_color": "#49597C",
+    "button_color": "#49597C"
+  },
+  {
+    "id": 100,
+    "tag": "SR100",
+    "product_desc": "Where Design Meets Downtime.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/0100.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#D1B035",
+    "bg_color": "linear-gradient(to bottom, #D1B035 0%, #e0cb79 60%, #fff 100%)",
+    "border_color": "#D1B035",
+    "button_color": "#D1B035"
+  },
+  {
+    "id": 200,
+    "tag": "SR200",
+    "product_desc": "Crafted for Impact.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/200.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#a83442",
+    "bg_color": "linear-gradient(to bottom, #a83442 0%, #d98288 60%, #fff 100%)",
+    "border_color": "#a83442",
+    "button_color": "#a83442"
+  },
+  {
+    "id": 300,
+    "tag": "SR300",
+    "product_desc": "Crafted for Impact.",
+    "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/300.png",
+    "button_txt": "Discover More",
+    "bg_left_color": "#434752",
+    "bg_color": "linear-gradient(to bottom, #434752 0%, #434752 60%, #fff 100%)",
+    "border_color": "#434752",
+    "button_color": "#434752"
+  }
+]
