@@ -25,3 +25,5 @@ y
 *.sln
 *.sw?
 public.zip
+
+node_modules
