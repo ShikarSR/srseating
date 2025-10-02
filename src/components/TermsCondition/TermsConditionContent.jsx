@@ -1,5 +1,4 @@
 import SocialShare from '../utilities/SocialShare';
-import BlogPostComments from '../blog/BlogPostComments';
 import BlogCommentForm from '../form/BlogCommentForm';
 import RecentPostsWidget from '../widgets/RecentPostsWidget';
 import FollowWidget from '../widgets/FollowWidget';

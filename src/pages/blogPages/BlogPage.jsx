@@ -1,4 +1,4 @@
-import BlogSingleContent from '@/components/blog/BlogSingleContent';
+// import BlogSingleContent from '@/components/blog/BlogSingleContent';
 import BlogData from '@/assets/jsonData/blog/BlogData.json';
 import BodyClassV2 from '@/components/classes/BodyClassV2';
 import LayoutV5 from '@/components/layouts/LayoutV5';

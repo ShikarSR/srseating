@@ -1,33 +1,27 @@
 import { Link } from 'react-router-dom';
 import React, { useState } from 'react';
-import ourstory from '/assets/img/nav/banner2.jpg'
-import leadership from '/assets/img/nav/banner3.jpg'
-import manufacturing from '/assets/img/nav/blog1.jpg'
-import innovation from '/assets/img/nav/banner2.jpg'
-import cinema from '/assets/img/nav/banner2.jpg'
-import mediadefault from '/assets/img/nav/banner2.jpg'
 
 const aboutMenuItems = [
-{ label: 'Our Story', img: ourstory },
-{ label: 'Leadership', img: leadership },
-{ label: 'Manufacturing', img: manufacturing },
-{ label: 'Innovation', img: innovation },
+{ label: 'Our Story', img: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/ourstory.jpg" },
+{ label: 'Leadership', img: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner3.jpg" },
+{ label: 'Manufacturing', img: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/blog1.jpg"},
+{ label: 'Innovation', img: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner2.jpg" },
 ];
 
 
 const solutionMenuItems = [
-{ label: 'Cinema', img: '/assets/img/nav/banner2.jpg' },
-{ label: 'Auditorium', img: '/assets/img/nav/banner3.jpg' },
-{ label: 'Educational Institutions', img: '/assets/img/nav/blog1.jpg' },
-{ label: 'Hospitality & Convention', img: '/assets/img/nav/banner3.jpg' },
-{ label: 'Defense & Government Venue', img: '/assets/img/nav/banner2.jpg'},
-{ label: 'Home Theatre', img: '/assets/img/nav/blog1.jpg' },
+{ label: 'Cinema', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner2.jpg' },
+{ label: 'Auditorium', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner3.jpg' },
+{ label: 'Educational Institutions', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/blog1.jpg' },
+{ label: 'Hospitality & Convention', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner3.jpg' },
+{ label: 'Defense & Government Venue', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner2.jpg'},
+{ label: 'Home Theatre', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/blog1.jpg' },
 ];
 
 const mediaMenuItems = [
-{ label: 'Blog', img: '/assets/img/nav/banner2.jpg' },
-{ label: 'Resource', img: '/assets/img/nav/banner3.jpg' },
-{ label: 'Photo Gallery', img: '/assets/img/nav/blog1.jpg' }
+{ label: 'Blog', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner2.jpg' },
+{ label: 'Resource', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/banner3.jpg' },
+{ label: 'Photo Gallery', img: 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/blog1.jpg' }
 ];
 
 const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
@@ -116,7 +110,7 @@ const [openDropdown, setOpenDropdown] = useState(false);
 
                         <div className="dropdown_img">
                             {/* <img src={ourstory} alt="" /> */}
-                             <img src={aboutHoverImg || ourstory } alt="" />
+                             <img src={aboutHoverImg  } alt="" />
                         </div>
                     {/* </div> */}
                     </ul>
@@ -153,7 +147,7 @@ const [openDropdown, setOpenDropdown] = useState(false);
                         </div>
 
                         <div className="dropdown_img">
-                            <img src={solutionHoverImg || cinema} alt="" />
+                            <img src={solutionHoverImg } alt="" />
                         </div>
                     </ul>
                 </li>
@@ -226,7 +220,7 @@ const [openDropdown, setOpenDropdown] = useState(false);
                         </div>
 
                         <div className="dropdown_img">
-                            <img src={mediaHoverImg || mediadefault } alt="" />
+                            <img src={mediaHoverImg } alt="" />
                         </div>
                     </ul>
                 </li>

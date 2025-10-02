@@ -1,9 +1,6 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Keyboard, Autoplay, Pagination, Navigation } from 'swiper/modules';
-import team1 from "/assets/img/team/v1.jpg"
-import team2 from "/assets/img/team/v2.jpg"
-import quote from "/assets/img/quote.png"
-import { Link } from 'react-router-dom';
+
 
 const ProductSameFrame = ({ sectionClass, data }) => {
 

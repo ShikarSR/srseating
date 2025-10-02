@@ -2,17 +2,11 @@ import AboutFixedBottom from '@/components/about/AboutFixedBottom';
 import AboutHeader from '@/components/about/AboutHeader';
 import AboutParalax from '@/components/about/AboutParalax';
 import AboutScrollVideo from '@/components/about/AboutScrollVideo';
-import AboutSlider from '@/components/about/AboutSlider';
 import AboutV1 from '@/components/about/AboutV1';
 import AboutV5 from '@/components/about/AboutV5';
-import AwardV1 from '@/components/award/AwardV1';
-import FactV1 from '@/components/fact/FactV1';
 import LayoutV5 from '@/components/layouts/LayoutV5';
 import TeamV2 from '@/components/team/TeamV2';
-import TestimonialV2 from '@/components/testimonial/TestimonialV2';
-import WhyChooseV1 from '@/components/whyChoose/WhyChooseV1';
 import AboutFullImage from './AboutFullImage';
-import CinemaTestimonial from '@/components/cinema/CinemaTestimonial';
 import SolutionsTestimonial from '@/components/solutions/SolutionsTestimonial';
 import AboutThreeBox from '@/components/about/AboutThreeBox';
 

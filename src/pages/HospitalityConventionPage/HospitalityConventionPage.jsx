@@ -8,7 +8,6 @@ import HospitalityConventionChairFade from '@/components/hospitalityconvention/H
 import HospitalityConventionFAQ from '@/components/hospitalityconvention/HospitalityConventionFAQ'
 import HospitalityConventionFullWidthSlider from '@/components/hospitalityconvention/HospitalityConventionFullWidthSlider'
 import HospitalityConventionHeader from '@/components/hospitalityconvention/HospitalityConventionHeader'
-import HospitalityConventionTestimonial from '@/components/hospitalityconvention/HospitalityConventionTestimonial'
 import HospitalityConventionVenueTimeFullWidthSlider from '@/components/hospitalityconvention/HospitalityConventionVenueTimeFullWidthSlider'
 import SolutionsTestimonial from '@/components/solutions/SolutionsTestimonial'
 import React from 'react'

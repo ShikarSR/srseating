@@ -1,5 +1,4 @@
 
-import CinemaTestimonial from '@/components/cinema/CinemaTestimonial'
 import EducationalBottom from '@/components/educational/EducationalBottom'
 import EducationalBuiltPrecision from '@/components/educational/EducationalBuiltPrecision'
 import EducationalCenterImage from '@/components/educational/EducationalCenterImage'

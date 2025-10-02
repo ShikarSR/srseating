@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useEffect, useRef, useState } from 'react';
-import shape27 from "/assets/img/shape/27.png"
+// import shape27 from "/assets/img/shape/27.png"
 import banner20 from "/assets/img/banner/20.jpg"
 import CircleType from 'circletype';
 import { Link } from 'react-router-dom';
@@ -50,7 +50,7 @@ const ParallaxV1 = () => {
     return (
         <>
             <div className="parallax-area">
-                <img src={shape27} alt="Image Not Found" />
+                {/* <img src={shape27} alt="Image Not Found" /> */}
                 <div className="img-container shape">
                     <img src={banner20} alt="Image Not Found" />
                 </div>

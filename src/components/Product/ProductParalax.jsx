@@ -1,7 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useEffect, useRef, useState } from 'react';
-import shape27 from "/assets/img/shape/27.png"
-import paralaxbg from "/assets/img/product/home_paralax.jpg"
+
 import CircleType from 'circletype';
 import { Link } from 'react-router-dom';
 import gsap from 'gsap';

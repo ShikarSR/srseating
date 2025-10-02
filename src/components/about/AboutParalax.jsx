@@ -1,4 +1,3 @@
-import badge from "/assets/img/icon/badge.png"
 
 const AboutParalax = () => {
     return (
