@@ -7990,7 +7990,7 @@ transition: 0.4s;
 }
 
 .testimonial-style-two-area.shape-3 {
-	background-image: url('../img/shape/3.jpg');
+	/* background-image: url('../img/shape/3.jpg'); */
 }
 
 .testimonial-two-info .icon img {
