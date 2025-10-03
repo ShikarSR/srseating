@@ -8,7 +8,7 @@ const SingleGalleryV1 = ({ gallery }) => {
             <img src={`/assets/img/projects/${image}`} alt="Image Not Found" />
             <div className="overlay">
                 <div className="info">
-                    <h4><Link to={`/project-details/${id}`}>{title}</Link></h4>
+                    <h4><Link to={`/project-details/${id}`} target='_blank'>{title}</Link></h4>
                     <span>{category}</span>
                     <p>{description}</p>
                 </div>

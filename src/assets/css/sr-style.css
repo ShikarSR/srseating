@@ -2481,3 +2481,13 @@ color: #212B37;
 .sustainability_sec .title_heading{
 padding-top: 160px;
 }
+.our_story_btn{
+    margin-top: 100px;
+}
+.aboutfull_img_sec .full_center_img{
+    height: 750px;
+}
+.aboutfull_img_sec .full_center_img video{
+    height: 750px;
+    object-fit: cover;
+}

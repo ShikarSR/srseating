@@ -9,7 +9,7 @@ const AboutListSlider = ({ gallery }) => {
             <div className="overlay text-light">
                 <div className="info">
                     <span>{category}</span>
-                    <h4><Link to={`/project-details/${id}`}>{title}</Link></h4>
+                    <h4><Link to={`/project-details/${id}`} target='_blank'>{title} </Link></h4>
                     <p>{description}</p>
                 </div>
                 {/* <Link to={`/project-details/${id}`}>Know More <i className="fas fa-long-arrow-right" /></Link> */}

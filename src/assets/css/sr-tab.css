@@ -994,6 +994,9 @@ margin-top: -17px;
 
 @media only screen and (min-width:768px) and (max-width:1299.98px) {
 
+      .aboutfull_img_sec .full_center_img video, .aboutfull_img_sec .full_center_img{
+        height: 80%;
+    }
     .about_us_page .luxury_build_sec .space{
     display: block;
 }

@@ -33,7 +33,7 @@
       
   "minimal_form": {
     "headline": "Strong by Design,\nSoft in Use ",
-    "desc": "Under the refined exterior, SR 300 is all assurance, reliable mechanics, supportive geometry, and materials chosen to wear well. It moves quietly, comforts completely, and keeps your space looking composed. In 100% polyester or premium leatherette, the upholstery wipes clean and wears beautifully over time. "
+    "desc": "Under the refined exterior, SR 300 is all assurance, reliable mechanics, supportive geometry, and materials chosen to wear well. It moves quietly, comforts completely, and keeps your space looking composed. In 100% polyester fabric or premium leatherette, the upholstery wipes clean and wears beautifully over time. "
    
   },
 
@@ -54,7 +54,7 @@
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr300/300.png",
         "type": "Slider",
         "sub_type_one" : "Product Type",
-        "center_to_center": "609 mm | 24 in / 660 mm | 26 in",
+        "center_to_center": "609/660 mm  | 24/26 in.",
          "sub_type_two" : "Center-To-Center"
 
       }
@@ -209,7 +209,7 @@
 {
   "id":200,
   "hero": {
-    "tag": "SR 200",
+    "tag": "SR200",
     "headline": "Recline. Relax. \nRepeat.",
     "buttons": [
       { "text": "Get Quote"},
@@ -421,7 +421,7 @@
 {
   "id":100,
   "hero": {
-    "tag": "SR 100",
+    "tag": "SR100",
     "headline": "Where Design \nMeets Downtime.",
     "buttons": [
       { "text": "Get Quote"},
@@ -2050,10 +2050,7 @@
     
       
 
-       {
-        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider1.jpg",
-        "description": "PVP Multiplex, \nNagercoil"
-      },
+    
       {
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider3.jpg",
         "description": "Shetty Cinemas, \nKarnataka"
@@ -2070,6 +2067,10 @@
        {
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider3.jpg",
         "description": "Shetty Cinemas, \nKarnataka"
+      },
+       {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider9.jpg",
+        "description": "DNC, Dharmapuri"
       }
     ]
   },

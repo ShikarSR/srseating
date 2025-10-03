@@ -17,7 +17,7 @@ const ProductListSlider = ({ allproduct }) => {
     return (
         <div className="row">
 
-                <Link to={`/product-details/${allproduct.id}`}>
+                <Link to={`/product-details/${allproduct.id}`} target='_blank'>
                
             <div
                 className="model_box"

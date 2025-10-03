@@ -11,6 +11,14 @@
 @media only screen and (max-width:767.98px) {
     
 
+    .aboutfull_img_sec .full_center_img video, .aboutfull_img_sec .full_center_img{
+        height: 80%;
+    }
+.our_story_btn{
+margin-top: 70px;
+    margin-bottom: 90px;
+
+}
 
 .font_38 {
     font-size: 25px;
