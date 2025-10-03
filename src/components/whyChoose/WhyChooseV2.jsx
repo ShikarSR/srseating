@@ -42,7 +42,7 @@ const WhyChooseV2 = () => {
                                         </p>
                                     </li>
                                 </ul>
-                                <Link className="btn btn-md circle btn-gradient animation mt-20" to="/about-us">Learn More</Link>
+                                <Link className="btn btn-md circle btn-gradient animation mt-20" to="/our-story">Learn More</Link>
                             </div>
                         </div>
                         <div className="col-xl-6">

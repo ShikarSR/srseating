@@ -70,7 +70,7 @@ const Routers = () => {
                 <Route path='/menu1' element={<MenuOnePage/>} />
 
                 <Route path='/' element={<Home1 />}></Route>
-                <Route path='/about-us' element={<AboutUsPage />}></Route>
+                <Route path='/our-story' element={<AboutUsPage />}></Route>
                 <Route path='/leadership' element={<LeadershipPage />}></Route>
                 <Route path='/product-list' element={<ProductListPage/>} />
                 <Route path='/product-details/:id' element={<ProductPage/>} />

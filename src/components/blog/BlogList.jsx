@@ -8,7 +8,7 @@ const BlogList = ({ blog }) => {
             <div className="home-blog-style-one-item ">
                 <div className="home-blog-thumb">
                     <Link to={`/blog-single-with-sidebar/${id}`}>
-                        <img src={`/assets/img/blog/${thumb}`} alt="Thumb" />
+                        <img src={thumb} alt="Thumb" />
                     </Link>
                     <ul className="home-blog-meta">
                         <li>

@@ -8,7 +8,7 @@ const SingleRecentPost = ({ blog }) => {
   return (
     <div className="d-flex align-items-center gap-3 recent_img">
       <img
-        src={`${import.meta.env.BASE_URL}/assets/img/blog/${thumb}`}
+        src={thumb}
         alt={title}
   
         style={{ objectFit: 'cover'}}

@@ -82,12 +82,12 @@ const ArtSeat = () => {
                         height: 'auto',
                         display: 'block',
                         margin: '0 auto 0',
-                        transform: hovered ? `scale(${SCALE})` : 'scale(1)',
-                        transformOrigin: `50% ${ORIGIN_TOP}`,
-                        transition: 'transform 480ms cubic-bezier(.2,.6,.2,1)',
-                        willChange: 'transform',
-                        backfaceVisibility: 'hidden',
-                        WebkitBackfaceVisibility: 'hidden',
+                        // transform: hovered ? `scale(${SCALE})` : 'scale(1)',
+                        // transformOrigin: `50% ${ORIGIN_TOP}`,
+                        // transition: 'transform 480ms cubic-bezier(.2,.6,.2,1)',
+                        // willChange: 'transform',
+                        // backfaceVisibility: 'hidden',
+                        // WebkitBackfaceVisibility: 'hidden',
                       }}
                     />
                   </div>
@@ -151,12 +151,12 @@ const ArtSeat = () => {
                         height: 'auto',
                         display: 'block',
                         margin: '0 auto 0',
-                        transform: hovered2 ? `scale(${SCALE})` : 'scale(1)',
-                        transformOrigin: `50% ${ORIGIN_TOP}`,
-                        transition: 'transform 480ms cubic-bezier(.2,.6,.2,1)',
-                        willChange: 'transform',
-                        backfaceVisibility: 'hidden',
-                        WebkitBackfaceVisibility: 'hidden',
+                        // transform: hovered2 ? `scale(${SCALE})` : 'scale(1)',
+                        // transformOrigin: `50% ${ORIGIN_TOP}`,
+                        // transition: 'transform 480ms cubic-bezier(.2,.6,.2,1)',
+                        // willChange: 'transform',
+                        // backfaceVisibility: 'hidden',
+                        // WebkitBackfaceVisibility: 'hidden',
                       }}
                     />
                   </div>

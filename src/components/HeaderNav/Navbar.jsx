@@ -5,7 +5,7 @@ import '../HeaderNav/Menu.css';
 import { Link } from 'react-router-dom';
 
 const legacyMenu = [
-  { label: 'Our Story', url: '/about-us', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/ourstory.jpg" },
+  { label: 'Our Story', url: '/our-story', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/ourstory.jpg" },
   { label: 'Leadership',url: '/leadership',  image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/leadership.jpg" },
   { label: 'Manufacturing', url: '/manufacturing', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/manufacturing.jpg" },
   { label: 'Sustainability', url: '/sustainability', image: "https://srseating.blr1.cdn.digitaloceanspaces.com/image/nav/sustainability.jpg" },
