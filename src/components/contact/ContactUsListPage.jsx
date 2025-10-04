@@ -28,7 +28,7 @@ const ContactUsListPage = () => {
             };
 
             try{
-                const res =await fetch('http://localhost/backend/contactForm.php',{
+                const res =await fetch('http://134.209.144.29/contactForm.php',{
                             method:'POST',
                             headers:{
                                 'Content-Type' :'application/json',

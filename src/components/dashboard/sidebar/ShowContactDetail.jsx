@@ -7,7 +7,7 @@ const ShowContactDetail = () => {
 
   const getContact = async () => {
     try {
-      const res = await fetch('http://localhost/backend/getContact.php');
+      const res = await fetch('http://134.209.144.29/getContact.php');
       const data = await res.json();
       setContacts(data);
     } catch (error) {
