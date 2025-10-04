@@ -49,7 +49,7 @@ const ManufacturingParalax = () => {
     return (
         <>
             <div className="space"></div>
-            <section className='infra_paralax'>
+            <section className='infra_paralax manufacture_paralax'>
 
             
             <div className="award-area bg-fixed" style={{ backgroundImage: `url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/manufacturing/srfactory.jpg')` }}>

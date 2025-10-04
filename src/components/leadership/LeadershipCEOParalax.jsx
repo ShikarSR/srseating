@@ -49,7 +49,7 @@ const LeadershipCEOParalax = () => {
             <div className="space"></div>
 
             
-            <div className="award-area bg-fixed" style={{ backgroundImage: `url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/leadership/shikaceo.jpg')` }}>
+            <div className="award-area bg-fixed">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">

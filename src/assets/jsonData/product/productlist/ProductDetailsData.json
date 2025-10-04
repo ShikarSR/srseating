@@ -54,7 +54,7 @@
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr300/300.png",
         "type": "Slider",
         "sub_type_one" : "Product Type",
-        "center_to_center": "609/660 mm  | 24/26 in.",
+        "center_to_center": "609/660mm  | 24/26in.",
          "sub_type_two" : "Center-To-Center"
 
       }
@@ -1249,10 +1249,10 @@
         "color": "#BE444D"
       },
       {
-        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr13.png",
-        "name": "SR13",
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr9.png",
+        "name": "SR09",
         "desc": "Bolder Dimensions. Better Attention.",
-        "color": "#B79787"
+        "color": "#e88621"
       },
       {
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/sr11.png",
@@ -2047,10 +2047,7 @@
     "label": "PROJECTS",
     "headline": "Our Work. Their Experience.",
     "projects": [
-    
-      
-
-    
+        
       {
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider3.jpg",
         "description": "Shetty Cinemas, \nKarnataka"
@@ -2068,9 +2065,10 @@
         "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider3.jpg",
         "description": "Shetty Cinemas, \nKarnataka"
       },
-       {
-        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider9.jpg",
-        "description": "DNC, Dharmapuri"
+       
+        {
+        "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/sr9/slider7.jpg",
+        "description": "Gold Cinemas"
       }
     ]
   },
@@ -2168,7 +2166,7 @@
     },
   "minimal_form": {
     "headline": "Smart on Space. \nSoft on the Body.   ",
-    "desc": "With foam-moulded cushions set atop a reinforced plywood base, SR 07 is built for strength you can sit with. Its upholstery, which is sleek, resilient, and precisely stitched, offers a finish that’s as refined as it is enduring. \nStrength you don’t see. Comfort you’ll remember.   "
+    "desc": "With foam-molded cushions set atop a reinforced plywood base, SR 07 is built for strength you can sit with. Its upholstery, which is sleek, resilient, and precisely stitched, offers a finish that’s as refined as it is enduring. \nStrength you don’t see. Comfort you’ll remember.   "
    
   },
 "video": [

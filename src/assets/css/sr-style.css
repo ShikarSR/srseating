@@ -2491,3 +2491,18 @@ padding-top: 160px;
     height: 750px;
     object-fit: cover;
 }
+.leadership_bg{
+    background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/leadership/managing_director.jpg');
+}
+.ceo_paralax{
+    background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/leadership/shikaceo.jpg');
+}
+.manufacture_paralax{
+        background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/manufacturing/srfactory.jpg');
+}
+.about_paralax{
+    background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/about/employee.jpg');
+}
+  .mob_img{
+        display: none;
+    }

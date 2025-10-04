@@ -50,8 +50,8 @@ const LeadershipParalax = () => {
             <section className='infra_paralax'>
 
             
-            <div className="award-area bg-fixed" 
-            style={{ backgroundImage: `url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/leadership/managing_director.jpg')`}}>
+            <div className="award-area bg-fixed leadership_bg" 
+           >
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">

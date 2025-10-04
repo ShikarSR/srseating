@@ -14,7 +14,9 @@ const AuditoriumBuiltPrecision = () => {
                 onMouseLeave={() => setHovered(false)}
 
                         >
-                                 <img src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/auditorium/auditorium_build.jpg" alt="Built with Precision" className='w-100 radius_top_right radius_top_left'/>
+                                 <img src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/auditorium/auditorium_build.jpg" alt="Built with Precision" className='w-100 radius_top_right radius_top_left desk_img '/>
+
+   <img src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/aditorium_work.png" alt="Built with Precision" className='w-100 radius_top_right radius_top_left mob_img'/>
 
                                 <div className="site-heading text-center mb-4">
                                             <h4 className="sub-title sr_btn">Manufacturing</h4>

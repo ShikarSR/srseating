@@ -3,8 +3,8 @@ const AboutParalax = () => {
     return (
         <>
         <div className="space"></div>
-            <div className="award-area bg-fixed" 
-            style={{ backgroundImage: `url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/about/employee.jpg')`}}>
+            <div className="award-area bg-fixed about_paralax" 
+       >
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
