@@ -75,7 +75,7 @@ Across the Globe</h2>
                                             <div className="item">
                                                 <div className="text-info t-scroll">
                                                     <p className='font_18'>
-                                                        We have a water park in Rajkot, Gujarat, called the Jolly Enjoy Waterpark. As part of the water park, we have a theatre, and we have seats from SR Seating, Bengaluru, installed in there. We are pleased with the services rendered, the quality is outstanding, and the delivery was on-time. Amit is a great person to work with, and I have had a great experience with SR Seating.
+                                                        We have a water park in Rajkot, Gujarat, called the Jolly Enjoy Waterpark. As part of the water park, we have a theatre, and we have seats from SR Seating, Bangalore, installed in there. We are pleased with the services rendered, the quality is outstanding, and the delivery was on-time. Amit is a great person to work with, and I have had a great experience with SR Seating.
                                                     </p>
                                                 </div>
                                                 <div className="content">

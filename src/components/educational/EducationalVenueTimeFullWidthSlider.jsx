@@ -139,7 +139,7 @@ const EducationalVenueTimeFullWidthSlider = ({ sectionClass }) => {
                                                     <img src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/educational/slider1.jpg" alt="KIMS" />
                                                     <div className="overlay">
                                                         <div className="info">
-                                                            <p>KIMS,<br/> Hubballi</p>
+                                                            <p>KIMS,<br/> Hubli</p>
                                                         </div>
                                                     </div>
                                                 </div>

@@ -2496,6 +2496,8 @@ padding-top: 160px;
 }
 .ceo_paralax{
     background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/leadership/shikaceo.jpg');
+    margin-top: 140px;
+background-position: center;
 }
 .manufacture_paralax{
         background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/manufacturing/srfactory.jpg');
@@ -2503,6 +2505,9 @@ padding-top: 160px;
 .about_paralax{
     background-image: url('https://srseating.blr1.cdn.digitaloceanspaces.com/image/about/employee.jpg');
 }
-  .mob_img{
+.mob_img, .ceo_paralax .space{
         display: none;
+}
+       .ceo_paralax{
+        background-position: bottom;
     }

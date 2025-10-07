@@ -64,7 +64,7 @@ const ContactUs = () => {
                                                    # A43/02, Kannamangala Village,<br/> 
                                                     Nelamangala - Doddaballapur Road, <br/>
                                                    Madhure Hobli, Doddaballapur Taluk, <br/>
-                                                   Bengaluru, Karnataka - 561203
+                                                   Bangalore, Karnataka - 561203
                                                 </p>
                                             </div>
                                         </li>

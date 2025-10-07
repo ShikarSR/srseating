@@ -187,7 +187,7 @@ const TermsConditionContent = () => {
                         <p className='mt-2'>As long as the website and the information on the website are provided free of charge, we will not be liable for any loss or damage of any nature. </p>
 
                         <p>
-                          The parties submit all their disputes arising out of or in connection with this Agreement to the exclusive jurisdiction of the City Civil Court, Bengaluru. 
+                          The parties submit all their disputes arising out of or in connection with this Agreement to the exclusive jurisdiction of the City Civil Court, Bangalore. 
                         </p>
                     </div>
 

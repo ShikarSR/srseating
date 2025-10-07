@@ -1,6 +1,11 @@
 @media only screen and (min-width:768px) and (max-width:991.98px) {
 
-
+ .blog-item-box .col-lg-4:nth-child(n+4){
+        margin-top: 0px;
+    }
+       .blog-item-box .col-lg-4{
+        margin-top: 20px;
+    }
     .bg-fixed
     {
         background-attachment: unset !important;
@@ -288,9 +293,12 @@ footer .container:nth-child(2){
 .about-style-five-info .counter{
     margin-top: 15px;
 }
-.sticky-video, .sticky-video .video, .video-section{
-    height: 40vh !important;
+.sticky-video, .sticky-video .video {
+    height: 700px !important;
     margin-top: 0px !important;
+}
+.video-section{
+    margin-top: 100px;
 }
 .minimal-section {
     margin-top: 200px !important;
@@ -879,7 +887,7 @@ display: block;
     position:unset;  
 }
 .about_us_page .minimal-section {
-        margin-top: 160px !important;
+        margin-top: 110px !important;
         margin-bottom: 160px;
     }
      .designprocess_faq img {
@@ -932,9 +940,12 @@ margin-top: -17px;
 }
 .manufacture_page .process_making .design_slider .gallery-style-one .overlay{
     /* height: auto; */
-    height: 390px;
-    min-height: unset;
-    border-top-right-radius: 0px;
+        height: 359px;
+        min-height: auto;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
 }
 .product_list_page .allproduct_list .model_box img {
     width: 400px;
@@ -946,7 +957,7 @@ margin-top: -17px;
 
 }
 .product_detail_page .testimonial-style-two .text-info{
-    height: 500px;
+    /* height: 500px; */
 }
 .product_detail_page .thumb .social-overlay{
             right: 16%;
@@ -989,11 +1000,22 @@ margin-top: -17px;
 .product_detail_page .award-items{
     top: 48%;
 }
+.manufacture_page .award-area {
+    height: 60vh;
+}
+.leadership_bg .award-items{
+    width: 67%;
+}
+
 }
 
 
 @media only screen and (min-width:768px) and (max-width:1299.98px) {
 
+    
+    .ceo_paralax, .leadership_bg{
+    background-size: cover;
+}
       .aboutfull_img_sec .full_center_img video, .aboutfull_img_sec .full_center_img{
         height: 80%;
     }
@@ -1069,9 +1091,7 @@ margin-top: -17px;
         transform: translate(-50%, -50%);
         left: 50%;
     }
-.manufacture_page .award-area {
-    /* height: 60vh; */
-}
+
     .designprocess_faq .project-style-one-items .accordion-item .accordion-body {
     padding-top: 0px;
     padding-left: 85px;
@@ -1107,8 +1127,8 @@ margin-top: -17px;
     /* position: unset !important;
     height: auto !important; */
 }
-.video-frame, .video-section .video-frame .video{
-    height: auto !important;
+.video-section .video-frame .video{
+    height: 600px !important;
     width: 100% !important;
 }
 .video-frame{
@@ -1171,7 +1191,7 @@ padding-right: 40px;
     margin-top: 0px;
 }
 .product_detail_page .feature-style-one-info{
-    padding-left: 80px;
+    padding-left: 40px;
     padding-right: 80px;
 }
 .product_video_section video, .product_video_section, .roate_video{
@@ -1185,9 +1205,9 @@ padding-right: 40px;
     padding-top: 40px;
 }
 .product_detail_page .product_detail_multicards .text-info img {
-    height: 100%;
+    height: 450px;
     object-fit: cover;
-    /* width: 100%; */
+    width: auto;
     margin: auto;
     display: block;
     overflow: visible;
@@ -1223,7 +1243,7 @@ padding-right: 40px;
     font-size: 15px;
  }
  .blog-area.home-blog .col-md-6:nth-child(3) {
-    display: none;
+    /* display: none; */
 }
 .leadership_ideal .experience-style-one br, .leadership_ideal .where_time br{
     display: none;
@@ -1271,13 +1291,34 @@ section.blue_print_sec{
 .product_detail_page .testimonial-style-two{
     margin-top: 30px;
 }
-
+.home_banner .feature-style-one-cards{
+    padding-left: 40px;
+}
 
 }
 
-@media only screen and (min-width:992px) and (max-width:1199.98px) {
+@media only screen and (min-width:992px) and (max-width:1200.98px) {
 
 
+.manufacture_page .process_making .design_slider .gallery-style-one .overlay{
+        height: 388px;
+        min-height: auto;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+    width: 100%;
+    max-width: 100%;
+}
+  .about_slider .container-fill{
+    overflow: visible;
+  }
+    /* .blog-item-box .col-lg-4:nth-child(n+4){
+        margin-top: 10px;
+    }
+       .blog-item-box .col-lg-4{
+        margin-top: 20px;
+    } */
     .listview_slider .col-6 {
     margin-bottom: 0px;
 }
@@ -1312,7 +1353,7 @@ section.blue_print_sec{
         width: 360px;
     }
 .blog-item-box .col-lg-4:nth-child(n+4){
-    margin-top: 0px;
+    margin-top: 50px;
 }
     .solution_page .right_wrapper .chair_img img{
         width: 53%;
@@ -1360,15 +1401,12 @@ section.blue_print_sec{
     height: auto;
 }
 .manufacture_page .inhouse_sec .concept_slider .gallery-style-one {
-        height: 530px;
+        height: 630px;
 }
 .manufacture_page .process_making .design_slider .gallery-style-one{
-    height: 640px;
+    height: 740px;
 }
-.manufacture_page .process_making .design_slider .gallery-style-one .overlay{
-    height: 350px;
-    min-height: auto;
-}
+
     .hometheater_frame .achivement-style-one{
     min-width: 290px;
 }
@@ -1544,7 +1582,7 @@ display: block;
     min-height: auto !important;
 }
     .product_detail_page .testimonial-style-two .text-info{
-        height: 520px;
+        height: 100%;
     }
    .product_detail_page .feature-style-one-area {
     margin-top: 0px;
@@ -1878,7 +1916,7 @@ padding-right: 15px;
 
     }
     .luxury_right_wrapper .partner-style-one .partner-style-one-item{
-        height: 231px;
+        height: 277px;
     }
     .luxury_left_wrapper img{
         height: 474px;
@@ -1922,16 +1960,47 @@ padding-right: 15px;
 .sustain_forward_sec .information{
     padding-top: 0px;
 }
-
-
-
-
+ .about_us_page .minimal-section{
+        margin-top: 100px;
+    }
+.about_us_page .luxury_left_wrapper img{
+    height: 564px;
+}
+.leadership_sec .feature-style-one-info img {
+        height: 801px;
+        width: 100%;
+}
+   .ceo_paralax{
+        background-position: bottom;
+    }
+    .concept_slider .gallery-style-one .overlay{
+        /* left: 5px; */
+    }
 }
 
 
 @media only screen and (min-width:1201px) and (max-width:1299.98px) {
 
 
+
+.manufacture_page .process_making .design_slider .gallery-style-one .overlay{
+    height: 388px;
+        width: 100%;
+        max-width: 100%;
+}
+    .leadership_sec .feature-style-one-info{
+        height: 100%;
+    }
+    .leadership_sec .feature-style-one-info img {
+        height: 631px;
+        width: 100%;
+    }
+.about_us_page .luxury_left_wrapper img{
+    height: 564px;
+}
+  .about_us_page .minimal-section{
+        margin-top: 100px;
+    }
 
     .ensure_slider .overlay .info p {
     font-size: 26px;
@@ -2027,6 +2096,8 @@ padding-right: 15px;
 }
 
 @media only screen and (min-width:1301px) and (max-width:1400.98px) {
+
+
 
   .product_detail_page .minimal-section{
         margin-top: 230px;

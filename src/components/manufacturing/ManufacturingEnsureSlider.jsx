@@ -27,10 +27,10 @@ const ManufacturingEnsureSlider = ({ sectionClass }) => {
                 slidesPerView: 2,
             },
             1024: {
-                slidesPerView: 2,
+                slidesPerView: 3,
             },
             1200: {
-                slidesPerView: 5,
+                slidesPerView: 3,
                 centeredSlides: true,
             },
         },

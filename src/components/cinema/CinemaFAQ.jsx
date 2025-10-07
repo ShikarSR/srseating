@@ -4,7 +4,7 @@ import Animation from '../animation/Animation';
 const faqs = [
   {
     q: "What is the expected lifespan of SR Seating cinema chairs?",
-    a: "Our Cinema seats are built to last for years. With high-quality materials and superior craftsmanship, they’re designed to withstand heavy use and maintain comfort and performance over time."
+    a: "Our cinema seats are built to last for years. With high-quality materials and superior craftsmanship, they’re designed to withstand heavy use and maintain comfort and performance over time."
   },
   {
     q: "Are SR Seating chairs easy to maintain?",
