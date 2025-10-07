@@ -43,8 +43,6 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.14.0",
     "vite": "^6.1.0"
-  },
-   "build": "REACT_APP_BUILD_ID=$(date +%s) react-scripts build"
-
+  }
  
 }
