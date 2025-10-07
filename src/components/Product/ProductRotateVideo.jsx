@@ -1,6 +1,12 @@
 import React, { useRef, useState, useEffect } from "react";
 
-const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = false }) => {
+/**
+ * Deterministic scroll scrubbing:
+ * progress = clamp( (-rect.top) / (sectionHeight - viewport) )
+ * videoTime = progress * duration
+ * Guarantees last frame at bottom of section. No momentum/velocity.
+ */
+const ProductRotateVideo = ({ videoData = [], pxPerSecond = 50 }) => {
   const buttons = videoData?.[0]?.buttons || {};
   const buttonText = videoData?.[0]?.buttonText || {};
 
@@ -11,24 +17,27 @@ const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = f
   const sectionRef = useRef(null);
   const videoRef = useRef(null);
   const rafRef = useRef(0);
-  const advancedRef = useRef(false);
 
-  // Smooth animation refs
+  // targetTime is set from scroll; we lerp toward it to avoid micro-jitter
   const targetTimeRef = useRef(0);
   const currentTimeRef = useRef(0);
 
-  if (!videoData || !videoData.length) return <div>Video data missing.</div>;
-
-  // 🔹 Load video metadata (duration)
+  // preload / metadata
   useEffect(() => {
     const v = videoRef.current;
     if (!v) return;
+
     const onMeta = () => setDuration(v.duration || 0);
+    v.preload = "auto";
+    v.muted = true;
+
+    // warm up decoder (ignore autoplay errors)
+    v.play().then(() => v.pause()).catch(() => {});
     v.addEventListener("loadedmetadata", onMeta);
     return () => v.removeEventListener("loadedmetadata", onMeta);
   }, [activeVideo]);
 
-  // 🔹 Calculate section height for scroll scrubbing
+  // compute section height
   useEffect(() => {
     const computeHeight = () => {
       const vh = window.innerHeight;
@@ -40,105 +49,110 @@ const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = f
     return () => window.removeEventListener("resize", computeHeight);
   }, [duration, pxPerSecond]);
 
-  const clamp01 = (x) => Math.max(0, Math.min(1, x));
+  // helpers for safe seeking (avoid unbuffered gaps)
+  const isTimeBuffered = (v, t) => {
+    if (!v.buffered || v.buffered.length === 0) return false;
+    for (let i = 0; i < v.buffered.length; i++) {
+      const a = v.buffered.start(i);
+      const b = v.buffered.end(i);
+      if (t >= a && t <= b - 0.015) return true;
+    }
+    return false;
+  };
 
-  // 🔹 Update target time based on scroll (no direct jump)
-  const updateTargetTimeFromScroll = () => {
+  const snapToBuffered = (v, t) => {
+    if (!v.buffered || v.buffered.length === 0) return 0;
+    let best = 0, dist = Infinity;
+    for (let i = 0; i < v.buffered.length; i++) {
+      const a = v.buffered.start(i);
+      const b = v.buffered.end(i) - 0.015;
+      if (t >= a && t <= b) return t;
+      const da = Math.abs(t - a);
+      const db = Math.abs(t - b);
+      if (da < dist) { dist = da; best = a; }
+      if (db < dist) { dist = db; best = b; }
+    }
+    return Math.max(0, Math.min(best, (videoRef.current?.duration || 0) - 0.02));
+  };
+
+  // set targetTime deterministically from scroll
+  const updateFromScroll = () => {
     const el = sectionRef.current;
-    const vid = videoRef.current;
-    if (!el || !vid || !duration) return;
+    const v = videoRef.current;
+    if (!el || !v || !duration) return;
 
     const rect = el.getBoundingClientRect();
     const vh = window.innerHeight;
     const scrollable = Math.max(1, sectionHeightPx - vh);
-    const progress = clamp01((-rect.top) / scrollable);
 
-    targetTimeRef.current = progress * duration;
+    const rawProgress = (-rect.top) / scrollable;
+    const progress = Math.max(0, Math.min(1, rawProgress));
 
-    if (autoAdvance) {
-      if (progress >= 0.999 && !advancedRef.current) {
-        advancedRef.current = true;
-        const next = el.nextElementSibling;
-        if (next) next.scrollIntoView({ behavior: "smooth", block: "start" });
-      } else if (progress < 0.999) {
-        advancedRef.current = false;
-      }
-    }
+    let t = progress * duration;
+    if (!isTimeBuffered(v, t)) t = snapToBuffered(v, t);
+
+    targetTimeRef.current = t;
   };
 
-  // 🔹 Animate video time for smoothness
+  // rAF: lerp to target time, then seek only if appreciable change
   const animate = () => {
-    const vid = videoRef.current;
-    if (!vid || !duration) return;
+    const v = videoRef.current;
+    if (!v || !duration) {
+      rafRef.current = requestAnimationFrame(animate);
+      return;
+    }
 
-    // LERP (smoothly approach target)
-    currentTimeRef.current +=
-      (targetTimeRef.current - currentTimeRef.current) * 0.5;
+    const ALPHA = 0.35; // set to 1 for zero smoothing (locks exactly to scroll)
+    currentTimeRef.current += (targetTimeRef.current - currentTimeRef.current) * ALPHA;
 
-    vid.pause();
-    vid.currentTime = currentTimeRef.current;
+    if (Math.abs(v.currentTime - currentTimeRef.current) > 0.01) {
+      v.currentTime = currentTimeRef.current;
+    }
 
     rafRef.current = requestAnimationFrame(animate);
   };
 
-  // 🔹 Setup scroll + animation loop
   useEffect(() => {
-    const onScroll = () => updateTargetTimeFromScroll();
+    const onScroll = () => updateFromScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
-
-    updateTargetTimeFromScroll();
+    updateFromScroll();
     rafRef.current = requestAnimationFrame(animate);
-
     return () => {
       window.removeEventListener("scroll", onScroll);
       cancelAnimationFrame(rafRef.current);
     };
   }, [duration, sectionHeightPx]);
 
+  const src = activeVideo ? activeVideo.replace(/^\//, "") : "";
 
-
-    const src =  activeVideo
-    ? `${activeVideo.replace(/^\//, "")}`
-    : "";
-  
-  
   return (
     <>
-      {/* 🔹 Conditional Buttons */}
       {buttons.button1 && buttons.button2 && (
         <div className="global_btn video_btns">
-          <button
-            className={`sr-btn ${activeVideo === buttons.button1 ? "active" : ""}`}
-            onClick={() => {
-              setActiveVideo(buttons.button1);
-              currentTimeRef.current = 0; // reset smooth playback
-              targetTimeRef.current = 0;
-            }}
-          >
-            {buttonText.text1 || "Video 1"}
-          </button>
-
-          <button
-            className={`sr-btn ${activeVideo === buttons.button2 ? "active" : ""}`}
-            onClick={() => {
-              setActiveVideo(buttons.button2);
-              currentTimeRef.current = 0;
-              targetTimeRef.current = 0;
-            }}
-          >
-            {buttonText.text2 || "Video 2"}
-          </button>
+          {[1, 2].map((i) => {
+            const btn = buttons[`button${i}`];
+            const txt = buttonText[`text${i}`];
+            return (
+              <button
+                key={i}
+                className={`sr-btn ${activeVideo === btn ? "active" : ""}`}
+                onClick={() => {
+                  setActiveVideo(btn);
+                  targetTimeRef.current = 0;
+                  currentTimeRef.current = 0;
+                }}
+              >
+                {txt || `Video ${i}`}
+              </button>
+            );
+          })}
         </div>
       )}
 
       <section
         ref={sectionRef}
         className="product_video_section"
-        style={{
-          height: `${sectionHeightPx}px`,
-          position: "relative",
-          overscrollBehavior: "contain",
-        }}
+        style={{ height: `${sectionHeightPx}px`, position: "relative", overscrollBehavior: "contain" }}
       >
         <div
           className="rotate_video"
@@ -158,10 +172,10 @@ const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = f
             src={src}
             muted
             playsInline
-            preload="metadata"
+            preload="auto"
             disablePictureInPicture
             controlsList="nodownload noremoteplayback nofullscreen"
-            style={{ display: "block", maxWidth: "100%", background: "transparent" }}
+            style={{ width: "100%", maxHeight: "100vh", objectFit: "contain", background: "transparent" }}
           />
         </div>
       </section>
