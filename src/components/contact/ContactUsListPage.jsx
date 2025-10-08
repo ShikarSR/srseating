@@ -28,27 +28,29 @@
                 };
 
                 try{
-                    const res =await fetch('https://www.srseating.com/contactForm.php',{
+                    const res =await fetch('https://theskepper.com/srseating.com/contactForm.php',{
                                 method:'POST',
                                 headers:{
                                     'Content-Type' :'application/json',
                                 },
                                 body:JSON.stringify(contactData)
                     })
-                    if(res.ok){
-                        setName('')
-                        setEmail('')
-                        setPhone('')
-                        setCompanyName('')
-                        setMessage('')
-                        setChooseSolution('')
-                        e.target.reset()
-                    toast.success("Thanks For Your Message")
-                    //   alert('Your form successfully stored');
-                    }
-                    else{
-                        console.error('Submission Failed')
-                    }
+                   if (res.ok) {
+    // Reset form fields and show success message
+    setName('');
+    setEmail('');
+    setPhone('');
+    setCompanyName('');
+    setMessage('');
+    setChooseSolution('');
+    e.target.reset();
+    toast.success("Thanks For Your Message");
+} else {
+    const errorData = await res.json();  // Capture the error details
+    console.error('Submission Failed', errorData);
+    toast.error("Submission failed. Please try again.");
+}
+
 
                 }
                 catch(error){

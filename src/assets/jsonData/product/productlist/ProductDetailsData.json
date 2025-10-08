@@ -247,7 +247,7 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR200.mp4"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR200.webm"
       }
       
     }
@@ -456,7 +456,7 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR100.mp4"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR100.webm"
       }
       
     }
@@ -659,14 +659,13 @@
     },
   "minimal_form": {
     "headline": "Where Form Meets Endurance.",
-    "desc": "Every line of the SR 15 is shaped with purpose, from its sculpted contours to its refined finishes. Beneath the elegance lies uncompromising strength, premium materials, precision engineering, and durable construction that ensure it looks and performs as beautifully in its hundredth show as it did on opening night. \nA seat built not just to last, but to impress for years to come. "
-   
+    "desc": "Every line of the SR 15 is shaped with purpose, from its sculpted contours to its refined finishes. Beneath the elegance lies uncompromising strength, premium materials, precision engineering, and durable construction that ensure it looks and performs as beautifully in its hundredth show as it did on opening night. \nA seat built not just to last, but to impress for years to come. "  
   },
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR15.mp4",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR15_tipup.mp4"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR15.webm",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR15_tipup.webm"
       },
       "buttonText" :{
         "text1": "Tip-Up",
@@ -1519,7 +1518,7 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR11.mp4"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR11.webm"
       }
     }
   ],
