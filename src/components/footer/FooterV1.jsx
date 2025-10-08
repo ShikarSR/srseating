@@ -35,23 +35,23 @@ const FooterV1 = () => {
                                 <ul className='d-sm-flex  d-xl-flex d-md-flex justify-content-between'>
                                     <li >
                                        <Link className='text-white'
-                                       to="https://www.linkedin.com/company/sr-seatiing-private-limiited/" target='_blank'> Linkedin
+                                       to="https://www.linkedin.com/company/sr-seatiing-private-limiited/" > Linkedin
                                        </Link>
                                         </li>
                                     <li>
                                         <Link className='text-white'
-                                       to="https://www.instagram.com/srseatiing/?hl=en" target='_blank'> Instagram
+                                       to="https://www.instagram.com/srseatiing/?hl=en" > Instagram
                                        </Link>
                                        </li>
                                     <li>
                                         <Link className='text-white'
-                                       to="https://www.facebook.com/srseating" target='_blank'>
+                                       to="https://www.facebook.com/srseating" >
                                         Facebook
                                         </Link>
                                         </li>
                                     <li>
                                         <Link className='text-white'
-                                       to="https://www.youtube.com/@srseatiingprivatelimiited4709" target='_blank'>
+                                       to="https://www.youtube.com/@srseatiingprivatelimiited4709" >
                                     Youtube
                                         </Link>
                                     </li>
@@ -96,8 +96,8 @@ We’ve delivered 1500+ projects across the globe, offering reliable solutions f
                                         <li>
                                             <p>Our Location</p>
                                                   <div className='location'>
-                                                    <p>Corporate Office  <Link to={'https://www.google.com/maps/dir//SR+SEATIING+PRIVATE+LIMIITED+-+CORPORATE+OFFICE+%23V13+6th+Main+Rd,+2nd+Block,+Narayanappa+Block,+RT+Nagar+Bengaluru,+Karnataka+560032/@13.0234029,77.5946306,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x3bae17fb56690db1:0x8f5cc49ff46a0502'} className='text-decoration-underline' target='_blank'>View</Link> </p>
-                                                 <p>Manufacturing Unit  <Link to={'https://www.google.com/maps/dir//SR+SEATIING+PRIVATE+LIMIITED+-+MANUFACTURING+UNIT+43%2F2+Kannamangala+Gate,+Neelmangala+Doddaballapur+Rd+Bengaluru,+Karnataka+561203/@13.1905216,77.4216134,13z/data=!4m5!4m4!1m0!1m2!1m1!1s0x3bae3bbfc3ab1aa5:0xc0cc351c70df4e89'} className='text-decoration-underline' target='_blank'>View</Link> </p>
+                                                    <p>Corporate Office  <Link to={'https://www.google.com/maps/dir//SR+SEATIING+PRIVATE+LIMIITED+-+CORPORATE+OFFICE+%23V13+6th+Main+Rd,+2nd+Block,+Narayanappa+Block,+RT+Nagar+Bengaluru,+Karnataka+560032/@13.0234029,77.5946306,17z/data=!4m5!4m4!1m0!1m2!1m1!1s0x3bae17fb56690db1:0x8f5cc49ff46a0502'} className='text-decoration-underline' >View</Link> </p>
+                                                 <p>Manufacturing Unit  <Link to={'https://www.google.com/maps/dir//SR+SEATIING+PRIVATE+LIMIITED+-+MANUFACTURING+UNIT+43%2F2+Kannamangala+Gate,+Neelmangala+Doddaballapur+Rd+Bengaluru,+Karnataka+561203/@13.1905216,77.4216134,13z/data=!4m5!4m4!1m0!1m2!1m1!1s0x3bae3bbfc3ab1aa5:0xc0cc351c70df4e89'} className='text-decoration-underline' >View</Link> </p>
 
                                                 </div>
                                           
@@ -110,22 +110,22 @@ We’ve delivered 1500+ projects across the globe, offering reliable solutions f
                                     <h4 className="widget-title">Quick Links</h4>
                                     <ul>
                                         <li>
-                                            <Link to="/product-list" target='_blank'>Products</Link>
+                                            <Link to="/product-list" >Products</Link>
                                         </li>
                                         <li>
-                                            <Link to="/wall-of-success" target='_blank'>Wall of Success</Link>
+                                            <Link to="/wall-of-success" >Wall of Success</Link>
                                         </li>
                                         <li>
-                                            <Link to="/resource" target='_blank'>Resources</Link>
+                                            <Link to="/resource" >Resources</Link>
                                         </li>
                                         <li>
-                                            <Link to="/" target='_blank'>Careers</Link>
+                                            <Link to="/" >Careers</Link>
                                         </li>
                                         <li>
-                                            <Link to="/photo-gallery" target='_blank'>Photo Gallery</Link>
+                                            <Link to="/photo-gallery" >Photo Gallery</Link>
                                         </li>
                                           <li>
-                                            <Link to="/contact-us" target='_blank'>Contact Us</Link>
+                                            <Link to="/contact-us" >Contact Us</Link>
                                         </li>
                                     </ul>
                                 </div>
@@ -135,22 +135,22 @@ We’ve delivered 1500+ projects across the globe, offering reliable solutions f
                                     <h4 className="widget-title">Solutions</h4>
                                     <ul>
                                         <li>
-                                            <Link to="/cinema" target='_blank'>Cinema</Link>
+                                            <Link to="/cinema" >Cinema</Link>
                                         </li>
                                         <li>
-                                            <Link to="/auditorium" target='_blank'> Auditorium</Link>
+                                            <Link to="/auditorium" > Auditorium</Link>
                                         </li>
                                         <li>
-                                            <Link to="/educational-institution" target='_blank'>Educational Institutions</Link>
+                                            <Link to="/educational-institution" >Educational Institutions</Link>
                                         </li>
                                         <li>
-                                            <Link to="hospitality-convention" target='_blank'>Hospitality & Convention Halls</Link>
+                                            <Link to="hospitality-convention" >Hospitality & Convention Halls</Link>
                                         </li>
                                         <li>
-                                            <Link to="/defense-government" target='_blank'>Defense & Government Venues</Link>
+                                            <Link to="/defense-government" >Defense & Government Venues</Link>
                                         </li>
                                         <li>
-                                            <Link to="/home-theatre" target='_blank'>Home Theatre</Link>
+                                            <Link to="/home-theatre" >Home Theatre</Link>
                                         </li>
                                     </ul>
                                 </div>
@@ -176,10 +176,10 @@ We’ve delivered 1500+ projects across the globe, offering reliable solutions f
                                         <Link to="#" >Terms</Link>
                                     </li> */}
                                     <li>
-                                        <Link to="/privacy-policy" target='_blank'>Privacy Policy</Link>
+                                        <Link to="/privacy-policy" >Privacy Policy</Link>
                                     </li>
                                      <li>
-                                        <Link to="/terms-conditions" target='_blank'>Terms & Conditions</Link>
+                                        <Link to="/terms-conditions" >Terms & Conditions</Link>
                                     </li>
                                     {/* <li>
                                         <Link to="/contact-us">Support</Link>

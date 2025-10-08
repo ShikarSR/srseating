@@ -18,7 +18,7 @@ const BlogSingleWithSidebarContent = ({ blogInfo }) => {
                                 <div className="blog-style-two item">
                                     <div className="blog-item-box mt-0">
                                         <div className="thumb">
-                                            <Link to="#" target='_blank' >
+                                            <Link to="#"  >
                                                 <img src={`/assets/img/home/${thumbFull}`} alt="Thumb" />
                                             </Link>
                                         </div>

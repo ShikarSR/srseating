@@ -41,7 +41,7 @@ const ProductBluePrint = ({ data }) => {
 
         <div className="global_btn">
           <button className="sr-btn">
-            <Link className="font_22" to="/contact-us" target='_blank'>
+            <Link className="font_22" to="/contact-us" >
               <span className="btn-text">{data.cta_text}</span>
               <span className="arrow">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">

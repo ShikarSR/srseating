@@ -7,7 +7,7 @@ const BlogList = ({ blog }) => {
         <>
             <div className="home-blog-style-one-item ">
                 <div className="home-blog-thumb">
-                    <Link to={`/blog-single-with-sidebar/${id}`} target='_blank'>
+                    <Link to={`/blog-single-with-sidebar/${id}`}>
                         <img src={thumb} alt="Thumb" />
                     </Link>
                     <ul className="home-blog-meta">
@@ -20,9 +20,9 @@ const BlogList = ({ blog }) => {
                 <div className="content">
                     <div className="info">
                         <h2 className="font_28">
-                            <Link to={`/blog-single-with-sidebar/${id}`} target='_blank'>{title}</Link>
+                            <Link to={`/blog-single-with-sidebar/${id}`} >{title}</Link>
                         </h2>
-                        <Link to={`/blog-single-with-sidebar/${id}`} className="btn-read-more" target='_blank'>{btnText} <i className="fas fa-long-arrow-right" /></Link>
+                        <Link to={`/blog-single-with-sidebar/${id}`} className="btn-read-more" >{btnText} <i className="fas fa-long-arrow-right" /></Link>
                     </div>
                 </div>
             </div>

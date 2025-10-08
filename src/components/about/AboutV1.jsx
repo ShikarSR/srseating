@@ -16,7 +16,7 @@ const AboutV1 = ({ sectionClass }) => {
                             <div className="col-xl-7 col-lg-6">
                                 <div className="thumb-style-one">
                                     <img src="https://theskepper.com/srseating2/img/img/about/1.jpg" alt="Image Not Found" />
-                                    <Link onClick={() => setOpen(true)} to="#" className="popup-youtube video-play-button" target='_blank'>
+                                    <Link onClick={() => setOpen(true)} to="#" className="popup-youtube video-play-button" >
                                         <i className="fas fa-play" />
                                     </Link>
                                 </div>

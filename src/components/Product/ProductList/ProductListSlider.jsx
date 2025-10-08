@@ -25,7 +25,7 @@ const ProductListSlider = ({ allproduct }) => {
 
   return (
     <div className="row">
-      <Link to={`/product-details/${id}`} target='_blank'>
+      <Link to={`/product-details/${id}`} >
         <div
           className="model_box"
           onMouseEnter={() => setHovered(true)}

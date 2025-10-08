@@ -39,17 +39,17 @@ const SingleTeamMemberInfo = ({ teamInfo }) => {
                                         <i className="fas fa-share-alt" />
                                         <ul>
                                             <li className="facebook">
-                                                <a href="http://facebook.com" target='_blank'>
+                                                <a href="http://facebook.com" >
                                                     <i className="fab fa-facebook-f" />
                                                 </a>
                                             </li>
                                             <li className="twitter">
-                                                <a href="http://twitter.com" target='_blank'>
+                                                <a href="http://twitter.com" >
                                                     <i className="fab fa-twitter" />
                                                 </a>
                                             </li>
                                             <li className="youtube">
-                                                <a href="http://youtube.com" target='_blank'>
+                                                <a href="http://youtube.com" >
                                                     <i className="fab fa-youtube" />
                                                 </a>
                                             </li>

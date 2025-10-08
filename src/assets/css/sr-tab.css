@@ -933,19 +933,20 @@ margin-top: -17px;
     height: auto;
 }
 .manufacture_page .inhouse_sec .concept_slider .gallery-style-one {
-        height: 570px;
+        /* height: 570px; */
 }
 .manufacture_page .process_making .design_slider .gallery-style-one{
-    height: auto;
+    /* height: auto; */
 }
 .manufacture_page .process_making .design_slider .gallery-style-one .overlay{
     /* height: auto; */
-        height: 359px;
+        height: 390px;
         min-height: auto;
         border-top-right-radius: 0px;
         border-top-left-radius: 0px;
         border-bottom-right-radius: 15px;
         border-bottom-left-radius: 15px;
+   
 }
 .product_list_page .allproduct_list .model_box img {
     width: 400px;
@@ -1006,7 +1007,45 @@ margin-top: -17px;
 .leadership_bg .award-items{
     width: 67%;
 }
+.concept_slider .swiper-slide .gallery-style-one .overlay{
+        /* height: unset !important; */
+        /* position: relative; */
+        width: 100%;
+        max-width: 100%;
+        position: absolute;
+    }
+       .concept_slider .swiper-slide:hover .gallery-style-one .overlay {
+          height: 456px;
+        width: 97%;
+    }
+.manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
+        height: 456px;
+            /* background-color: aquamarine; */
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        width: 97%;
+        max-width: 100%;
+        right: 0px;
+        margin: auto;
+        left: 0px;
+        bottom: 5px;
+}
 
+.concept_slider .swiper-wrapper img, .solution_page .concept_slider .swiper-wrapper img{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+    .concept_slider .swiper-slide-active .gallery-style-one .overlay{
+        /* height: unset !important; */
+        /* position: relative; */
+        width: 97%;
+        max-width: 100%;
+    }
+  .home_page .blog-area.home-blog .col-md-6:nth-child(3) {
+    display: none;
+}
 }
 
 
@@ -1242,9 +1281,8 @@ padding-right: 40px;
  {
     font-size: 15px;
  }
- .blog-area.home-blog .col-md-6:nth-child(3) {
-    /* display: none; */
-}
+ 
+
 .leadership_ideal .experience-style-one br, .leadership_ideal .where_time br{
     display: none;
 }
@@ -1267,7 +1305,6 @@ padding-right: 40px;
 
 
 .concept_slider .swiper-slide-active .gallery-style-one {
-        /* height: 388px; */
 }
 .concept_slider .swiper-slide .info p:nth-child(1){
     top: -25px;
@@ -1293,22 +1330,59 @@ section.blue_print_sec{
 }
 .home_banner .feature-style-one-cards{
     padding-left: 40px;
+    padding-top: 0px;
 }
-
+.product_detail_page .feature-style-one-info h3{
+    margin-top: 35px;
+}
 }
 
 @media only screen and (min-width:992px) and (max-width:1200.98px) {
 
+    
+          .concept_slider .swiper-slide:hover .gallery-style-one .overlay{
+        width: 97%;
+        height: 456px;
+    }
+.concept_slider .gallery-style-one{
+    padding: 9px;
+}
+     .manufacture_page .container-fill{
+        padding-left: 25px;
+padding-right: 25px;        
+    }
+    .concept_slider .swiper-wrapper img {
+    width: 100%;
+    height: 299px;
+    object-fit: cover;
+/* border-radius: 10px; */
+}
+.concept_slider .swiper-slide .gallery-style-one .overlay{
+        /* position: relative; */
+        width: 100%;
+        max-width: 100%;
+        bottom: 5px;
+    }
 
-.manufacture_page .process_making .design_slider .gallery-style-one .overlay{
-        height: 388px;
-        min-height: auto;
+    .concept_slider .swiper-slide-active .gallery-style-one .overlay{
+        /* position: relative;
+        width: 100%;
+        max-width: 100%; */
+        bottom: 0px;
+    }
+.manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
+        height: 456px;
+            /* background-color: aquamarine; */
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 15px;
         border-bottom-left-radius: 15px;
-    width: 100%;
-    max-width: 100%;
+        width: 97%;
+        max-width: 100%;
+        right: 0px;
+        margin: auto;
+        left: 0px;
+        bottom: 5px;
 }
   .about_slider .container-fill{
     overflow: visible;
@@ -1410,9 +1484,7 @@ section.blue_print_sec{
     .hometheater_frame .achivement-style-one{
     min-width: 290px;
 }
-    .concept_slider .swiper-slide-active .gallery-style-one .overlay{
-        height: 320px;
-    }
+ 
  .cinema_chair .about-style-five-info .counter {
     margin-top: -13px;
    }
@@ -1976,13 +2048,22 @@ padding-right: 15px;
     .concept_slider .gallery-style-one .overlay{
         /* left: 5px; */
     }
+    .product_video_section video{
+    height: 100%;
+}
 }
 
 
 @media only screen and (min-width:1201px) and (max-width:1299.98px) {
 
-
-
+.product_video_section video{
+    height: 100%;
+}
+.concept_slider .swiper-slide:hover .gallery-style-one .overlay{ 
+    width: auto;
+    height: unset;
+    /* min-width: 70%; */
+}
 .manufacture_page .process_making .design_slider .gallery-style-one .overlay{
     height: 388px;
         width: 100%;
@@ -2098,7 +2179,13 @@ padding-right: 15px;
 @media only screen and (min-width:1301px) and (max-width:1400.98px) {
 
 
-
+    .solution_page .concept_slider .swiper-wrapper img{
+      height: 420px;
+      object-fit: cover;  
+    }
+.cinema_page .concept_slider .gallery-style-one, .hospitality_page .concept_slider .gallery-style-one, .home_theare_page .gallery-style-one{
+    height: 420px;
+}
   .product_detail_page .minimal-section{
         margin-top: 230px;
     }
