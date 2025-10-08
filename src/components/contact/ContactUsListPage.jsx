@@ -44,7 +44,7 @@
     setMessage('');
     setChooseSolution('');
     e.target.reset();
-    toast.success("Thanks For Your Message");
+    toast.success("Thanks You, We’ve received your message and will respond shortly.");
 } else {
     const errorData = await res.json();  // Capture the error details
     console.error('Submission Failed', errorData);
