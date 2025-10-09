@@ -1746,6 +1746,7 @@ padding-right: 15px;
     position: absolute;
     bottom: unset;
     top: -110px;
+    right:4% ;
     }
     .navbar .navbar-menu{
         gap: 19px;
