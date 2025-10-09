@@ -886,7 +886,7 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR14.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR14.mp4"
       }
     }
   ],
@@ -1090,8 +1090,8 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR13.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR13_tipup.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR13.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR13_tipup.mp4"
       },
       "buttonText" :{
         "text1": "Tip-Up",
@@ -1308,7 +1308,7 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR12.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR12.mp4"
       }
     }
   ],
@@ -1721,8 +1721,8 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR10_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR10.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR10_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR10.mp4"
       },
       "buttonText" :{
         "text1": "Tip-Up",
@@ -1937,8 +1937,8 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR09_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR09.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR09_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR09.mp4"
       },
      "buttonText" :{
         "text1": "Tip-Up",
@@ -2171,8 +2171,8 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR07_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR07.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR07_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR07.mp4"
       },
         "buttonText" :{
         "text1": "Tip-Up",
@@ -2403,8 +2403,8 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR06_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR06.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR06_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR06.mp4"
       },
         "buttonText" :{
         "text1": "Tip-Up",
@@ -2638,8 +2638,8 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR05_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR05.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR05_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR05.mp4"
       },
         "buttonText" :{
         "text1": "Tip-Up",
@@ -2872,8 +2872,8 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR04_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR04.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR04_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR04.mp4"
       },
         "buttonText" :{
         "text1": "Tip-Up",
@@ -3120,8 +3120,8 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR03_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR03.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR03_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR03.mp4"
       },
         "buttonText" :{
         "text1": "Tip-Up",
@@ -3330,8 +3330,8 @@
 "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR02_tipup.webm",
-        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR02.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR02_tipup.mp4",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR02.mp4"
       },
         "buttonText" :{
         "text1": "Tip-Up",
@@ -3559,7 +3559,7 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR01.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR01.mp4"
       }
     }
   ],

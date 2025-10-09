@@ -1,36 +1,38 @@
-// src/components/ProductTestSlider.jsx
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 const ProductTestSlider = ({ allproduct }) => {
   const {
     id,
-    // New JSON (models_section.models)
-    name = "",                  // e.g., "SR15"
-    desc = "",                  // e.g., "Designed to Fit More."
-    image,                      // e.g., "/assets/img/product/product-list/sr15.png"
-    color,                      // background color
-
-    // Old JSON / future-proof
-    tag = name,                 // fallback → name
-    product_desc = desc,        // fallback → desc
-    product_img = image,        // fallback → image
-    proudct_img,                // typo-safe
-
-    // UI text & styles
+    name = "",
+    desc = "",
+    image,
+    color,
+    videoSrc, // Assuming videoSrc is passed from the product
+    tag = name,
+    product_desc = desc,
+    product_img = image,
+    proudct_img,
     button_txt = "Discover More",
     bg_left_color = color || "#212B37",
-    bg_color = "#fff",          // gradient/string
+    bg_color = "#fff",
     border_color = color || "#212B37",
     button_color = color || "#212B37",
   } = allproduct || {};
 
   const imageSrc = product_img || proudct_img;
   const [hovered, setHovered] = useState(false);
+  const [currentVideo, setCurrentVideo] = useState(null);
 
-  // Zoom effect settings
-  const SCALE_HOVER = 1.3;        // zoom strength
-  const ORIGIN_TOP = "6%";        // zoom pivot (lower = stronger bottom emphasis)
+  const SCALE_HOVER = 1.3;
+  const ORIGIN_TOP = "6%";
+
+  useEffect(() => {
+    // Update the current video when the product changes
+    if (videoSrc) {
+      setCurrentVideo(videoSrc);
+    }
+  }, [videoSrc]);
 
   return (
     <div className="row">
@@ -41,7 +43,6 @@ const ProductTestSlider = ({ allproduct }) => {
           onMouseLeave={() => setHovered(false)}
         >
           <div className="model_wrapper d-lg-flex d-md-flex">
-
             {/* LEFT INFO PANEL */}
             <div
               className={`left_wrapper ${hovered ? "active" : ""}`}
@@ -72,7 +73,7 @@ const ProductTestSlider = ({ allproduct }) => {
             <div
               className="right_wrapper"
               style={{
-                background: hovered ? bg_color : "#fff",   // gradient / solid
+                background: hovered ? bg_color : "#fff",
                 border: `1px solid ${border_color}`,
                 transition: "background 0.3s, border-color 0.35s",
                 overflow: "hidden",
@@ -90,7 +91,7 @@ const ProductTestSlider = ({ allproduct }) => {
                   display: "flex",
                   alignItems: "flex-end",
                   justifyContent: "center",
-                  pointerEvents: "none", // prevent flicker on hover
+                  pointerEvents: "none",
                 }}
               >
                 <div
@@ -124,10 +125,22 @@ const ProductTestSlider = ({ allproduct }) => {
                 </div>
               </div>
             </div>
-            {/* /RIGHT */}
           </div>
         </div>
       </Link>
+
+      {/* Video Section */}
+      {currentVideo && (
+        <div className="product-video">
+          <video controls>
+            <source
+              src={currentVideo.startsWith("http") ? currentVideo : `${import.meta.env.BASE_URL}${currentVideo}`}
+              type="video/webm"
+            />
+            Your browser does not support the video tag.
+          </video>
+        </div>
+      )}
     </div>
   );
 };

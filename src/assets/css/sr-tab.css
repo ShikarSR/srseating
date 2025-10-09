@@ -1018,7 +1018,22 @@ margin-top: -17px;
           height: 456px;
         width: 97%;
     }
-.manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
+    .manufacture_page .process_making .design_slider .gallery-style-one .overlay{
+                height: 418px;
+        position: relative;
+        /* background-color: aquamarine; */
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        width: 100%;
+        max-width: 100%;
+        right: 0px;
+        margin: auto;
+        left: 0px;
+        bottom: 0px;
+    }
+ .concept_slider .swiper-slide .gallery-style-one .overlay{
         height: 296px;
            position: relative;
             /* background-color: aquamarine; */
@@ -1047,6 +1062,22 @@ border-bottom-left-radius: 0px;
   .home_page .blog-area.home-blog .col-md-6:nth-child(3) {
     display: none;
 }
+.manufacture_page .process_making .design_slider .gallery-style-one .overlay{
+            height: 61%;
+        /* background-color: aquamarine; */
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        width: 97%;
+        max-width: 100%;
+        right: 0px;
+        /* margin: auto; */
+        left: 0px;
+        position: absolute;
+        bottom: 7px;
+        z-index: 222;
+    }
 }
 
 
@@ -1119,7 +1150,7 @@ border-bottom-left-radius: 0px;
 
     .manufacture_page .infra_paralax .award-items{
         min-width: auto;
-    width: 70%;
+    /* width: 70%; */
     }
     .manufacture_page .infra_paralax{
         position: relative;
@@ -1302,11 +1333,9 @@ padding-right: 40px;
 }
 .concept_slider .swiper-slide .gallery-style-one{
     height: 700px;
+    position: relative;
 }
 
-
-.concept_slider .swiper-slide-active .gallery-style-one {
-}
 .concept_slider .swiper-slide .info p:nth-child(1){
     top: -25px;
     font-size: 22px;
@@ -1340,6 +1369,24 @@ section.blue_print_sec{
 
 @media only screen and (min-width:992px) and (max-width:1200.98px) {
 
+       
+
+    .manufacture_page .process_making .design_slider .gallery-style-one .overlay{
+            height: 55%;
+        /* background-color: aquamarine; */
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        width: 97%;
+        max-width: 100%;
+        right: 0px;
+        /* margin: auto; */
+        left: 0px;
+        position: absolute;
+        /* bottom: 1px; */
+        z-index: 222;
+    }
     .educational_institue_page{
         height: 640px;
     }
@@ -1381,7 +1428,7 @@ border-bottom-left-radius: 0px;
         max-width: 100%; */
         bottom: 0px;
     }
-.manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
+ .concept_slider .swiper-slide .gallery-style-one .overlay{
         height: 296px;
             /* background-color: aquamarine; */
         border-top-left-radius: 0px;
@@ -1491,6 +1538,7 @@ border-bottom-left-radius: 0px;
 }
 .manufacture_page .process_making .design_slider .gallery-style-one{
     height: 740px;
+    position: relative;
 }
 
     .hometheater_frame .achivement-style-one{

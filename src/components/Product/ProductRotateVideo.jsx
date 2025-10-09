@@ -1,9 +1,11 @@
 import React, { useRef, useState, useEffect } from "react";
+import { useParams } from 'react-router-dom';
 
-const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = false }) => {
+const ProductRotateVideo = ({ videoData = [], autoAdvance = false }) => {
   const buttons = videoData?.[0]?.buttons || {};
   const buttonText = videoData?.[0]?.buttonText || {};
 
+  // Set the first button as active by default
   const [activeVideo, setActiveVideo] = useState(buttons.button1 || "");
   const [duration, setDuration] = useState(0);
   const [sectionHeightPx, setSectionHeightPx] = useState(window.innerHeight * 2);
@@ -17,6 +19,10 @@ const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = f
   const targetTimeRef = useRef(0);
   const currentTimeRef = useRef(0);
 
+  // Get product id from URL
+  const { id } = useParams();
+  const numId = Number(id);
+
   if (!videoData || !videoData.length) return <div>Video data missing.</div>;
 
   // 🔹 Load video metadata (duration)
@@ -28,18 +34,14 @@ const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = f
     return () => v.removeEventListener("loadedmetadata", onMeta);
   }, [activeVideo]);
 
-  // 🔹 Calculate section height for scroll scrubbing
+  // 🔹 Update active video when the `id` changes (on page navigation)
   useEffect(() => {
-    const computeHeight = () => {
-      const vh = window.innerHeight;
-      const scrollable = duration ? Math.max(1, duration * pxPerSecond) : vh;
-      setSectionHeightPx(vh + scrollable);
-    };
-    computeHeight();
-    window.addEventListener("resize", computeHeight, { passive: true });
-    return () => window.removeEventListener("resize", computeHeight);
-  }, [duration, pxPerSecond]);
+    if (videoData?.[0]?.buttons?.button1) {
+      setActiveVideo(videoData[0].buttons.button1); // Set the default video on product page load
+    }
+  }, [numId, videoData]);
 
+  // 🔹 Calculate section height for scroll scrubbing
   const clamp01 = (x) => Math.max(0, Math.min(1, x));
 
   // 🔹 Update target time based on scroll (no direct jump)
@@ -95,13 +97,8 @@ const ProductRotateVideo = ({ videoData = [], pxPerSecond = 150, autoAdvance = f
     };
   }, [duration, sectionHeightPx]);
 
+  const src = activeVideo ? `${activeVideo.replace(/^\//, "")}` : "";
 
-
-    const src =  activeVideo
-    ? `${activeVideo.replace(/^\//, "")}`
-    : "";
-  
-  
   return (
     <>
       {/* 🔹 Conditional Buttons */}

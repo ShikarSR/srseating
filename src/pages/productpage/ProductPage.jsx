@@ -54,7 +54,7 @@ const ProductPage = () => {
      youtubeLink = {product.scroll_video.youtubeUrl}
       />
 
-      <ProductRotateVideo videoData={product.video}  pxPerSecond={50} />
+      <ProductRotateVideo videoData={product.video}   />
 
       <ProductSameFrame data={product.variants_section} />
       <ProductExperience data={product.experience_section} />
