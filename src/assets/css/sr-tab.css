@@ -1019,7 +1019,8 @@ margin-top: -17px;
         width: 97%;
     }
 .manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
-        height: 456px;
+        height: 296px;
+           position: relative;
             /* background-color: aquamarine; */
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
@@ -1030,12 +1031,12 @@ margin-top: -17px;
         right: 0px;
         margin: auto;
         left: 0px;
-        bottom: 5px;
+        bottom: 0px;
 }
 
 .concept_slider .swiper-wrapper img, .solution_page .concept_slider .swiper-wrapper img{
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
 }
     .concept_slider .swiper-slide-active .gallery-style-one .overlay{
         /* height: unset !important; */
@@ -1339,7 +1340,9 @@ section.blue_print_sec{
 
 @media only screen and (min-width:992px) and (max-width:1200.98px) {
 
-    
+    .educational_institue_page{
+        height: 640px;
+    }
           .concept_slider .swiper-slide:hover .gallery-style-one .overlay{
         width: 97%;
         height: 456px;
@@ -1351,11 +1354,19 @@ section.blue_print_sec{
         padding-left: 25px;
 padding-right: 25px;        
     }
+    .concept_slider .swiper-wrapper img, .solution_page .concept_slider .swiper-wrapper img{
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+}
     .concept_slider .swiper-wrapper img {
     width: 100%;
-    height: 299px;
+    z-index: 11;
+    position: relative;
+    /* height: 299px; */
     object-fit: cover;
-/* border-radius: 10px; */
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+
 }
 .concept_slider .swiper-slide .gallery-style-one .overlay{
         /* position: relative; */
@@ -1371,7 +1382,7 @@ padding-right: 25px;
         bottom: 0px;
     }
 .manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
-        height: 456px;
+        height: 296px;
             /* background-color: aquamarine; */
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
@@ -1382,6 +1393,7 @@ padding-right: 25px;
         right: 0px;
         margin: auto;
         left: 0px;
+        position: relative;
         bottom: 5px;
 }
   .about_slider .container-fill{
@@ -1430,7 +1442,7 @@ padding-right: 25px;
     margin-top: 50px;
 }
     .solution_page .right_wrapper .chair_img img{
-        width: 53%;
+        width: 340px;
     }
 .product_detail_page .product_fullwidth_slider .container-fill{
     padding:0px 10px
@@ -1939,7 +1951,7 @@ padding-right: 15px;
 
 .model_box .left_wrapper .chair_info{
     bottom: 50px;
-    left: 30px;
+    left: 0px;
 }
 .chair_info button{
     border: 1px solid #fff;
@@ -2051,17 +2063,34 @@ padding-right: 15px;
     .product_video_section video{
     height: 100%;
 }
+
 }
 
 
 @media only screen and (min-width:1201px) and (max-width:1299.98px) {
 
+
+   .manufacture_page .process_making .design_slider .gallery-style-one .overlay, .concept_slider .swiper-slide .gallery-style-one .overlay{
+        height: 296px;
+           position: relative;
+            /* background-color: aquamarine; */
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        width: 97%;
+        max-width: 100%;
+        right: 0px;
+        margin: auto;
+        left: 0px;
+        bottom: 0px;
+} 
 .product_video_section video{
     height: 100%;
 }
 .concept_slider .swiper-slide:hover .gallery-style-one .overlay{ 
-    width: auto;
-    height: unset;
+    width: 97%;
+    /* height: unset; */
     /* min-width: 70%; */
 }
 .manufacture_page .process_making .design_slider .gallery-style-one .overlay{

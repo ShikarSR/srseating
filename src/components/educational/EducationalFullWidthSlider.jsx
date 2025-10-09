@@ -40,13 +40,15 @@ const EducationalFullWidthSlider = ({ sectionClass }) => {
             768: {
                 slidesPerView: 1,
             },
+             992: {
+                slidesPerView: 1,
+            },
             1024: {
                 slidesPerView: 1,
-
             },
             1200: {
                 slidesPerView: 2,
-            },
+            }
         },
     }
 
