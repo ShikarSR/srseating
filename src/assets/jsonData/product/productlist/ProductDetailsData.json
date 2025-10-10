@@ -247,7 +247,7 @@
  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/video/SR200.mp4"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR200.webm"
       }
       
     }
