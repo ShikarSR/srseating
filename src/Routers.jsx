@@ -55,6 +55,7 @@ import HomeTheaterPage from './pages/hometheaterPage/HomeTheaterPage';
 // import PrivacyPolicy from './pages/PrivacyPolicy/PrivacyPolicyPage';
 import PrivacyPolicyPage from './pages/PrivacyPolicy/PrivacyPolicyPage';
 import TermsConditionPage from './pages/TermsCondition/TermsConditionPage';
+import VideoTest from './components/Product/VideoTest';
 const Routers = () => {
     const isAuthenticated = localStorage.getItem('isAuthenticated') === 'true';
 
@@ -64,6 +65,7 @@ const Routers = () => {
        
         
             <Routes>
+                <Route path="/video" element={<VideoTest/>}/>
 
                 <Route path="/slider" element={<MaseratiSlider/>}/>
                 <Route path='/menu' element={<TestContent/>} />
