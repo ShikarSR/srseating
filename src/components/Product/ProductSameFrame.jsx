@@ -20,7 +20,7 @@ const ProductSameFrame = ({ sectionClass, data }) => {
 
     return (
         <>
-            {/* <div className="space"></div> */}
+            <div className="space"></div>
             <div className={`home_frame_slider product_detail_multicards testimonial-style-two-area bg-cover ${sectionClass ? sectionClass : ""}`}>
                 <div className="container">
                     <div className="row">

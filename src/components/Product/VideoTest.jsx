@@ -1,107 +1,141 @@
 import React, { useState, useRef, useEffect } from 'react';
-import $ from 'jquery'; // Importing jQuery
+import $ from 'jquery';
+import { useParams } from 'react-router-dom';
 
-import AboutFullImage from '@/pages/aboutpage/AboutFullImage';
-import AboutFixedBottom from '../about/AboutFixedBottom';
+const VideoTest = ({ videoData = [] }) => {
+  const [videoLoaded, setVideoLoaded] = useState(false);
+  const [activeVideo, setActiveVideo] = useState('');
+  const durationRefs = useRef([]);
+  const videoRefs = useRef([]);
+  const sectionRefs = useRef([]);
 
-const VideoTest = () => {
-  const [videoHeight, setVideoHeight] = useState(0);  // Store video height
-  const [videoLoaded, setVideoLoaded] = useState(false); // Video loaded state
-  const videoRef = useRef(null); // Video ref
-  const sectionRef = useRef(null); // Section ref
-  const durationRef = useRef(0); // Video duration
+  const { id } = useParams();
+  const numId = Number(id);
 
-  // 🔹 Video metadata loaded
-  const onVideoLoadedData = () => {
-    const video = videoRef.current;
+  // ✅ extract button data safely
+  const buttons = videoData?.[0]?.buttons || {};
+  const buttonText = videoData?.[0]?.buttonText || {};
+
+  useEffect(() => {
+    if (buttons.button1) setActiveVideo(buttons.button1);
+  }, [numId, videoData]);
+
+  // ✅ when video loads
+  const onVideoLoadedData = (index) => {
+    const video = videoRefs.current[index];
     if (video) {
-      durationRef.current = video.duration;
-      const aspectRatio = video.videoWidth / video.videoHeight;
-      setVideoHeight(window.innerHeight * aspectRatio);
+      durationRefs.current[index] = video.duration;
       setVideoLoaded(true);
     }
   };
 
-  // 🔹 Use jQuery to update video time based on scroll
+  // ✅ scroll-sync playback
   const updateVideoTimeFromScroll = () => {
-    const video = videoRef.current;
-    const section = sectionRef.current;
-    
-    if (!video || !section || !videoLoaded) return;
+    videoRefs.current.forEach((video, index) => {
+      const section = sectionRefs.current[index];
+      if (!video || !section || !videoLoaded) return;
 
-    // Get the scroll progress
-    const scrollPosition = $(window).scrollTop();
-    const sectionTop = $(section).offset().top;
-    const sectionHeight = $(section).outerHeight();
-    const scrollableDistance = sectionHeight - window.innerHeight;
-    const scrollProgress = Math.max(0, Math.min(1, (scrollPosition - sectionTop) / scrollableDistance));
+      const scrollPosition = $(window).scrollTop();
+      const sectionTop = $(section).offset().top;
+      const sectionHeight = $(section).outerHeight();
+      const scrollableDistance = sectionHeight - window.innerHeight;
+      const scrollProgress = Math.max(
+        0,
+        Math.min(1, (scrollPosition - sectionTop) / scrollableDistance)
+      );
 
-    // Update video playback time based on scroll progress
-    const newTime = scrollProgress * durationRef.current;
-    if (video.currentTime !== newTime) {
-      video.currentTime = newTime;
-    }
+      const newTime = scrollProgress * durationRefs.current[index];
+      if (video.currentTime !== newTime) video.currentTime = newTime;
+    });
   };
 
   useEffect(() => {
-    const video = videoRef.current;
-    if (video) {
-      video.addEventListener('loadeddata', onVideoLoadedData);
-    }
-
-    // Scroll event listener using jQuery
     $(window).on('scroll', updateVideoTimeFromScroll);
-
-    return () => {
-      if (video) {
-        video.removeEventListener('loadeddata', onVideoLoadedData);
-      }
-      $(window).off('scroll', updateVideoTimeFromScroll); // Cleanup scroll listener
-    };
+    return () => $(window).off('scroll', updateVideoTimeFromScroll);
   }, [videoLoaded]);
 
-  const videoSrc = 'https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR01.webm'; // Your video source
+  if (!videoData || !videoData.length) return null;
 
   return (
     <>
-      <AboutFullImage />
-      <section
-        ref={sectionRef}
-        className="video-section"
-        style={{
-          height: `${videoHeight}px`, // Adjust section height based on video aspect ratio
-          position: 'relative',
-        }}
-      >
+      {/* 🔹 Button Block */}
+      {buttons.button1 && buttons.button2 && (
         <div
-          className="rotate_video"
+          className="global_btn video_btns"
           style={{
-            position: 'sticky',
-            top: 0,
-            height: '100vh', // Keeps the video sticky during scrolling
+            position: 'relative',
+            zIndex: 10, // 🔥 ensures it's above the video
             display: 'flex',
-            alignItems: 'center',
             justifyContent: 'center',
-            background: 'transparent',
+            gap: '20px',
+            padding: '2rem 0',
+            background: 'rgba(255,255,255,0.95)', // visible white overlay
           }}
         >
-          <video
-            ref={videoRef}
-            src={videoSrc}
-            muted
-            playsInline
-            preload="auto"
-            disablePictureInPicture
-            controlsList="nodownload noremoteplayback nofullscreen"
-            style={{
-              display: 'block',
-              maxWidth: '100%',
-              background: 'transparent',
-            }}
-          />
+          <button
+            className={`sr-btn ${activeVideo === buttons.button1 ? 'active' : ''}`}
+            onClick={() => setActiveVideo(buttons.button1)}
+          >
+            {buttonText.text1 || 'Video 1'}
+          </button>
+
+          <button
+            className={`sr-btn ${activeVideo === buttons.button2 ? 'active' : ''}`}
+            onClick={() => setActiveVideo(buttons.button2)}
+          >
+            {buttonText.text2 || 'Video 2'}
+          </button>
         </div>
-      </section>
-      <AboutFixedBottom />
+      )}
+
+      {/* 🔹 Video Sections */}
+      {videoData.map((item, index) => {
+        const videoUrl = item?.buttons?.button1 || '';
+        if (!videoUrl) return null;
+
+        return (
+          <section
+            key={index}
+            ref={(el) => (sectionRefs.current[index] = el)}
+            className="video-section rotate_video"
+            style={{
+              position: 'relative',
+          overscrollBehavior: "contain",
+          
+            }}
+          >
+            <div
+              className=""
+              style={{
+                position: 'sticky',
+                top: 0,
+                height: '100vh',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                background: 'transparent',
+              }}
+            >
+              <video
+                ref={(el) => (videoRefs.current[index] = el)}
+                src={activeVideo || videoUrl}
+                muted
+                playsInline
+                preload="auto"
+                disablePictureInPicture
+                onLoadedData={() => onVideoLoadedData(index)}
+                controlsList="nodownload noremoteplayback nofullscreen"
+                style={{
+                  display: 'block',
+                  maxWidth: '100%',
+                  background: 'transparent',
+                }}
+              />
+            </div>
+        
+          </section>
+        );
+      })}
     </>
   );
 };

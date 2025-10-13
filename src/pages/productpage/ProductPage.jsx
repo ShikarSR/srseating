@@ -20,6 +20,7 @@ import ProductDetailFullWidthSlider from '@/components/Product/ProductDetailFull
 import ProductList from '@/assets/jsonData/product/productlist/ProductDetailsData.json';
 import ProductComfort from '@/components/Product/ProductComfort';
 import ProductTestSlider from '@/components/Product/ProductTestSlider';
+import VideoTest from '@/components/Product/VideoTest';
 
 // ids you want special CSS hooks for
 const CUSTOM_IDS = new Set([100, 200, 15, 14, 11]);
@@ -54,8 +55,9 @@ const ProductPage = () => {
      youtubeLink = {product.scroll_video.youtubeUrl}
       />
 
-      <ProductRotateVideo videoData={product.video}   />
-
+      {/* <ProductRotateVideo videoData={product.video}   /> */}
+        <VideoTest videoData={product.video} />
+        
       <ProductSameFrame data={product.variants_section} />
       <ProductExperience data={product.experience_section} />
       <ProductBluePrint data={product.blue_print_section} />
