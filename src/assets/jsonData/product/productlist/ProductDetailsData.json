@@ -3327,13 +3327,22 @@
     "headline": "Comfort Without the Clutter.",
     "desc": "Crafted for spaces that need to optimize every inch, SR 02 offers a sleek, efficient design that prioritizes comfort and structure. Its ABS-molded seat and back covers and integrated backrests are perfectly aligned for prolonged comfort while reducing stress on high-pressure areas. From lecture halls to busy auditoriums, SR 02 blends perfectly with your environment, creating an experience that allows the focus to stay where it belongs."
   },
-"video": [
+
+
+  "video": [
     {
       "buttons": {
-        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR02.webm"
+        "button1": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR02_tipup.webm",
+        "button2": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/testfolder/SR02.webm"
+      },
+        "buttonText" :{
+        "text1": "Tip-Up",
+        "text2": "Slider"
       }
     }
   ],
+
+
   "variants_section": {
     "label": "VARIANTS",
     "headline": "Maximized Seating. \nSimplified Comfort.",

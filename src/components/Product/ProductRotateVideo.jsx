@@ -158,7 +158,7 @@ const ProductRotateVideo = ({ videoData = [], autoAdvance = false }) => {
             preload="metadata"
             disablePictureInPicture
             controlsList="nodownload noremoteplayback nofullscreen"
-            style={{ display: "block", maxWidth: "100%", background: "transparent" }}
+            style={{ display: "block",height:"100%", maxWidth: "100%", background: "transparent" }}
           />
         </div>
       </section>

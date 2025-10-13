@@ -11,7 +11,9 @@
 @media only screen and (max-width:767.98px) {
 
 
- 
+ .video-section video{
+    height: 90%;
+}
     .blog-item-box .col-lg-4:nth-child(n+4){
         margin-top: 10px;
     }

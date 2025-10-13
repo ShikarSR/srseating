@@ -2385,7 +2385,7 @@ filter: invert(1) brightness(40.5);
 }
 .video_btns button{
         margin-right: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 .video_btns .sr-btn{
     height: 51px;
@@ -2511,3 +2511,6 @@ background-position: center;
        .ceo_paralax{
         background-position: bottom;
     }
+.video-section video{
+    height: 90%;
+}

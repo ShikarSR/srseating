@@ -97,11 +97,9 @@ const VideoTest = ({ videoData = [] }) => {
           <section
             key={index}
             ref={(el) => (sectionRefs.current[index] = el)}
-            className="video-section rotate_video"
+            className="video-section "
             style={{
-              position: 'relative',
-          overscrollBehavior: "contain",
-          
+              position: 'relative',        
             }}
           >
             <div
