@@ -648,7 +648,7 @@ margin-top: 70px;
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
     padding: 0;                 /* kill inherited padding if any */
-    height: 600px;              /* keep your scroll room */
+    /* height: 600px;              keep your scroll room */
   }
 
   .video-pin {

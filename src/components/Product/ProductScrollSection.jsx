@@ -64,7 +64,7 @@ const src = rawPath
   
   return (
     <>
-      <section className="video-section" ref={containerRef}>
+      <section className="video-section scroll_video_sec" ref={containerRef}>
         <div className="video-pin">
           <div className="video-frame" ref={frameRef}>
             <video

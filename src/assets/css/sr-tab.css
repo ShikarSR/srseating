@@ -1506,7 +1506,7 @@ border-bottom-left-radius: 0px;
     }
 .video-pin, .video-section{
     top: 0px !important;
-    height: auto !important;
+    /* height: auto !important; */
 }
     .product_detail_page .accessories_sec .sub_wrapper:nth-child(n+4){
         margin-top: 20px;
@@ -2280,7 +2280,7 @@ padding-right: 15px;
     box-shadow: none;
 }
 .video-section{
-    height: 100% !important;
+    /* height: 100% !important; */
     margin-top: 100px !important;
 }
 

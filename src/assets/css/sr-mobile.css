@@ -11,6 +11,14 @@
 @media only screen and (max-width:767.98px) {
 
 
+
+    .product_detail_page .product_detail_multicards{
+        margin-top: 0px;
+    }
+    .scroll_video_sec{
+        height: 100% !important;
+        margin-top: 0px !important;
+    }
  .video-section video{
     height: 90%;
 }
@@ -806,9 +814,12 @@ border-radius: 0px;
     width:100% ;
     padding: 50px 35px 50px;
 }
+.video_btns button{
+    margin-bottom: 0px;
+}
 .video-section{
-    height: 100% !important;
-    margin-top: 200px !important;
+    /* height: 100% !important; */
+    /* margin-top: 200px !important; */
 }
 .product_detail_page .testimonial-style-two{
     margin-top: 30px;
