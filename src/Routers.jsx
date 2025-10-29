@@ -41,7 +41,7 @@ import CinemaPage from './pages/cinema/CinemaPage';
 import PhotoGalleryPage from './pages/photogallery/PhotoGalleryPage';
 import ContactPage from './pages/contactus/ContactPage';
 // import BlogPage from './pages/blogPages/BlogPage';
-// import ResourcePage from './pages/resourcepage/ResourcePage';
+import ResourcePage from './pages/resourcepage/ResourcePage';
 // import WallOfSuccess from './pages/wallofsuccess/WallOfSuccessPage';
 import WallOfSuccessPage from './pages/wallofsuccess/WallOfSuccessPage';
 // import MegaMenu from './pages/menu/MegaMenu';
@@ -93,7 +93,7 @@ const Routers = () => {
 
                 <Route path='/blog' element={<Blog2ColumnPage />}></Route>
                 <Route path='/blog/:slug' element={<BlogSingleWithSidebarPage />} />
-                {/* <Route path='/resource' element={<ResourcePage />} /> */}
+                <Route path='/resource' element={<ResourcePage />} />
                 <Route path='/wall-of-success' element={<WallOfSuccessPage />} />
 
 

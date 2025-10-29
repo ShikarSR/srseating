@@ -333,7 +333,7 @@ const handleResend = async () => {
 />
 
 
- {/* <PhoneInput
+ <PhoneInput
       defaultCountry="in"
       name="phone"
       value={form.phone}
@@ -349,7 +349,7 @@ const handleResend = async () => {
         placeholder: "Phone*",
       }}
       className="form-control"
-    /> */}
+    />
                   </div>
                 </div>
 
