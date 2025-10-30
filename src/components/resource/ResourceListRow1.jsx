@@ -6,7 +6,7 @@ import { PhoneInput } from "react-international-phone";
 import "react-international-phone/style.css";
 
 
-const SEND_OTP_URL = "https://theskepper.com/srbackend/send-otp.php";
+const SEND_OTP_URL = "http://localhost/backend/send-otp.php";
 const VERIFY_OTP_URL = "https://theskepper.com/srbackend/verify-otp.php";
 
 // We’ll assume India. Change if needed.
