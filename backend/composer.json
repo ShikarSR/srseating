@@ -1,0 +1,5 @@
+{
+  "name": "srseating/backend",
+  "description": "PHP backend for OTP verification",
+  "require": {}
+}
