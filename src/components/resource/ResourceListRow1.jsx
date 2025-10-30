@@ -6,8 +6,8 @@ import { PhoneInput } from "react-international-phone";
 import "react-international-phone/style.css";
 
 
-const SEND_OTP_URL = "https://malgar.shop/backend/backend/send-otp.php";
-const VERIFY_OTP_URL = "https://malgar.shop/backend/backend/verify-otp.php";
+const SEND_OTP_URL = "http://134.209.144.29/send-otp.php";
+const VERIFY_OTP_URL = "http://134.209.144.29/verify-otp.php";
 
 // We’ll assume India. Change if needed.
 const DEFAULT_CC = "91";
