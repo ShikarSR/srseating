@@ -71,6 +71,8 @@
     { "value": "609/660 MM", "label": "Center-To-Center" },
     { "value": "760 MM", "label": "DEPTH" }
   ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR300.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
   "experience_section": {
@@ -263,6 +265,8 @@
     { "value": "609/660 MM", "label": "Center-To-Center" },
     { "value": "740 MM", "label": "DEPTH" }
   ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR200.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
   "variants_section": {
@@ -473,6 +477,8 @@
     { "value": "609/660 MM", "label": "Center-To-Center" },
     { "value": "700 MM", "label": "DEPTH" }
   ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR100.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
   "variants_section": {
@@ -687,6 +693,8 @@
     { "value": "609/660 MM", "label": "Center-To-Center" },
     { "value": "700 MM", "label": "DEPTH" }
   ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR15.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
   "variants_section": {
@@ -949,6 +957,8 @@
     { "value": "508 MM", "label": "Center-To-Center" },
     { "value": "390 MM", "label": "DEPTH" }
   ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR14.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -1167,6 +1177,8 @@
     { "value": "559 MM", "label": "Center-To-Center" },
     { "value": "640 MM", "label": "DEPTH" }
   ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR13.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -1381,6 +1393,8 @@
     { "value": "584 MM", "label": "Center-To-Center" },
     { "value": "840 MM", "label": "DEPTH" }
   ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR12.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -1586,6 +1600,8 @@
     { "value": "508 MM", "label": "Center-To-Center" },
     { "value": "460 MM", "label": "DEPTH" }
   ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR11.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -1804,6 +1820,8 @@
     { "value": "559 MM", "label": "Center-To-Center" },
     { "value": "640 MM", "label": "DEPTH" }
   ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR10.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -2021,6 +2039,8 @@
     { "value": "559 MM", "label": "Center-To-Center" },
     { "value": "700 MM", "label": "DEPTH" }
   ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR09.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -2257,6 +2277,8 @@
     { "value": "559 MM", "label": "Center-To-Center" },
     { "value": "660 MM", "label": "DEPTH" }
   ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR07.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -2491,6 +2513,8 @@
     { "value": "559 MM", "label": "Center-To-Center" },
     { "value": "620 MM", "label": "DEPTH" }
   ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR06.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -2728,6 +2752,8 @@
     { "value": "559 MM", "label": "Center-To-Center" },
     { "value": "660 MM", "label": "DEPTH" }
   ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR05.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -2972,6 +2998,8 @@
     { "value": "534 MM", "label": "Center-To-Center" },
     { "value": "580 MM", "label": "DEPTH" }
   ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR04.pdf",
+
   "cta_text": "Download Tech Data Sheet"
 },
 
@@ -3210,6 +3238,8 @@
       { "value": "534 MM", "label": "Center-To-Center" },
       { "value": "570 MM", "label": "DEPTH" }
     ],
+           "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR03.pdf",
+
     "cta_text": "Download Tech Data Sheet"
   },
   "details_section": {
@@ -3426,6 +3456,8 @@
       { "value": "580 MM", "label": "Center-To-Center" },
       { "value": "710 MM", "label": "DEPTH" }
     ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR02.pdf",
+
     "cta_text": "Download Tech Data Sheet"
   },
   "details_section": {
@@ -3652,6 +3684,8 @@
       { "value": "580 MM", "label": "Center-To-Center" },
       { "value": "408 MM", "label": "DEPTH" }
     ],
+           "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR01.pdf",
+
     "cta_text": "Download Tech Data Sheet"
   },
   "details_section": {

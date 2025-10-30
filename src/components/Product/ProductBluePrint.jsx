@@ -1,8 +1,19 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Animation from '../animation/Animation';
 import { Link } from 'react-router-dom';
+import DownloadPopup from "../../assets/jsonData/product/Popup";
 
 const ProductBluePrint = ({ data }) => {
+
+ const [showPopup, setShowPopup] = useState(false);
+
+  // 🔽 Handle Download TDS click
+  const handleDownloadTDS = (e) => {
+    e.preventDefault(); // prevent any accidental link navigation
+    setShowPopup(true);
+  };
+
+
   return (
     <section className='blue_print_sec'>
       <div className="space"></div>
@@ -40,8 +51,8 @@ const ProductBluePrint = ({ data }) => {
         </div>
 
         <div className="global_btn">
-          <button className="sr-btn">
-            <Link className="font_22" to="/contact-us" >
+          <button className="sr-btn"  onClick={handleDownloadTDS}>
+            <Link className="font_22"  >
               <span className="btn-text">{data.cta_text}</span>
               <span className="arrow">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
@@ -52,7 +63,17 @@ const ProductBluePrint = ({ data }) => {
           </button>
         </div>
       </div>
+
+    <DownloadPopup
+        showPopup={showPopup}
+        setShowPopup={setShowPopup}
+        pdfUrl={data.pdf || data.blue_print_section?.pdf}
+        title={data.headline || 'Tech Data Sheet'}
+      />
+
     </section>
+
+    
   );
 };
 
