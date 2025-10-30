@@ -4,10 +4,11 @@
   "hero": {
     "tag": "SR300",
     "headline": "Ergonomics \nMade Elegant.",
-    "buttons": [
+   "buttons": [
       { "text": "Get Quote"},
-      { "text": "Discover More"}
+      { "text": "Download TDS"}
     ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR300.pdf",
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/300.png"
   },
   "overview": {
@@ -215,6 +216,7 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+    "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR200.pdf",
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/200.png"
   },
   "overview": {
@@ -427,6 +429,7 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR100.pdf",
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/1001.png"
   },
   "overview": {
@@ -636,6 +639,7 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR15.pdf",
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/15.png"
   },
   "overview": {
@@ -857,6 +861,7 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+     "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR14.pdf",
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/14.png"
   },
   "overview": {
@@ -1061,6 +1066,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR13.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/13.png"
   },
   "overview": {
@@ -1279,6 +1286,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR12.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/12.png"
   },
   "overview": {
@@ -1489,6 +1498,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR11.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/11.png"
   },
   "overview": {
@@ -1692,6 +1703,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR10.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/10.png"
   },
   "overview": {
@@ -1908,6 +1921,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR09.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/09.png"
   },
   "overview": {
@@ -2142,6 +2157,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+         "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR07.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/07.png"
   },
   "overview": {
@@ -2374,6 +2391,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR06.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/06.png"
   },
   "overview": {
@@ -2609,6 +2628,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR05.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/05.png"
   },
   "overview": {
@@ -2843,6 +2864,8 @@
       { "text": "Get Quote"},
       { "text": "Download TDS"}
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR04.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/4.png"
   },
   "overview": {
@@ -3093,6 +3116,8 @@
       { "text": "Get Quote" },
       { "text": "Download TDS" }
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR03.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/03.png"
   },
   "overview": {
@@ -3303,6 +3328,8 @@
       { "text": "Get Quote" },
       { "text": "Download TDS" }
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR02.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/02.png"
   },
   "overview": {
@@ -3536,6 +3563,8 @@
       { "text": "Get Quote" },
       { "text": "Download TDS" }
     ],
+       "pdf" :"https://srseating.blr1.cdn.digitaloceanspaces.com/image/product-pdf/SR01.pdf",
+
     "image": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/01.png"
   },
   "overview": {
