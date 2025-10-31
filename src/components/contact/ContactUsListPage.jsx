@@ -27,7 +27,7 @@
 
                 };
                 try{
-                    const res =await fetch('https://www.srseating.com/api/contactForm.php',{
+                    const res =await fetch('https://www.srseating.com/api/contact-form.php',{
                                 method:'POST',
                                 headers:{
                                     'Content-Type' :'application/json',
