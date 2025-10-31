@@ -363,7 +363,7 @@ const handleResend = async () => {
 
                 <div className="row">
                   <div className="col-lg-12">
-                    <button type="submit" disabled={sending}>
+                    <button type="submit" disabled={sending} className="sr-btn mt-4">
                       {sending ? "Sending…" : "Get Verification Code"}
                     </button>
                   </div>
@@ -418,7 +418,8 @@ const handleResend = async () => {
                         background: "transparent",
                         border: "none",
                         padding: 0,
-                        color: "#0a58ca",
+                        color: "#000",
+                        marginTop:"10px"
                       }}
                       className="text-decoration-underline"
                     >
@@ -434,7 +435,7 @@ const handleResend = async () => {
                 <div className="row">
                   <div className="col-lg-12">
                     <div className="download-btn">
-                      <button type="submit" disabled={verifying || !sessionId}>
+                      <button type="submit" disabled={verifying || !sessionId} className="sr-btn mt-4">
                         {verifying ? "Verifying…" : "Verify & Download"}
                       </button>
                     </div>
