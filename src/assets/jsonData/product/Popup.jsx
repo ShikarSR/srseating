@@ -163,7 +163,7 @@ const Popup = ({ showPopup, setShowPopup, pdfUrl, title }) => {
         </button>
 
         {step === "form" && (
-          <form onSubmit={handleFormSubmit} className="download-form global_btn">
+          <form onSubmit={handleFormSubmit} className="download-form ">
             <h4 className="font_44">Download {title}</h4>
             <p className="font_22">
               Fill in your details — we’ll send a quick WhatsApp verification
