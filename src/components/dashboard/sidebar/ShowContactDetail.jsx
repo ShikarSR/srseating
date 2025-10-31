@@ -7,7 +7,7 @@ const ShowContactDetail = () => {
 
   const getContact = async () => {
     try {
-      const res = await fetch('http://134.209.144.29/getContact.php');
+      const res = await fetch('https://www.srseating.com/api/get-contact.php');
       const data = await res.json();
       setContacts(data);
     } catch (error) {
