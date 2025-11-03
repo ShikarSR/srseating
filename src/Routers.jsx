@@ -90,7 +90,6 @@ const Routers = () => {
                 <Route path='/privacy-policy' element={<PrivacyPolicyPage/>} />
                 <Route path='/terms-conditions' element={<TermsConditionPage/>} />
 
-
                 <Route path='/blog' element={<Blog2ColumnPage />}></Route>
                 <Route path='/blog/:slug' element={<BlogSingleWithSidebarPage />} />
                 <Route path='/resource' element={<ResourcePage />} />
