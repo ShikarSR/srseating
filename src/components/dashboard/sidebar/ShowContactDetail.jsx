@@ -55,7 +55,7 @@ const ShowContactDetail = () => {
 
   return (
     <div className='d_contact_table' style={{ padding: '20px' }}>
-      <h2>Contact Submissions</h2>
+      <h2 className='mt-4'>Contact Submissions</h2>
       <DataTable
         columns={columns}
         data={contacts}
