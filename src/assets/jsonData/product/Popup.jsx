@@ -3,8 +3,8 @@ import axios from "axios";
 import { toast } from "react-toastify";
 import "react-international-phone/style.css";
 
-const SEND_OTP_URL = "https://www.srseating.com/api/send-otp.php";
-const VERIFY_OTP_URL = "https://www.srseating.com/api/verify-otp.php";
+const SEND_OTP_URL = "https://api.srseating.com/api/send-otp.php";
+const VERIFY_OTP_URL = "https://api.srseating.com/api/verify-otp.php";
 
 const Popup = ({ showPopup, setShowPopup, pdfUrl, title }) => {
   const [step, setStep] = useState("form");
