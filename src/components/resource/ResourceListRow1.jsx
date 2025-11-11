@@ -218,10 +218,15 @@ const handleResend = async () => {
         return;
       }
       setVerifying(true);
-      const res = await axios.post(VERIFY_OTP_URL, {
+      const res = await axios.post(VERIFY_OTP_URL,
+         {
         session_id: sessionId,
         otp: code,
-      });
+      },
+      {
+        headers: { "Content-Type": "application/json" },
+      }
+    );
 
       if (res.data.success) {
         toast.success("OTP Verified ✅");
