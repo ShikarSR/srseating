@@ -36,6 +36,10 @@ const ResourceListRow1 = ({ team }) => {
   const otpRefs = useRef([]);
 
   const [pdfUrl, setPdfUrl] = useState("");
+
+  const hasSent = useRef(false);
+
+
   const [form, setForm] = useState({
     name: "",
     companyname: "",
@@ -109,7 +113,8 @@ const ResourceListRow1 = ({ team }) => {
  // SEND OTP
 const handleFormSubmit = async (e) => {
   e.preventDefault();
-
+if (hasSent.current) return;
+  hasSent.current = true;
   const rawPhone = (form.phone || '').trim();
   if (!form.name || !form.companyname || !form.email || !rawPhone) {
     toast.error('Please fill all required fields');
@@ -185,8 +190,8 @@ const handleResend = async () => {
 
     if (res.data?.success) {
       setSessionId(res.data.session_id);
-      setCountdown(60);
       setOtp(['','','','','','']);
+      setCountdown(60);
       setTimeout(() => otpRefs.current[0]?.focus(), 100);
       toast.success('OTP resent');
     } else {
@@ -228,15 +233,20 @@ const handleResend = async () => {
       }
     );
 
-      if (res.data.success) {
-        toast.success("OTP Verified ✅");
-        setTimeout(() => {
-          window.open(pdfUrl, "_blank");
-          closePopup();
-        }, 600);
-      } else {
-        toast.error(res.data.message || "Invalid OTP");
-      }
+     let data = res.data;
+if (typeof data === "string") {
+  try { data = JSON.parse(data.match(/{.*}/s)?.[0]); } catch {}
+}
+
+if (data?.success === true || data?.success === "true") {
+  toast.success("OTP Verified ✅");
+  setTimeout(() => {
+    window.open(pdfUrl, "_blank");
+    closePopup();
+  }, 600);
+} else {
+  toast.error(data?.message || "Invalid OTP");
+}
     } catch {
       toast.error("Error verifying OTP");
     } finally {
