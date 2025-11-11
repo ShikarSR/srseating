@@ -6,8 +6,8 @@ import { PhoneInput } from "react-international-phone";
 import "react-international-phone/style.css";
 
 
-const SEND_OTP_URL = "https://www.srseating.com/api/send-otp.php";
-const VERIFY_OTP_URL = "https://www.srseating.com/api/verify-otp.php";
+const SEND_OTP_URL = "http://134.209.144.29/send-otp.php";
+const VERIFY_OTP_URL = "http://134.209.144.29/verify-otp.php";
 
 // We’ll assume India. Change if needed.
 const DEFAULT_CC = "91";
@@ -119,36 +119,50 @@ const handleFormSubmit = async (e) => {
   // Backend accepts "+<digits>" or digits; it will normalize to AiSensy format.
   const phoneForBackend = rawPhone.startsWith('+') ? rawPhone : `+${rawPhone}`;
 
-  try {
-    setSending(true);
-    const res = await axios.post(SEND_OTP_URL, {
-      name: form.name,
-      companyname: form.companyname,
-      email: form.email,
-      phone: phoneForBackend
-    });
+ try {
+  setSending(true);
+  const res = await axios.post(SEND_OTP_URL, {
+    name: form.name,
+    companyname: form.companyname,
+    email: form.email,
+    phone: phoneForBackend
+  });
 
-    if (res.data?.success) {
-      setSessionId(res.data.session_id);
-      setStep('otp');
-      setCountdown(60);
-      setTimeout(() => otpRefs.current[0]?.focus(), 100);
-      toast.success('OTP sent to WhatsApp');
-      console.log('AiSensy:', res.data.aisensy_response);
-    } else {
-      const msg = res.data?.message
-        || res.data?.aisensy_response?.message
-        || res.data?.aisensy_response?.errorMessage
-        || 'Failed to send OTP';
-      toast.error(msg);
-      console.error('Send OTP error payload:', res.data);
+  // 🧠 Ensure JSON is properly parsed if PHP returns a raw string
+  let data = res.data;
+  if (typeof data === "string") {
+    try { data = JSON.parse(data); } catch (e) {
+      console.error("Invalid JSON from backend:", data);
     }
-  } catch (err) {
-    console.error('Send OTP error:', err);
-    toast.error(err.response?.data?.message || 'Network / server error');
-  } finally {
-    setSending(false);
   }
+
+  // ✅ Works for both "true" and true
+  const isSuccess = data?.success === true || data?.success === "true";
+
+  if (isSuccess) {
+    setSessionId(data.session_id);
+    setStep("otp");
+    setCountdown(60);
+    setTimeout(() => otpRefs.current[0]?.focus(), 100);
+    toast.success("OTP sent to WhatsApp");
+    console.log("AiSensy:", data.aisensy_response);
+  } else {
+    const msg =
+      data?.message ||
+      data?.aisensy_response?.message ||
+      data?.aisensy_response?.errorMessage ||
+      "Failed to send OTP";
+    toast.error(msg);
+    console.error("Send OTP error payload:", data);
+  }
+
+} catch (err) {
+  console.error("Send OTP error:", err);
+  toast.error(err.response?.data?.message || "Network / server error");
+} finally {
+  setSending(false);
+}
+
 };
 
 

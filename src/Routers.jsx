@@ -80,6 +80,7 @@ const Routers = () => {
                 <Route path='/manufacturing' element={<ManufacturingPage/>} />
                 <Route path='/photo-gallery' element={<PhotoGalleryPage/>} />
                 <Route path='/contact-us' element={<ContactPage/>}/>
+                {/* <Route path='/contact-us' element={<ContactPage/>}/> */}
 
                 <Route path='/cinema' element={<CinemaPage/>} />
                 <Route path='/auditorium' element={<AuditoriumPage/>} />
