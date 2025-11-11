@@ -6,8 +6,8 @@ import { PhoneInput } from "react-international-phone";
 import "react-international-phone/style.css";
 
 
-const SEND_OTP_URL = "http://134.209.144.29/send-otp.php";
-const VERIFY_OTP_URL = "http://134.209.144.29/verify-otp.php";
+const SEND_OTP_URL = "/send-otp.php";
+const VERIFY_OTP_URL = "/verify-otp.php";
 
 // We’ll assume India. Change if needed.
 const DEFAULT_CC = "91";
