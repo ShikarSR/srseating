@@ -27,7 +27,7 @@
 
                 };
                 try{
-                    const res =await fetch('https://theskepper.com/srbackend/contactform/contact-form.php',{
+                    const res =await fetch('https://api.srseating.com/contact-form.php',{
                                 method:'POST',
                                 headers:{
                                     'Content-Type' :'application/json',
