@@ -7,7 +7,7 @@ const ShowContactDetail = () => {
 
   const getContact = async () => {
     try {
-      const res = await fetch('https://theskepper.com/srbackend/contactform/get-contact.php');
+      const res = await fetch('https://api.srseating.com/get-contact.php');
       const data = await res.json();
       setContacts(data);
     } catch (error) {

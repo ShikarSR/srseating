@@ -2607,6 +2607,9 @@ padding-right: 15px;
 }
 @media only screen and (min-width:1701px) {
 
+    .scroll_video_sec .video-frame{
+        width: 130%;
+    }
     .product_list_page .allproduct_list .model_box img {
     width: 340px;
 }
