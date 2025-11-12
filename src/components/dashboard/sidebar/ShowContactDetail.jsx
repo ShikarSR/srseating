@@ -54,7 +54,16 @@ const ShowContactDetail = () => {
   ];
 
   return (
-    <div className='d_contact_table' style={{ padding: '20px' }}>
+    <div className="container-fluid">
+      <div className="row">
+        <div className="col-lg-2" style={{ height:"100vh", borderRight:"1px solid #F8D84D"}}>
+        <img src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/srlogo.png" alt="SR Seating Logo"
+        style={{width: "80%", marginTop: "40px", marginLeft:"auto", marginRight:"auto", display:"block"}}
+        />
+        </div>
+
+        <div className="col-lg-10 ">
+                 <div className='d_contact_table mt-5'>
       <h2 className='mt-4 mb-5'>Contact Submissions</h2>
       <DataTable
         columns={columns}
@@ -65,6 +74,11 @@ const ShowContactDetail = () => {
         striped
         responsive
       />
+        </div>
+        </div>
+
+      </div>
+ 
     </div>
   );
 };

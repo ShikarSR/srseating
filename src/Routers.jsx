@@ -139,7 +139,7 @@ const Routers = () => {
               element={isAuthenticated ? <Dashboard /> : <Navigate to="/srseating-signin" />}         
             
             />
-            <Route path="/contact-detail" element={<ShowContactDetail />} /> 
+            <Route path="/srcontact__detail" element={<ShowContactDetail />} /> 
 
              <Route path="/srseating-signin" element={<SignIn />} />
             <Route path="/srseating-signup" element={<SignUp />} />
