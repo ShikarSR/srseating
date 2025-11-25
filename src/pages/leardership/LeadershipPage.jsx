@@ -9,9 +9,35 @@ import LeadershipMomentFullwidthSlider from '@/components/leadership/LeadershipM
 import LeadershipParalax from '@/components/leadership/LeadershipParalax'
 import LeagacyQuality from '@/components/leadership/LeagacyQuality'
 import React from 'react'
+import {Helmet} from 'react-helmet'
 
 const LeadershipPage = () => {
   return (
+    <>
+
+    <Helmet>
+      <title>Leadership</title>
+
+  <meta
+    name="description"
+    content="Meet the leadership shaping the future of auditorium and cinema seating. Discover the vision, values, and journey behind SR Seating's growth from a single idea to 1500+ successful projects worldwide."
+  />
+
+  <meta
+    name="keywords"
+    content="SR Seating leadership, Anil Rathore, Shikhar Rathore, seating manufacturing leaders, auditorium seating innovators, Indian seating company leadership, seating industry vision"
+  />
+
+  <meta property="og:title" content="Leadership That Shapes the Future of Seating" />
+  <meta
+    property="og:description"
+    content="Explore the people, principles, and purpose driving SR Seating — built on perseverance, innovation, and uncompromising quality."
+  />
+    <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://srseating.com/cinema" />
+  <meta property="og:image" content="https://srseating.blr1.cdn.digitaloceanspaces.com/image/favicon.svg" />
+    </Helmet>
+
     <section className='leadership_page'>
       <Navbar/>
         <Leadership/>
@@ -23,6 +49,7 @@ const LeadershipPage = () => {
         <LeadershipBottom/>
         <FooterV1/>
     </section>
+    </>
   )
 }
 

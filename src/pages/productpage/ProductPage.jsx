@@ -15,7 +15,7 @@ import ProductDetailFullWidthSlider from "@/components/Product/ProductDetailFull
 import ProductList from "@/assets/jsonData/product/productlist/ProductDetailsData.json";
 import VideoTest from "@/components/Product/VideoTest";
 import DownloadPopup from "../../assets/jsonData/product/Popup";
-
+import {Helmet} from 'react-helmet'
 const CUSTOM_IDS = new Set([100, 200, 15, 14, 11]);
 
 const ProductPage = () => {
@@ -35,6 +35,37 @@ const ProductPage = () => {
   };
 
   return (
+
+    <>
+    
+    <Helmet>
+  <title>Seating Products</title>
+
+  <meta
+    name="description"
+    content="Explore SR Seating’s complete range of premium auditorium, cinema, institutional, and home theatre seating. Thoughtfully engineered for comfort, durability, and performance across every space."
+  />
+
+  <meta
+    name="keywords"
+    content="seating products, auditorium chairs, cinema seating, institutional seating, recliner seating, commercial seating solutions, SR Seating products, seating manufacturer India"
+  />
+
+  <meta
+    property="og:title"
+    content="The Art of Seating, Perfected for You | SR Seating"
+  />
+  <meta
+    property="og:description"
+    content="Discover a curated lineup of premium seating designed with precision engineering, quality materials, and over 3 lakh+ installations nationwide."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://srseating.com/products" />
+  <meta property="og:image" content="https://srseating.blr1.cdn.digitaloceanspaces.com/image/favicon.svg" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+</Helmet>
+
     <section className={pageClass} data-product-id={numId}>
       <Navbar />
       <ProductHeader data={product} />
@@ -52,7 +83,7 @@ const ProductPage = () => {
         data={product.minimal_form}
         videoUrl={product.scroll_video?.videoUrl}
         youtubeLink={product.scroll_video?.youtubeUrl}
-      />
+        />
       <VideoTest videoData={product.video} />
       <ProductExperience data={product.experience_section} />
       <ProductBluePrint data={product.blue_print_section} />
@@ -68,8 +99,9 @@ const ProductPage = () => {
         setShowPopup={setShowPopup}
         pdfUrl={product.hero?.pdf}
         title={product.hero?.tag}
-      />
+        />
     </section>
+        </>
   );
 };
 

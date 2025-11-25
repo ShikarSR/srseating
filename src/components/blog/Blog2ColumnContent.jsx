@@ -4,6 +4,7 @@ import Pagination from 'react-paginate';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useEffect, useState } from "react";
 import Animation from "../animation/Animation";
+import {Helmet} from 'react-helmet'
 
 const Blog2ColumnContent = () => {
 
@@ -38,6 +39,33 @@ const Blog2ColumnContent = () => {
     return (
         <>
 
+    <Helmet>
+  <title>Insights & Blogs </title>
+
+  <meta
+    name="description"
+    content="Explore expert insights, industry trends, and practical guides on auditorium, cinema, and institutional seating. Stay informed with blogs that go beyond the seat."
+  />
+
+  <meta
+    name="keywords"
+    content="seating blogs, auditorium seating tips, cinema seating trends, ergonomic seating insights, seating industry articles, SR Seating blogs, theatre seating guides"
+  />
+
+  <meta
+    property="og:title"
+    content="Insights Beyond the Seat | SR Seating"
+  />
+  <meta
+    property="og:description"
+    content="Discover articles that explore comfort, design, durability, and industry innovations in seating for cinemas, auditoriums, and more."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://srseating.com/blog" />
+  <meta property="og:image" content="https://srseating.blr1.cdn.digitaloceanspaces.com/image/favicon.svg" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+</Helmet>
  {/* <div className="container"> */}
                           <div className="banner-style-one-area leadership_header_sec overflow-hidden manufacturing_header_sec">
                                  <div className="shape-blury" />
