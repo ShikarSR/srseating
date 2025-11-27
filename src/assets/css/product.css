@@ -648,6 +648,7 @@ margin-top: 70px;
     width: 100vw;
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
+    height: 100%;
     padding: 0;                 /* kill inherited padding if any */
     /* height: 600px;              keep your scroll room */
   }
@@ -679,10 +680,10 @@ margin-top: 70px;
 @media only screen and (min-width: 1024px) and (max-width: 1025px) {
 
     .video-pin, .video-frame, .video-section .video-frame .video, .video-section{
-        /* height: 45vh !important; */
+        height: 100%;
     }
     .minimal-section{
-        margin-top: 100px;
+        margin-top: 0px;
     }
 
 }

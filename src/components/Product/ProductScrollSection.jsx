@@ -9,6 +9,7 @@ const ProductScrollSection = ({ data = {}, videoUrl, youtubeLink }) => {
   const containerRef = useRef(null);
   const frameRef = useRef(null);
   const rafRef = useRef(0);
+const videoRef = useRef(null);
 
   useEffect(() => {
     const container = containerRef.current;
@@ -62,23 +63,69 @@ const src = rawPath
   ? (rawPath.startsWith("http") ? rawPath : `${import.meta.env.BASE_URL}${rawPath.replace(/^\//, "")}`)
   : "/assets/img/video/scrollvideo.mp4";
   
+  useEffect(() => {
+  const vid = videoRef.current;
+  if (!vid) return;
+
+  const seekTo = () => {
+    try {
+      vid.currentTime = 4;
+    } catch (e) {
+      console.log("Seek failed, retrying...");
+    }
+  };
+
+  const trySeekRepeatedly = () => {
+    let attempts = 0;
+
+    const interval = setInterval(() => {
+      attempts++;
+
+      // Try seek
+      seekTo();
+
+      // If video actually moved, stop retrying
+      if (vid.currentTime >= 0.39) {
+        clearInterval(interval);
+      }
+
+      // Safety stop after 20 tries (400ms)
+      if (attempts > 20) {
+        clearInterval(interval);
+      }
+    }, 20); // every 20ms
+  };
+
+  // When metadata loads
+  vid.addEventListener("loadedmetadata", trySeekRepeatedly);
+
+  // Also retry when video starts playing
+  vid.addEventListener("play", trySeekRepeatedly);
+
+  return () => {
+    vid.removeEventListener("loadedmetadata", trySeekRepeatedly);
+    vid.removeEventListener("play", trySeekRepeatedly);
+  };
+}, []);
+
+
   return (
     <>
       <section className="video-section scroll_video_sec" ref={containerRef}>
         <div className="video-pin">
           <div className="video-frame" ref={frameRef}>
             <video
-              key={src}
-              className="video"
-              src={src}
-                // src="/assets/img/video/scrollvideo.mp4"
+  key={src}
+  className="video"
+  src={src}
+  ref={videoRef}
+  muted
+  autoPlay
+  loop
+  playsInline
+  preload="auto"
+/>
 
-              playsInline
-              muted
-              autoPlay
-              loop
-              preload="auto"
-            />
           </div>
         </div>
       </section>

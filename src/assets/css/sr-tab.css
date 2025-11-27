@@ -298,7 +298,7 @@ footer .container:nth-child(2){
     margin-top: 0px !important;
 }
 .video-section{
-    margin-top: 100px;
+    margin-top: 10px;
 }
 .minimal-section {
     margin-top: 200px !important;
@@ -1094,7 +1094,7 @@ border-bottom-left-radius: 0px;
     display: block;
 }
 .youtube_btn{
-    margin-top: 150px;
+    margin-top: 100px;
 }
     .product_detail_page .product_fullwidth_slider .right_wrapper .chair_img img{
         width: 300px;
@@ -2316,7 +2316,7 @@ padding-right: 15px;
         padding-top: 0px;
     }
 .youtube_btn{
-    /* margin-top: 150px; */
+    margin-top: 150px;
 }
    .innvation_page .sustainability_sec .three_box_wrapper .container-fluid{
     overflow-x: hidden;
@@ -2408,7 +2408,8 @@ padding-right: 15px;
     box-shadow: none; */
 }
 .video-section{
-    /* height: 100% !important;
+    height: 100% !important;
+    /* 
     margin-top: 100px !important; */
 }
     .luxury_right_wrapper, .luxury_left_wrapper{
