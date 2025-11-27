@@ -71,11 +71,11 @@ const ProductPage = () => {
       <ProductHeader data={product} />
 
       {/* Replace your "Download TDS" button with this */}
-      <div className="text-center my-8">
+      {/* <div className="text-center my-8">
         <button className="primary-btn" onClick={handleDownloadTDS}>
           Download TDS
         </button>
-      </div>
+      </div> */}
 
       <ProductOverlap data={product.overview} />
       <ProductParalax data={product.banner_quote} />

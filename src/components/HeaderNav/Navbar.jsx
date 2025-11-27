@@ -97,7 +97,7 @@ const Navbar = () => {
                 onMouseEnter={() => handleNavEnter('about')}
                 onMouseLeave={handleNavLeave}
               >
-                <Link to={legacyMenu[0].url}>About SR Seating</Link>
+                <Link>About SR Seating</Link>
                 <span>
                   <svg
                     width="16"
@@ -114,7 +114,7 @@ const Navbar = () => {
                 onMouseEnter={() => handleNavEnter('solution')}
                 onMouseLeave={handleNavLeave}
               >
-                <Link to={solutionMenu[0].url}>Solutions</Link>
+                <Link>Solutions</Link>
                 <span>
                   <svg
                     width="16"
@@ -137,7 +137,7 @@ const Navbar = () => {
                 onMouseEnter={() => handleNavEnter('media')}
                 onMouseLeave={handleNavLeave}
               >
-                <Link to={mediaMenu[0].url}>Media Center</Link>
+                <Link>Media Center</Link>
                 <span>
                   <svg
                     width="16"
