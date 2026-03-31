@@ -83,6 +83,11 @@ const dashboardTableStyles = {
       fontSize: '14px',
       color: '#23324a',
     },
+    highlightOnHoverStyle: {
+      backgroundColor: '#f8fbff',
+      color: '#10233f',
+      transition: 'background-color 0.2s ease',
+    },
   },
   cells: {
     style: {

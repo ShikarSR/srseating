@@ -264,6 +264,16 @@
   border-radius: 0 !important;
 }
 
+.contact-dashboard__table-shell .rdt_TableCol,
+.contact-dashboard__table-shell .rdt_TableCell {
+  border-right: 1px solid #e6eaf2;
+}
+
+.contact-dashboard__table-shell .rdt_TableCol:last-child,
+.contact-dashboard__table-shell .rdt_TableCell:last-child {
+  border-right: 1px solid #e6eaf2;
+}
+
 .contact-dashboard__table-header {
   padding: 28px 28px 12px;
 }
