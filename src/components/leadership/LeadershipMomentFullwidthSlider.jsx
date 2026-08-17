@@ -144,7 +144,7 @@ const LeadershipMomentFullwidthSlider = ({ sectionClass }) => {
 
                                             <div className="item">
                                                 <h3 className="font_64">2022</h3>
-                                                <p className="font_18">SR15 and SR100 launched, form meets function, beautifully.</p>
+                                                <p className="font_18">SR15 and SR101 launched, form meets function, beautifully.</p>
                                             </div>
                                         </div>
                                     </SwiperSlide>
@@ -175,7 +175,7 @@ const LeadershipMomentFullwidthSlider = ({ sectionClass }) => {
 
                                             <div className="item">
                                                 <h3 className="font_64">2025</h3>
-                                                <p className="font_18">A solar-powered step forward. ABS molding process introduced. SR13 and SR200 take the spotlight.</p>
+                                                <p className="font_18">A solar-powered step forward. ABS molding process introduced. SR13 and SR102 take the spotlight.</p>
                                             </div>
                                         </div>
                                     </SwiperSlide>

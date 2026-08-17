@@ -16,7 +16,7 @@ import ProductList from "@/assets/jsonData/product/productlist/ProductDetailsDat
 import VideoTest from "@/components/Product/VideoTest";
 import DownloadPopup from "../../assets/jsonData/product/Popup";
 import {Helmet} from 'react-helmet'
-const CUSTOM_IDS = new Set([100, 200, 15, 14, 11]);
+const CUSTOM_IDS = new Set([101, 102, 15, 14, 11]);
 
 const ProductPage = () => {
   const { id } = useParams();

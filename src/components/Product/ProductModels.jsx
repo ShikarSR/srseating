@@ -57,7 +57,7 @@ const ProductModels = () => {
                         <div className="model_wrapper three_model d-flex">
                             <div className="left_wrapper">
                                     <div className="chair_info">
-                                            <h4>SR100</h4>
+                                            <h4>SR101</h4>
                                             <p>Where Design Meets Downtime.</p>
                                             <button>Discover More</button>
                                     </div>

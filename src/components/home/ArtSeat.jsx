@@ -34,10 +34,10 @@ const ArtSeat = () => {
           onMouseLeave={() => setHovered(false)}
         >
           <div className="model_wrapper one_model d-flex">
-            <Link to="/product-details/200" className="d-lg-flex d-block d-md-flex">
+            <Link to="/product-details/102" className="d-lg-flex d-block d-md-flex">
               <div className="left_wrapper">
                 <div className="chair_info">
-                  <h4>SR200</h4>
+                  <h4>SR102</h4>
                   <button>Discover More</button>
                 </div>
               </div>
@@ -77,7 +77,7 @@ const ArtSeat = () => {
                   >
                     <img
                       src="https://srseating.blr1.cdn.digitaloceanspaces.com/image/home/home-chair1.png"
-                      alt="SR200"
+                      alt="SR102"
                       style={{
                         height: 'auto',
                         display: 'block',

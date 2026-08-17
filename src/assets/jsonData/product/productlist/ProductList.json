@@ -1,4 +1,4 @@
-  [
+[
   {
     "id": 1,
     "tag": "SR01",
@@ -154,8 +154,8 @@
     "button_color": "#49597C"
   },
   {
-    "id": 100,
-    "tag": "SR100",
+    "id": 101,
+    "tag": "SR101",
     "product_desc": "Where Design Meets Downtime.",
     "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/0100.png",
     "button_txt": "Discover More",
@@ -165,8 +165,8 @@
     "button_color": "#D1B035"
   },
   {
-    "id": 200,
-    "tag": "SR200",
+    "id": 102,
+    "tag": "SR102",
     "product_desc": "Crafted for Impact.",
     "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/200.png",
     "button_txt": "Discover More",
@@ -176,8 +176,8 @@
     "button_color": "#a83442"
   },
   {
-    "id": 300,
-    "tag": "SR300",
+    "id": 103,
+    "tag": "SR103",
     "product_desc": "Crafted for Impact.",
     "proudct_img": "https://srseating.blr1.cdn.digitaloceanspaces.com/image/product/product-list/300.png",
     "button_txt": "Discover More",
